@@ -1,0 +1,54 @@
+name: PPVGO full backup
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 3 * * 0'
+permissions:
+  contents: write
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download and validate upstream files
+        shell: bash
+        env:
+          SCRIPT_URL: ${{ vars.PPVGO_SCRIPT_URL }}
+        run: |
+          set -euo pipefail
+          mkdir -p backup
+          if [ -z "${SCRIPT_URL}" ]; then
+            echo "::error::Set repository variable PPVGO_SCRIPT_URL to the direct URL of the original Bash management script."
+            exit 1
+          fi
+          curl --fail --location --retry 3 --connect-timeout 15 --max-time 120 --output backup/ppvgo-manager.sh "$SCRIPT_URL"
+          head -n 1 backup/ppvgo-manager.sh | grep -q '^#!' || { echo "::error::Management script is not a shell script"; exit 1; }
+          bash -n backup/ppvgo-manager.sh
+          curl --fail --location --retry 3 --connect-timeout 15 --max-time 180 --output backup/ppv_amd https://ppv.168.us.kg/x/ru/ppv_amd
+          curl --fail --location --retry 3 --connect-timeout 15 --max-time 180 --output backup/ppv_arm https://ppv.168.us.kg/x/ru/ppv_arm
+          test "$(stat -c %s backup/ppv_amd)" -gt 10000
+          test "$(stat -c %s backup/ppv_arm)" -gt 10000
+          file backup/ppv_amd backup/ppv_arm | tee backup/file-types.txt
+          file -b backup/ppv_amd | grep -qi 'ELF.*x86-64' || { echo "::error::AMD64 file is not an x86-64 ELF"; exit 1; }
+          file -b backup/ppv_arm | grep -qi 'ELF.*aarch64' || { echo "::error::ARM64 file is not an AArch64 ELF"; exit 1; }
+          (cd backup && sha256sum ppvgo-manager.sh ppv_amd ppv_arm > SHA256SUMS)
+          date -u +'%Y-%m-%dT%H:%M:%SZ' > backup/backup-time-utc.txt
+          zip -j PPVGO-full-backup.zip backup/*
+          sha256sum PPVGO-full-backup.zip > PPVGO-full-backup.zip.sha256
+      - name: Upload run artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: PPVGO-full-backup
+          path: |
+            PPVGO-full-backup.zip
+            PPVGO-full-backup.zip.sha256
+          retention-days: 90
+      - name: Publish immutable dated backup release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          tag="backup-$(date -u +%Y%m%d-%H%M%S)-${GITHUB_RUN_ID}"
+          gh release create "$tag" PPVGO-full-backup.zip PPVGO-full-backup.zip.sha256 --title "PPVGO backup $(date -u +%F)" --notes "Validated management script, AMD64 and ARM64 binaries. SHA256SUMS is inside ZIP." --target "$GITHUB_SHA"
