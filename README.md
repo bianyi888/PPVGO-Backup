@@ -12,10 +12,10 @@ curl -fsSL https://raw.githubusercontent.com/bianyi888/PPVGO-Backup/main/install
 
 ## 安装源说明
 
-- 安装器从本仓库的 [最新 Release](https://github.com/bianyi888/PPVGO-Backup/releases/latest) 下载 `PPVGO-full-backup.zip` 和 SHA256 校验文件。
-- 校验 ZIP、管理脚本和 AMD64 / ARM64 二进制文件后，启动管理菜单。
-- 安装器尝试将管理脚本中的原始二进制下载地址改为本次已校验的本地文件路径；如果原始脚本地址格式发生变化，安装器会拒绝继续执行。
-- 此改动只作用于本次启动的临时管理脚本；不保证原版管理脚本未来的自更新或独立运行流程也使用本仓库。
+- 独立管理脚本永久保存于 [`ppvgo-manager-independent.sh`](https://github.com/bianyi888/PPVGO-Backup/blob/main/ppvgo-manager-independent.sh)，首次运行时会安装为 `/usr/local/bin/ppvgo-manager`，以后可执行 `ppvgo-manager` 进入菜单。\n- 安装和更新从本仓库的 [最新 Release](https://github.com/bianyi888/PPVGO-Backup/releases/latest) 下载 `PPVGO-full-backup.zip` 和 SHA256 校验文件。
+- 校验 ZIP 与 AMD64 / ARM64 二进制文件后，按 CPU 架构直接复制对应文件。
+- 不再动态修改原作者管理脚本，也不需要原作者的二进制下载域名。
+- 安装、更新、启动、停止、重启、状态、日志和卸载菜单由仓库中的独立管理脚本提供；运行时的外部 API 和 EMBED_ORIGIN 行为由 PPV 二进制程序决定，未作修改。
 
 ## 备份计划
 
