@@ -1,0 +1,25 @@
+name: Validate independent PPVGO manager
+on:
+  push:
+    paths:
+      - 'install.sh'
+      - 'ppvgo-manager-independent.sh'
+      - '.github/workflows/validate-independent.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Validate shell syntax and installation source
+        shell: bash
+        run: |
+          set -euo pipefail
+          bash -n install.sh
+          bash -n ppvgo-manager-independent.sh
+          ! grep -E 'ppv\.168\.us\.kg|ppvgo\.168\.us\.kg' install.sh ppvgo-manager-independent.sh
+          grep -Fq 'releases/latest/download' ppvgo-manager-independent.sh
+          grep -Fq 'sha256sum -c SHA256SUMS' ppvgo-manager-independent.sh
+          echo "Independent manager syntax and source checks passed"
