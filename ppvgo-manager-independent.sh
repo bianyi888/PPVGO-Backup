@@ -87,6 +87,32 @@ uninstall_app() {
   rm -rf "$BASE"
   echo "已卸载"
 }
+show_links() {
+  local port ip base
+  port="$DEFAULT_PORT"
+  if [[ -f "$BASE/.env" ]]; then
+    port="$(grep -m1 '^PORT=' "$BASE/.env" | cut -d= -f2- || true)"
+    port="${port:-$DEFAULT_PORT}"
+  fi
+  ip=""
+  if command -v curl >/dev/null 2>&1; then
+    ip="$(curl -4fsS --connect-timeout 2 --max-time 4 https://api.ipify.org 2>/dev/null || true)"
+  fi
+  if [[ ! "$ip" =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+    ip="$(hostname -I 2>/dev/null | awk '{print $1}' || true)"
+  fi
+  ip="${ip:-127.0.0.1}"
+  base="http://$ip:$port"
+  echo "========================================"
+  echo " PPVGO 订阅链接（当前端口：$port）"
+  echo "========================================"
+  echo "代理 M3U：   $base/playlist.m3u"
+  echo "直连 M3U：   $base/playlist.m3u?proxy=0"
+  echo "健康检查：   $base/healthz"
+  echo "========================================"
+  echo "注意：如显示内网 IP，请替换为实际公网 IP 或域名。"
+  echo "订阅地址可访问不代表所有频道均能播放。"
+}
 menu() {
   echo "========================================"
   echo " PPVGO 独立管理脚本（GitHub 备份源）"
@@ -98,6 +124,7 @@ menu() {
   echo "5. 查看状态"
   echo "6. 查看日志"
   echo "7. 卸载"
+  echo "8. 查看订阅链接"
   echo "0. 退出"
   read -r -p "请选择: " choice
   case "$choice" in
@@ -108,6 +135,7 @@ menu() {
     5) systemctl status ppv --no-pager ;;
     6) journalctl -u ppv -f ;;
     7) uninstall_app ;;
+    8) show_links ;;
     0) exit 0 ;;
     *) echo "无效选项" >&2; return 1 ;;
   esac
