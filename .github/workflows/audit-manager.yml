@@ -18,10 +18,10 @@ jobs:
           set -euo pipefail
           mkdir -p audit
           base="https://github.com/${GITHUB_REPOSITORY}/releases/latest/download"
-          curl -fL --retry 3 -o audit/backup.zip "$base/PPVGO-full-backup.zip"
-          curl -fL --retry 3 -o audit/backup.zip.sha256 "$base/PPVGO-full-backup.zip.sha256"
-          (cd audit && sha256sum -c backup.zip.sha256)
-          unzip -p audit/backup.zip ppvgo-manager.sh > audit/ppvgo-manager.sh
+          curl -fL --retry 3 -o audit/PPVGO-full-backup.zip "$base/PPVGO-full-backup.zip"
+          curl -fL --retry 3 -o audit/PPVGO-full-backup.zip.sha256 "$base/PPVGO-full-backup.zip.sha256"
+          (cd audit && sha256sum -c PPVGO-full-backup.zip.sha256)
+          unzip -p audit/PPVGO-full-backup.zip ppvgo-manager.sh > audit/ppvgo-manager.sh
           bash -n audit/ppvgo-manager.sh
           {
             echo 'PPVGO manager source audit'
