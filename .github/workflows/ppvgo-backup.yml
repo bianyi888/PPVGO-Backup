@@ -14,14 +14,10 @@ jobs:
       - name: Download and validate upstream files
         shell: bash
         env:
-          SCRIPT_URL: ${{ vars.PPVGO_SCRIPT_URL }}
+          SCRIPT_URL: https://ppvgo.168.us.kg
         run: |
           set -euo pipefail
           mkdir -p backup
-          if [ -z "${SCRIPT_URL}" ]; then
-            echo "::error::Set repository variable PPVGO_SCRIPT_URL to the direct URL of the original Bash management script."
-            exit 1
-          fi
           curl --fail --location --retry 3 --connect-timeout 15 --max-time 120 --output backup/ppvgo-manager.sh "$SCRIPT_URL"
           head -n 1 backup/ppvgo-manager.sh | grep -q '^#!' || { echo "::error::Management script is not a shell script"; exit 1; }
           bash -n backup/ppvgo-manager.sh
