@@ -1,0 +1,46 @@
+name: Audit PPVGO upstream download references
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/audit-manager.yml'
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download latest release and inspect without executing
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p audit
+          base="https://github.com/${GITHUB_REPOSITORY}/releases/latest/download"
+          curl -fL --retry 3 -o audit/backup.zip "$base/PPVGO-full-backup.zip"
+          curl -fL --retry 3 -o audit/backup.zip.sha256 "$base/PPVGO-full-backup.zip.sha256"
+          (cd audit && sha256sum -c backup.zip.sha256)
+          unzip -p audit/backup.zip ppvgo-manager.sh > audit/ppvgo-manager.sh
+          bash -n audit/ppvgo-manager.sh
+          {
+            echo 'PPVGO manager source audit'
+            echo '=========================='
+            echo 'Static text inspection only. Script was not executed.'
+            echo
+            echo 'Download / install / update references:'
+            grep -nEi 'https?://|curl|wget|ppv_amd|ppv_arm|install|update|upgrade' audit/ppvgo-manager.sh || true
+          } > audit/report.txt
+          echo '### PPVGO script audit' >> "$GITHUB_STEP_SUMMARY"
+          echo 'Static inspection complete. Download the audit-report artifact to review the full source and report.' >> "$GITHUB_STEP_SUMMARY"
+          echo '#### Download-related lines' >> "$GITHUB_STEP_SUMMARY"
+          echo '\`\`\`text' >> "$GITHUB_STEP_SUMMARY"
+          grep -nEi 'https?://|curl|wget|ppv_amd|ppv_arm' audit/ppvgo-manager.sh | head -n 80 >> "$GITHUB_STEP_SUMMARY" || true
+          echo '\`\`\`' >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ppvgo-manager-audit
+          path: |
+            audit/report.txt
+            audit/ppvgo-manager.sh
+          retention-days: 30
