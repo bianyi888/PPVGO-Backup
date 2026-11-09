@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1794170370,
+  "timestamp": 1794183480,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.03924393653869629,
+  "performance": 0.040292978286743164,
   "streams": [
     {
       "category": "American Football",
@@ -36,210 +36,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "51"
-        },
-        {
-          "id": 31499,
-          "name": "Dallas Cowboys at Indianapolis Colts",
-          "tag": "NFL",
-          "source_tag": "HD | Fox",
-          "poster": "https://static.ppvservices.st/assets/thumb/d3cf48e726f722370ff2057d075ac1aa-thumbnail.jpg",
-          "blurhash": "L65FOzbPIUfla#azj[j@00W9%Moa",
-          "colors": [
-            "#003594",
-            "#002c5f"
-          ],
-          "uri_name": "nfl/2026-11-08/dal-ind",
-          "starts_at": 1794160800,
-          "ends_at": 1794175200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1031499,
-              "name": "Dallas Cowboys at Indianapolis Colts",
-              "tag": "NFL",
-              "uri_name": "nfl/2026-11-08/dal-ind_540p",
-              "source_tag": "SD | Fox",
-              "locale": "en"
-            }
-          ],
-          "viewers": "2271"
-        },
-        {
-          "id": 31501,
-          "name": "New York Jets at Kansas City Chiefs",
-          "tag": "NFL",
-          "source_tag": "HD | CBS",
-          "poster": "https://static.ppvservices.st/assets/thumb/504cb33f53eb6e49f24324ec76555d8f-thumbnail.jpg",
-          "blurhash": "L8E1my3O+H-WaeWBfQj[00|2ghn4",
-          "colors": [
-            "#125740",
-            "#e31837"
-          ],
-          "uri_name": "nfl/2026-11-08/nyj-kc",
-          "starts_at": 1794160800,
-          "ends_at": 1794175200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1031501,
-              "name": "New York Jets at Kansas City Chiefs",
-              "tag": "NFL",
-              "uri_name": "nfl/2026-11-08/nyj-kc_540p",
-              "source_tag": "SD | CBS",
-              "locale": "en"
-            }
-          ],
-          "viewers": "2025"
-        },
-        {
-          "id": 31502,
-          "name": "Detroit Lions at Miami Dolphins",
-          "tag": "NFL",
-          "source_tag": "HD | CBS",
-          "poster": "https://static.ppvservices.st/assets/thumb/f57af0a151528f6100eb37c293e704be-thumbnail.jpg",
-          "blurhash": "L66JnFDyIV$_f,azayjZ00-f%MI@",
-          "colors": [
-            "#0076b6",
-            "#008e97"
-          ],
-          "uri_name": "nfl/2026-11-08/det-mia",
-          "starts_at": 1794160800,
-          "ends_at": 1794175200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1031502,
-              "name": "Detroit Lions at Miami Dolphins",
-              "tag": "NFL",
-              "uri_name": "nfl/2026-11-08/det-mia_540p",
-              "source_tag": "SD | CBS",
-              "locale": "en"
-            }
-          ],
-          "viewers": "2411"
-        },
-        {
-          "id": 31504,
-          "name": "Cleveland Browns at New Orleans Saints",
-          "tag": "NFL",
-          "source_tag": "HD | CBS",
-          "poster": "https://static.ppvservices.st/assets/thumb/ad09341752bcfdf81c6bd49b4349d6e3-thumbnail.jpg",
-          "blurhash": "LHJPD7_RjFNGn$jFj[f+01GDkWo}",
-          "colors": [
-            "#ff3c00",
-            "#d3bc8d"
-          ],
-          "uri_name": "nfl/2026-11-08/cle-no",
-          "starts_at": 1794160800,
-          "ends_at": 1794175200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1031504,
-              "name": "Cleveland Browns at New Orleans Saints",
-              "tag": "NFL",
-              "uri_name": "nfl/2026-11-08/cle-no_540p",
-              "source_tag": "SD | CBS",
-              "locale": "en"
-            }
-          ],
-          "viewers": "2370"
-        },
-        {
-          "id": 31505,
-          "name": "New York Giants at Philadelphia Eagles",
-          "tag": "NFL",
-          "source_tag": "HD | Fox",
-          "poster": "https://static.ppvservices.st/assets/thumb/4e76a975a58c70ddcb68d7af552cf503-thumbnail.jpg",
-          "blurhash": "L88}AG}^IU4.ofayofj[0056%M?H",
-          "colors": [
-            "#0b2265",
-            "#004c54"
-          ],
-          "uri_name": "nfl/2026-11-08/nyg-phi",
-          "starts_at": 1794160800,
-          "ends_at": 1794175200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1031505,
-              "name": "New York Giants at Philadelphia Eagles",
-              "tag": "NFL",
-              "uri_name": "nfl/2026-11-08/nyg-phi_540p",
-              "source_tag": "SD | Fox",
-              "locale": "en"
-            }
-          ],
-          "viewers": "3934"
-        },
-        {
-          "id": 31506,
-          "name": "Los Angeles Rams at Washington Commanders",
-          "tag": "NFL",
-          "source_tag": "HD | Fox",
-          "poster": "https://static.ppvservices.st/assets/thumb/105d2e2884b76ffb6ca3043867539cd3-thumbnail.jpg",
-          "blurhash": "LJ9ZvXX=RlR4oLfkayay0KR4t7xv",
-          "colors": [
-            "#003594",
-            "#5a1414"
-          ],
-          "uri_name": "nfl/2026-11-08/lar-wsh",
-          "starts_at": 1794160800,
-          "ends_at": 1794175200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1031506,
-              "name": "Los Angeles Rams at Washington Commanders",
-              "tag": "NFL",
-              "uri_name": "nfl/2026-11-08/lar-wsh_540p",
-              "source_tag": "SD | Fox",
-              "locale": "en"
-            }
-          ],
-          "viewers": "2529"
-        },
-        {
-          "id": 31507,
-          "name": "Denver Broncos at Carolina Panthers",
-          "tag": "NFL",
-          "source_tag": "HD | CBS",
-          "poster": "https://static.ppvservices.st/assets/thumb/7b8af9399a7370376916422691054023-thumbnail.jpg",
-          "blurhash": "LjEUTP{^wNNbjtjsfQfR9sJCX7og",
-          "colors": [
-            "#fb4f14",
-            "#0085ca"
-          ],
-          "uri_name": "nfl/2026-11-08/den-car",
-          "starts_at": 1794160800,
-          "ends_at": 1794175200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1031507,
-              "name": "Denver Broncos at Carolina Panthers",
-              "tag": "NFL",
-              "uri_name": "nfl/2026-11-08/den-car_540p",
-              "source_tag": "SD | CBS",
-              "locale": "en"
-            }
-          ],
-          "viewers": "2614"
+          "viewers": "29"
         },
         {
           "id": 31950,
@@ -268,7 +65,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "7417"
+          "viewers": "4161"
         },
         {
           "id": 31508,
@@ -297,7 +94,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "11"
+          "viewers": "934"
         },
         {
           "id": 31509,
@@ -326,7 +123,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "12"
+          "viewers": "4072"
         },
         {
           "id": 31510,
@@ -355,7 +152,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "19"
+          "viewers": "1982"
         },
         {
           "id": 31511,
@@ -384,7 +181,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "3132"
         },
         {
           "id": 31512,
@@ -413,7 +210,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "37"
         },
         {
           "id": 31513,
@@ -442,7 +239,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         }
       ]
     },
@@ -488,64 +285,6 @@
       "always_live": false,
       "streams": [
         {
-          "id": 31901,
-          "name": "Arkansas Razorbacks at Virginia Cavaliers",
-          "tag": "College Basketball",
-          "source_tag": "HD | ESPN",
-          "poster": "https://static.ppvservices.st/assets/thumb/415cf247d83b02ec4965bec042857e13-thumbnail.jpg",
-          "blurhash": "LBAkzY{frsxaoff5jtj[0{S~bbNG",
-          "colors": [
-            "#a32136",
-            "#232d4b"
-          ],
-          "uri_name": "cbb/2026-11-08/ark-uva",
-          "starts_at": 1794160800,
-          "ends_at": 1794171600,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1031901,
-              "name": "Arkansas Razorbacks at Virginia Cavaliers",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-08/ark-uva_540p",
-              "source_tag": "SD | ESPN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "23"
-        },
-        {
-          "id": 31888,
-          "name": "Philadelphia 76ers vs. Chicago Bulls",
-          "tag": "NBA",
-          "source_tag": "HD | NBA League Pass (Home)",
-          "poster": "https://static.ppvservices.st/assets/thumb/9bfd3466d996db0f9efdf518f0619242-thumbnail.jpg",
-          "blurhash": "LADaQO3sz=VENaNHkCt70J+ab^%M",
-          "colors": [
-            "#1d428a",
-            "#ce1141"
-          ],
-          "uri_name": "nba/2026-11-08/phi-chi",
-          "starts_at": 1794169800,
-          "ends_at": 1794180600,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1031888,
-              "name": "Philadelphia 76ers vs. Chicago Bulls",
-              "tag": "NBA",
-              "uri_name": "nba/2026-11-08/phi-chi_540p",
-              "source_tag": "SD | NBA League Pass (Home)",
-              "locale": "en"
-            }
-          ],
-          "viewers": "1177"
-        },
-        {
           "id": 31889,
           "name": "Los Angeles Lakers vs. Detroit Pistons",
           "tag": "NBA",
@@ -588,7 +327,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "4539"
         },
         {
           "id": 31891,
@@ -633,7 +372,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1376"
         },
         {
           "id": 31893,
@@ -678,7 +417,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "13"
         },
         {
           "id": 31895,
@@ -707,7 +446,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "7"
         },
         {
           "id": 31902,
@@ -781,7 +520,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 31898,
@@ -884,7 +623,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 31928,
@@ -987,7 +726,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "1"
         },
         {
           "id": 31942,
@@ -1045,7 +784,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         },
         {
           "id": 31944,
@@ -1396,7 +1135,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "19"
+          "viewers": "9"
         },
         {
           "id": 27496,
@@ -1435,151 +1174,6 @@
       "always_live": false,
       "streams": [
         {
-          "id": 31559,
-          "name": "TSG Hoffenheim vs. Schalke 04",
-          "tag": "Bundesliga",
-          "source_tag": "HD | Fandango",
-          "poster": "https://static.ppvservices.st/assets/thumb/d9bf8b17068878a14e2ae7a2d4aad1dd-thumbnail.jpg",
-          "blurhash": "L86b+j?w9H9GR,WBfQof00D$?Z-;",
-          "colors": [
-            "#1961b5",
-            "#004d9d"
-          ],
-          "uri_name": "bundesliga/2026-11-08/tsg-s04",
-          "starts_at": 1794162600,
-          "ends_at": 1794171600,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1031559,
-              "name": "TSG Hoffenheim vs. Schalke 04",
-              "tag": "Bundesliga",
-              "uri_name": "bundesliga/2026-11-08/tsg-s04_540p",
-              "source_tag": "SD | Fandango",
-              "locale": "en"
-            }
-          ],
-          "viewers": "139"
-        },
-        {
-          "id": 31676,
-          "name": "FC Utrecht vs. NEC Nijmegen",
-          "tag": "Eredivisie",
-          "source_tag": "HD | ESPN",
-          "poster": "https://static.ppvservices.st/assets/thumb/4ebd4ce765357290d61c4f96b0f74414-thumbnail.jpg",
-          "blurhash": "L1G$oD_N4TSv%~?^ozHr000d_NrF",
-          "colors": [
-            "#c1121f",
-            "#c8102e"
-          ],
-          "uri_name": "eredivisie/2026-11-08/utr-nec",
-          "starts_at": 1794164400,
-          "ends_at": 1794173400,
-          "always_live": 0,
-          "locale": "nl",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1031676,
-              "name": "FC Utrecht vs. NEC Nijmegen",
-              "tag": "Eredivisie",
-              "uri_name": "eredivisie/2026-11-08/utr-nec_540p",
-              "source_tag": "SD | ESPN",
-              "locale": "nl"
-            }
-          ],
-          "viewers": "67"
-        },
-        {
-          "id": 31579,
-          "name": "Fiorentina vs. Juventus",
-          "tag": "Serie A",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/4de2a7afc03bb3a8784a3733c19c4968-thumbnail.jpg",
-          "blurhash": "L79GqD+o8{S}xuoLf5WC00Ok?cr=",
-          "colors": [
-            "#4b0082",
-            "#000000"
-          ],
-          "uri_name": "seriea/2026-11-08/fio-juv",
-          "starts_at": 1794167100,
-          "ends_at": 1794176100,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1031579,
-              "name": "Fiorentina vs. Juventus",
-              "tag": "Serie A",
-              "uri_name": "seriea/2026-11-08/fio-juv_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "755"
-        },
-        {
-          "id": 31589,
-          "name": "Lens vs. Marseille",
-          "tag": "Ligue 1",
-          "source_tag": "HD | Ligue 1+",
-          "poster": "https://static.ppvservices.st/assets/thumb/4e89380d9998a0fcc322901744f78b92-thumbnail.jpg",
-          "blurhash": "LVEA?3{vw3XAkCj[juf60eK7XRWA",
-          "colors": [
-            "#e30613",
-            "#0033a0"
-          ],
-          "uri_name": "ligue1/2026-11-08/rcl-olm",
-          "starts_at": 1794167100,
-          "ends_at": 1794176100,
-          "always_live": 0,
-          "locale": "fr",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1031589,
-              "name": "Lens vs. Marseille",
-              "tag": "Ligue 1",
-              "uri_name": "ligue1/2026-11-08/rcl-olm_540p",
-              "source_tag": "SD | Ligue 1+",
-              "locale": "fr"
-            }
-          ],
-          "viewers": "1076"
-        },
-        {
-          "id": 31550,
-          "name": "Atlético Madrid vs. Barcelona",
-          "tag": "LaLiga",
-          "source_tag": "HD | ESPN+",
-          "poster": "https://static.ppvservices.st/assets/thumb/fa41232a70247e109bf458ad66fedac1-thumbnail.jpg",
-          "blurhash": "L8F{n}}ZROW8t6R.ays,00I-x]f.",
-          "colors": [
-            "#ce3524",
-            "#a50044"
-          ],
-          "uri_name": "laliga/2026-11-08/atm-bar",
-          "starts_at": 1794168000,
-          "ends_at": 1794177000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1031550,
-              "name": "Atlético Madrid vs. Barcelona",
-              "tag": "LaLiga",
-              "uri_name": "laliga/2026-11-08/atm-bar_540p",
-              "source_tag": "SD | ESPN+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "36290"
-        },
-        {
           "id": 31666,
           "name": "Querétaro vs. Puebla",
           "tag": "Liga MX",
@@ -1606,7 +1200,7 @@
               "locale": "es-us"
             }
           ],
-          "viewers": "0"
+          "viewers": "47"
         },
         {
           "id": 31667,
@@ -1635,7 +1229,7 @@
               "locale": "es-us"
             }
           ],
-          "viewers": "2"
+          "viewers": "3"
         }
       ]
     },
@@ -1671,7 +1265,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "26"
+          "viewers": "22"
         }
       ]
     },
@@ -1710,64 +1304,6 @@
           "viewers": "5"
         },
         {
-          "id": 31920,
-          "name": "Florida Panthers vs. Boston Bruins",
-          "tag": "NHL",
-          "source_tag": "HD | Scripps Sports",
-          "poster": "https://static.ppvservices.st/assets/thumb/053f68565537508adc57c4aa3b195856-thumbnail.jpg",
-          "blurhash": "LLEmwc{hv~%1oLjtfQfQ0fXlXSEM",
-          "colors": [
-            "#e51937",
-            "#231f20"
-          ],
-          "uri_name": "nhl/2026-11-08/fla-bos",
-          "starts_at": 1794160800,
-          "ends_at": 1794171600,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Ice Hockey",
-          "substreams": [
-            {
-              "id": 1031920,
-              "name": "Florida Panthers vs. Boston Bruins",
-              "tag": "NHL",
-              "uri_name": "nhl/2026-11-08/fla-bos_540p",
-              "source_tag": "SD | Scripps Sports",
-              "locale": "en"
-            }
-          ],
-          "viewers": "430"
-        },
-        {
-          "id": 31921,
-          "name": "Vegas Golden Knights vs. Buffalo Sabres",
-          "tag": "NHL",
-          "source_tag": "HD | MSGB",
-          "poster": "https://static.ppvservices.st/assets/thumb/4360e05c51a1dc7c73ba63b98e18e49f-thumbnail.jpg",
-          "blurhash": "L47BWemiD+%i%LRjayt700tp-:IT",
-          "colors": [
-            "#344043",
-            "#00468b"
-          ],
-          "uri_name": "nhl/2026-11-08/vgk-buf",
-          "starts_at": 1794169800,
-          "ends_at": 1794180600,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Ice Hockey",
-          "substreams": [
-            {
-              "id": 1031921,
-              "name": "Vegas Golden Knights vs. Buffalo Sabres",
-              "tag": "NHL",
-              "uri_name": "nhl/2026-11-08/vgk-buf_540p",
-              "source_tag": "SD | MSGB",
-              "locale": "en"
-            }
-          ],
-          "viewers": "61"
-        },
-        {
           "id": 31922,
           "name": "Tampa Bay Lightning vs. Winnipeg Jets",
           "tag": "NHL",
@@ -1794,7 +1330,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "320"
         },
         {
           "id": 31923,
@@ -1823,7 +1359,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "626"
         },
         {
           "id": 31924,
@@ -1852,7 +1388,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "85"
         },
         {
           "id": 31925,
@@ -1881,7 +1417,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         }
       ]
     },
@@ -1917,7 +1453,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "5"
         }
       ]
     },
@@ -1953,7 +1489,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "14"
+          "viewers": "16"
         },
         {
           "id": 3663,
@@ -1982,7 +1518,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "1"
         },
         {
           "id": 8008,
@@ -2040,7 +1576,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "3"
         },
         {
           "id": 16623,
@@ -2069,7 +1605,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "9"
+          "viewers": "8"
         },
         {
           "id": 17270,
@@ -2089,7 +1625,7 @@
           "locale": "en",
           "category_name": "24/7 Streams",
           "substreams": [],
-          "viewers": "4"
+          "viewers": "2"
         },
         {
           "id": 30527,
@@ -2118,7 +1654,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "0"
         },
         {
           "id": 31729,
@@ -2147,7 +1683,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "7"
+          "viewers": "4"
         },
         {
           "id": 31730,
@@ -2176,14 +1712,14 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "2"
         }
       ]
     }
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-08T20:39:26.332669+00:00",
+    "captured_utc": "2026-11-09T00:17:58.610971+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
