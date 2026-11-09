@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1794207430,
+  "timestamp": 1794244000,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.05101203918457031,
+  "performance": 0.0527958869934082,
   "streams": [
     {
       "category": "American Football",
@@ -36,7 +36,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "24"
+          "viewers": "25"
         },
         {
           "id": 31513,
@@ -123,7 +123,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 31979,
@@ -1244,7 +1244,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         }
       ]
     },
@@ -1253,35 +1253,6 @@
       "id": 37,
       "always_live": false,
       "streams": [
-        {
-          "id": 31903,
-          "name": "USC Trojans at Wichita State Shockers",
-          "tag": "College Basketball",
-          "source_tag": "HD | CW",
-          "poster": "https://static.ppvservices.st/assets/thumb/830c2d6ab676c549af3664988b7fda1c-thumbnail.jpg",
-          "blurhash": "L6HAL20B%qO?xYWCbHod02?;N3=r",
-          "colors": [
-            "#9d2235",
-            "#ffcd00"
-          ],
-          "uri_name": "cbb/2026-11-08/usc-wich",
-          "starts_at": 1794196800,
-          "ends_at": 1794207600,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1031903,
-              "name": "USC Trojans at Wichita State Shockers",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-08/usc-wich_540p",
-              "source_tag": "SD | CW",
-              "locale": "en"
-            }
-          ],
-          "viewers": "66"
-        },
         {
           "id": 31926,
           "name": "Los Angeles Lakers vs. Atlanta Hawks",
@@ -1325,7 +1296,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "3"
         },
         {
           "id": 31928,
@@ -1428,7 +1399,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 31942,
@@ -1457,7 +1428,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 31943,
@@ -1930,7 +1901,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 31985,
@@ -2062,7 +2033,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 31991,
@@ -2320,7 +2291,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "60"
+          "viewers": "25"
         },
         {
           "id": 27496,
@@ -2349,7 +2320,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "6"
         }
       ]
     },
@@ -2358,6 +2329,35 @@
       "id": 34,
       "always_live": false,
       "streams": [
+        {
+          "id": 32021,
+          "name": "Plymouth Parkway vs. Berkhamsted",
+          "tag": "English FA Cup",
+          "source_tag": "HD | TNT Sports 1",
+          "poster": "https://static.ppvservices.st/assets/thumb/759aab5da2f4a6a87ba2a42bebc3b19c-thumbnail.jpg",
+          "blurhash": "LVEwhg|TwijZj[fQjtjs0dN|W,Si",
+          "colors": [
+            "#ec2021",
+            "#1f20ec"
+          ],
+          "uri_name": "english-fa-cup/2026-11-09/ply-ber",
+          "starts_at": 1794252600,
+          "ends_at": 1794261600,
+          "always_live": 0,
+          "locale": "en-gb",
+          "category_name": "Football",
+          "substreams": [
+            {
+              "id": 1032021,
+              "name": "Plymouth Parkway vs. Berkhamsted",
+              "tag": "English FA Cup",
+              "uri_name": "english-fa-cup/2026-11-09/ply-ber_540p",
+              "source_tag": "SD | TNT Sports 1",
+              "locale": "en-gb"
+            }
+          ],
+          "viewers": "2"
+        },
         {
           "id": 32015,
           "name": "Querétaro vs. Monterrey",
@@ -2457,7 +2457,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "5"
         },
         {
           "id": 31951,
@@ -2580,7 +2580,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "4"
         }
       ]
     },
@@ -2768,7 +2768,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "23"
+          "viewers": "14"
         },
         {
           "id": 3663,
@@ -2797,7 +2797,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "2"
         },
         {
           "id": 8008,
@@ -2826,7 +2826,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "23"
+          "viewers": "27"
         },
         {
           "id": 5191,
@@ -2855,7 +2855,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "1"
         },
         {
           "id": 16623,
@@ -2884,7 +2884,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "6"
+          "viewers": "10"
         },
         {
           "id": 17270,
@@ -2933,7 +2933,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "1"
         },
         {
           "id": 31729,
@@ -2962,7 +2962,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "5"
         },
         {
           "id": 31730,
@@ -2991,14 +2991,14 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "5"
         }
       ]
     }
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-09T06:57:09.088898+00:00",
+    "captured_utc": "2026-11-09T17:06:32.914678+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
