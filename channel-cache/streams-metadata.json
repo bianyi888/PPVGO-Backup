@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1794297190,
+  "timestamp": 1794326160,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.04900312423706055,
+  "performance": 0.04910993576049805,
   "streams": [
     {
       "category": "American Football",
@@ -36,7 +36,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "26"
+          "viewers": "29"
         },
         {
           "id": 31952,
@@ -287,7 +287,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 31992,
@@ -1215,7 +1215,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         }
       ]
     },
@@ -2375,7 +2375,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "64"
+          "viewers": "19"
         },
         {
           "id": 27496,
@@ -2404,7 +2404,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "6"
         }
       ]
     },
@@ -2413,6 +2413,35 @@
       "id": 34,
       "always_live": false,
       "streams": [
+        {
+          "id": 32052,
+          "name": "Mansfield Town vs. Chesterfield",
+          "tag": "EFL Trophy",
+          "source_tag": "HD | Sky Sports",
+          "poster": "https://static.ppvservices.st/assets/thumb/9581b952c41386c5291c3250d626f0ee-thumbnail.jpg",
+          "blurhash": "LcFE_w~0xUs.offQjsj@4.NMW?NK",
+          "colors": [
+            "#fecd33",
+            "#000098"
+          ],
+          "uri_name": "efl-trophy/2026-11-10/mnf-ches",
+          "starts_at": 1794337200,
+          "ends_at": 1794346200,
+          "always_live": 0,
+          "locale": "en-gb",
+          "category_name": "Football",
+          "substreams": [
+            {
+              "id": 1032052,
+              "name": "Mansfield Town vs. Chesterfield",
+              "tag": "EFL Trophy",
+              "uri_name": "efl-trophy/2026-11-10/mnf-ches_540p",
+              "source_tag": "SD | Sky Sports",
+              "locale": "en-gb"
+            }
+          ],
+          "viewers": "0"
+        },
         {
           "id": 32015,
           "name": "Querétaro vs. Monterrey",
@@ -2476,7 +2505,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "7"
+          "viewers": "3"
         }
       ]
     },
@@ -2512,7 +2541,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "1"
         },
         {
           "id": 32022,
@@ -2751,7 +2780,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "6"
+          "viewers": "4"
         }
       ]
     },
@@ -2939,7 +2968,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "25"
+          "viewers": "11"
         },
         {
           "id": 3663,
@@ -2968,7 +2997,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         },
         {
           "id": 8008,
@@ -2997,7 +3026,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "32"
+          "viewers": "20"
         },
         {
           "id": 5191,
@@ -3055,7 +3084,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "8"
+          "viewers": "5"
         },
         {
           "id": 17270,
@@ -3075,7 +3104,7 @@
           "locale": "en",
           "category_name": "24/7 Streams",
           "substreams": [],
-          "viewers": "5"
+          "viewers": "3"
         },
         {
           "id": 30527,
@@ -3133,7 +3162,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "8"
         },
         {
           "id": 31730,
@@ -3162,14 +3191,14 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "6"
         }
       ]
     }
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-10T07:53:02.014017+00:00",
+    "captured_utc": "2026-11-10T15:55:54.848815+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
