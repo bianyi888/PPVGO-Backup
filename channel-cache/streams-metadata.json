@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1794326160,
+  "timestamp": 1794346550,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.04910993576049805,
+  "performance": 0.061630964279174805,
   "streams": [
     {
       "category": "American Football",
@@ -36,7 +36,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "29"
+          "viewers": "61"
         },
         {
           "id": 31952,
@@ -1215,7 +1215,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         }
       ]
     },
@@ -1251,7 +1251,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 31980,
@@ -1354,7 +1354,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 31962,
@@ -1383,7 +1383,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "4"
         },
         {
           "id": 31985,
@@ -1412,7 +1412,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 31988,
@@ -1705,7 +1705,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32044,
@@ -1940,7 +1940,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32035,
@@ -2278,7 +2278,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32051,
@@ -2375,7 +2375,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "19"
+          "viewers": "14"
         },
         {
           "id": 27496,
@@ -2404,7 +2404,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "6"
+          "viewers": "0"
         }
       ]
     },
@@ -2414,28 +2414,28 @@
       "always_live": false,
       "streams": [
         {
-          "id": 32052,
-          "name": "Mansfield Town vs. Chesterfield",
+          "id": 32053,
+          "name": "Barnsley vs. Oldham Athletic",
           "tag": "EFL Trophy",
           "source_tag": "HD | Sky Sports",
-          "poster": "https://static.ppvservices.st/assets/thumb/9581b952c41386c5291c3250d626f0ee-thumbnail.jpg",
-          "blurhash": "LcFE_w~0xUs.offQjsj@4.NMW?NK",
+          "poster": "https://static.ppvservices.st/assets/thumb/30ac305e7e3e83f420e274a2bc1b2b70-thumbnail.jpg",
+          "blurhash": "LXEAaR|Arxj@n%jZf7bG5OOGkUS6",
           "colors": [
-            "#fecd33",
-            "#000098"
+            "#f32728",
+            "#0e00f6"
           ],
-          "uri_name": "efl-trophy/2026-11-10/mnf-ches",
-          "starts_at": 1794337200,
-          "ends_at": 1794346200,
+          "uri_name": "efl-trophy/2026-11-11/bar-old",
+          "starts_at": 1794423600,
+          "ends_at": 1794432600,
           "always_live": 0,
           "locale": "en-gb",
           "category_name": "Football",
           "substreams": [
             {
-              "id": 1032052,
-              "name": "Mansfield Town vs. Chesterfield",
+              "id": 1032053,
+              "name": "Barnsley vs. Oldham Athletic",
               "tag": "EFL Trophy",
-              "uri_name": "efl-trophy/2026-11-10/mnf-ches_540p",
+              "uri_name": "efl-trophy/2026-11-11/bar-old_540p",
               "source_tag": "SD | Sky Sports",
               "locale": "en-gb"
             }
@@ -2505,7 +2505,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "6"
         }
       ]
     },
@@ -2541,7 +2541,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "5"
         },
         {
           "id": 32022,
@@ -2744,7 +2744,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         }
       ]
     },
@@ -2780,7 +2780,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "3"
         }
       ]
     },
@@ -2968,7 +2968,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "11"
+          "viewers": "21"
         },
         {
           "id": 3663,
@@ -3026,7 +3026,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "20"
+          "viewers": "30"
         },
         {
           "id": 5191,
@@ -3055,7 +3055,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "4"
         },
         {
           "id": 16623,
@@ -3084,7 +3084,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "4"
         },
         {
           "id": 17270,
@@ -3104,7 +3104,7 @@
           "locale": "en",
           "category_name": "24/7 Streams",
           "substreams": [],
-          "viewers": "3"
+          "viewers": "1"
         },
         {
           "id": 30527,
@@ -3162,7 +3162,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "8"
+          "viewers": "13"
         },
         {
           "id": 31730,
@@ -3191,14 +3191,14 @@
               "locale": "en"
             }
           ],
-          "viewers": "6"
+          "viewers": "4"
         }
       ]
     }
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-10T15:55:54.848815+00:00",
+    "captured_utc": "2026-11-10T21:35:45.981861+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
