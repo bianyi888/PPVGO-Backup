@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1794415520,
+  "timestamp": 1794438820,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.04998898506164551,
+  "performance": 0.049922943115234375,
   "streams": [
     {
       "category": "American Football",
@@ -36,7 +36,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "22"
+          "viewers": "33"
         },
         {
           "id": 31952,
@@ -377,7 +377,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 31999,
@@ -435,7 +435,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32001,
@@ -1267,7 +1267,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "5"
         },
         {
           "id": 32031,
@@ -1296,7 +1296,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "35"
         },
         {
           "id": 32032,
@@ -1325,7 +1325,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "15"
         },
         {
           "id": 32045,
@@ -1354,7 +1354,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         },
         {
           "id": 32046,
@@ -1428,7 +1428,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "4"
         },
         {
           "id": 32035,
@@ -1457,7 +1457,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32036,
@@ -1502,7 +1502,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "4"
         },
         {
           "id": 32038,
@@ -1634,7 +1634,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32049,
@@ -1692,7 +1692,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32041,
@@ -1721,7 +1721,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "4"
         },
         {
           "id": 32042,
@@ -1766,7 +1766,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32051,
@@ -2082,7 +2082,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "12"
+          "viewers": "5"
         },
         {
           "id": 27496,
@@ -2111,7 +2111,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "4"
         }
       ]
     },
@@ -2120,35 +2120,6 @@
       "id": 34,
       "always_live": false,
       "streams": [
-        {
-          "id": 32053,
-          "name": "Barnsley vs. Oldham Athletic",
-          "tag": "EFL Trophy",
-          "source_tag": "HD | Sky Sports",
-          "poster": "https://static.ppvservices.st/assets/thumb/30ac305e7e3e83f420e274a2bc1b2b70-thumbnail.jpg",
-          "blurhash": "LXEAaR|Arxj@n%jZf7bG5OOGkUS6",
-          "colors": [
-            "#f32728",
-            "#0e00f6"
-          ],
-          "uri_name": "efl-trophy/2026-11-11/bar-old",
-          "starts_at": 1794423600,
-          "ends_at": 1794432600,
-          "always_live": 0,
-          "locale": "en-gb",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032053,
-              "name": "Barnsley vs. Oldham Athletic",
-              "tag": "EFL Trophy",
-              "uri_name": "efl-trophy/2026-11-11/bar-old_540p",
-              "source_tag": "SD | Sky Sports",
-              "locale": "en-gb"
-            }
-          ],
-          "viewers": "3"
-        },
         {
           "id": 32085,
           "name": "New Zealand vs. India",
@@ -2176,7 +2147,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32076,
@@ -2263,7 +2234,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32068,
@@ -2466,7 +2437,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         },
         {
           "id": 32082,
@@ -2582,7 +2553,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32072,
@@ -2611,7 +2582,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32073,
@@ -2792,7 +2763,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "7"
+          "viewers": "4"
         }
       ]
     },
@@ -2828,7 +2799,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "7"
         },
         {
           "id": 32054,
@@ -2857,7 +2828,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32055,
@@ -3074,7 +3045,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32018,
@@ -3197,7 +3168,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "16"
+          "viewers": "21"
         },
         {
           "id": 3663,
@@ -3226,7 +3197,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "2"
         },
         {
           "id": 8008,
@@ -3255,7 +3226,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "18"
+          "viewers": "29"
         },
         {
           "id": 5191,
@@ -3313,7 +3284,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "5"
         },
         {
           "id": 17270,
@@ -3333,7 +3304,7 @@
           "locale": "en",
           "category_name": "24/7 Streams",
           "substreams": [],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 30527,
@@ -3362,7 +3333,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 31729,
@@ -3391,7 +3362,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "8"
+          "viewers": "17"
         },
         {
           "id": 31730,
@@ -3420,14 +3391,14 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "4"
         }
       ]
     }
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-11T16:45:18.631624+00:00",
+    "captured_utc": "2026-11-11T23:13:38.350970+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
