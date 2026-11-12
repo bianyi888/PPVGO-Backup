@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1794438820,
+  "timestamp": 1794455870,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.049922943115234375,
+  "performance": 0.03210091590881348,
   "streams": [
     {
       "category": "American Football",
@@ -36,7 +36,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "33"
+          "viewers": "10"
         },
         {
           "id": 31952,
@@ -435,7 +435,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32001,
@@ -1150,7 +1150,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 31976,
@@ -1225,167 +1225,6 @@
       "always_live": false,
       "streams": [
         {
-          "id": 32029,
-          "name": "Washington Wizards vs. Indiana Pacers",
-          "tag": "NBA",
-          "source_tag": "HD | Home",
-          "poster": "https://static.ppvservices.st/assets/thumb/485c72a6cd2eb01abe3f10543af62790-thumbnail.jpg",
-          "blurhash": "LRDRBM}GwJi^s.jbj[bF56NYW=S$",
-          "colors": [
-            "#e31837",
-            "#0c2340"
-          ],
-          "uri_name": "nba/2026-11-11/wsh-ind",
-          "starts_at": 1794441600,
-          "ends_at": 1794452400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032029,
-              "name": "Washington Wizards vs. Indiana Pacers",
-              "tag": "NBA",
-              "uri_name": "nba/2026-11-11/wsh-ind_540p",
-              "source_tag": "SD | Home",
-              "locale": "en"
-            },
-            {
-              "id": 32030,
-              "name": "Washington Wizards vs. Indiana Pacers",
-              "tag": "NBA",
-              "uri_name": "nba/2026-11-11/wsh-ind/away",
-              "source_tag": "HD | Away",
-              "locale": "en"
-            },
-            {
-              "id": 1032030,
-              "name": "Washington Wizards vs. Indiana Pacers",
-              "tag": "NBA",
-              "uri_name": "nba/2026-11-11/wsh-ind/away_540p",
-              "source_tag": "SD | Away",
-              "locale": "en"
-            }
-          ],
-          "viewers": "5"
-        },
-        {
-          "id": 32031,
-          "name": "Cleveland Cavaliers vs. New York Knicks",
-          "tag": "NBA",
-          "source_tag": "HD | ESPN",
-          "poster": "https://static.ppvservices.st/assets/thumb/bda25a3170ad2e2e89b954e64ec9ad09-thumbnail.jpg",
-          "blurhash": "L7ASGr_}nPxus:WBWWj[00TLozI;",
-          "colors": [
-            "#860038",
-            "#1d428a"
-          ],
-          "uri_name": "nba/2026-11-11/cle-ny",
-          "starts_at": 1794441600,
-          "ends_at": 1794452400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032031,
-              "name": "Cleveland Cavaliers vs. New York Knicks",
-              "tag": "NBA",
-              "uri_name": "nba/2026-11-11/cle-ny_540p",
-              "source_tag": "SD | ESPN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "35"
-        },
-        {
-          "id": 32032,
-          "name": "Boston Celtics vs. Toronto Raptors",
-          "tag": "NBA",
-          "source_tag": "HD | Home",
-          "poster": "https://static.ppvservices.st/assets/thumb/9b2266706325f5f2fc3c8bda47720f52-thumbnail.jpg",
-          "blurhash": "L9E2a:3c=Z-Xj[WBj@of00}IS5Vs",
-          "colors": [
-            "#008348",
-            "#d91244"
-          ],
-          "uri_name": "nba/2026-11-11/bos-tor",
-          "starts_at": 1794441600,
-          "ends_at": 1794452400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032032,
-              "name": "Boston Celtics vs. Toronto Raptors",
-              "tag": "NBA",
-              "uri_name": "nba/2026-11-11/bos-tor_540p",
-              "source_tag": "SD | Home",
-              "locale": "en"
-            }
-          ],
-          "viewers": "15"
-        },
-        {
-          "id": 32045,
-          "name": "Colgate Raiders at St. John's Red Storm",
-          "tag": "College Basketball",
-          "source_tag": "HD | Peacock",
-          "poster": "https://static.ppvservices.st/assets/thumb/0c2df405fbeb7aa6e29dbfb231b1d551-thumbnail.jpg",
-          "blurhash": "L4F:ih4S#-vgs:WVayof00:6NutQ",
-          "colors": [
-            "#821019",
-            "#d10000"
-          ],
-          "uri_name": "cbb/2026-11-11/colg-sju",
-          "starts_at": 1794441600,
-          "ends_at": 1794452400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032045,
-              "name": "Colgate Raiders at St. John's Red Storm",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-11/colg-sju_540p",
-              "source_tag": "SD | Peacock",
-              "locale": "en"
-            }
-          ],
-          "viewers": "2"
-        },
-        {
-          "id": 32046,
-          "name": "Marquette Golden Eagles at Michigan Wolverines",
-          "tag": "College Basketball",
-          "source_tag": "HD | FS1",
-          "poster": "https://static.ppvservices.st/assets/thumb/10995af2cc596fdfdca0d2b0bb18f815-thumbnail.jpg",
-          "blurhash": "L8ATN5G1Rk#Oofofofj[00+=t6K8",
-          "colors": [
-            "#003366",
-            "#00274c"
-          ],
-          "uri_name": "cbb/2026-11-11/marq-mich",
-          "starts_at": 1794441600,
-          "ends_at": 1794452400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032046,
-              "name": "Marquette Golden Eagles at Michigan Wolverines",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-11/marq-mich_540p",
-              "source_tag": "SD | FS1",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
           "id": 32033,
           "name": "San Antonio Spurs vs. Chicago Bulls",
           "tag": "NBA",
@@ -1428,7 +1267,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "279"
         },
         {
           "id": 32035,
@@ -1457,7 +1296,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "177"
         },
         {
           "id": 32036,
@@ -1502,7 +1341,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "598"
         },
         {
           "id": 32038,
@@ -1547,7 +1386,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "40"
         },
         {
           "id": 32047,
@@ -1576,7 +1415,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         },
         {
           "id": 32048,
@@ -1605,7 +1444,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "3"
         },
         {
           "id": 32040,
@@ -1634,7 +1473,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "151"
         },
         {
           "id": 32049,
@@ -1663,7 +1502,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "5"
         },
         {
           "id": 32050,
@@ -1721,7 +1560,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "1960"
         },
         {
           "id": 32042,
@@ -1766,7 +1605,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "688"
         },
         {
           "id": 32051,
@@ -1795,7 +1634,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "3"
         },
         {
           "id": 32065,
@@ -2082,7 +1921,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "10"
         },
         {
           "id": 27496,
@@ -2111,7 +1950,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "2"
         }
       ]
     },
@@ -2234,7 +2073,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32068,
@@ -2437,7 +2276,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "1"
         },
         {
           "id": 32082,
@@ -2553,7 +2392,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32072,
@@ -2611,7 +2450,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32074,
@@ -2799,65 +2638,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "7"
-        },
-        {
-          "id": 32054,
-          "name": "Tampa Bay Lightning vs. Buffalo Sabres",
-          "tag": "NHL",
-          "source_tag": "HD | TNT",
-          "poster": "https://static.ppvservices.st/assets/thumb/20675d59d91bb77d00ae535d9bfd5854-thumbnail.jpg",
-          "blurhash": "L17Uxn%V01H@.8IUNGxu00DR~p.R",
-          "colors": [
-            "#003e7e",
-            "#00468b"
-          ],
-          "uri_name": "nhl/2026-11-11/tb-buf",
-          "starts_at": 1794441600,
-          "ends_at": 1794452400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Ice Hockey",
-          "substreams": [
-            {
-              "id": 1032054,
-              "name": "Tampa Bay Lightning vs. Buffalo Sabres",
-              "tag": "NHL",
-              "uri_name": "nhl/2026-11-11/tb-buf_540p",
-              "source_tag": "SD | TNT",
-              "locale": "en"
-            }
-          ],
-          "viewers": "1"
-        },
-        {
-          "id": 32055,
-          "name": "New York Rangers vs. Calgary Flames",
-          "tag": "NHL",
-          "source_tag": "HD | ESPN+",
-          "poster": "https://static.ppvservices.st/assets/thumb/82e2c519a227d2888f4df9fe873a9c8c-thumbnail.jpg",
-          "blurhash": "LLE1F33swNrXjbazayfj0d+ZX7kW",
-          "colors": [
-            "#0056ae",
-            "#dd1a32"
-          ],
-          "uri_name": "nhl/2026-11-11/nyr-cgy",
-          "starts_at": 1794443400,
-          "ends_at": 1794454200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Ice Hockey",
-          "substreams": [
-            {
-              "id": 1032055,
-              "name": "New York Rangers vs. Calgary Flames",
-              "tag": "NHL",
-              "uri_name": "nhl/2026-11-11/nyr-cgy_540p",
-              "source_tag": "SD | ESPN+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
+          "viewers": "4"
         },
         {
           "id": 32056,
@@ -2886,7 +2667,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "219"
         },
         {
           "id": 32057,
@@ -2915,7 +2696,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "46"
         },
         {
           "id": 32058,
@@ -2944,7 +2725,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "18"
         },
         {
           "id": 32059,
@@ -2973,7 +2754,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "77"
         }
       ]
     },
@@ -3045,7 +2826,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "41"
         },
         {
           "id": 32018,
@@ -3168,7 +2949,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "21"
+          "viewers": "14"
         },
         {
           "id": 3663,
@@ -3226,7 +3007,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "29"
+          "viewers": "14"
         },
         {
           "id": 5191,
@@ -3284,7 +3065,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "3"
         },
         {
           "id": 17270,
@@ -3362,7 +3143,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "17"
+          "viewers": "5"
         },
         {
           "id": 31730,
@@ -3398,7 +3179,7 @@
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-11T23:13:38.350970+00:00",
+    "captured_utc": "2026-11-12T03:57:44.597211+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
