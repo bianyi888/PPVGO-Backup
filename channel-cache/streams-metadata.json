@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1794557890,
+  "timestamp": 1794587830,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.0515439510345459,
+  "performance": 0.05170297622680664,
   "streams": [
     {
       "category": "American Football",
@@ -36,7 +36,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "12"
+          "viewers": "15"
         },
         {
           "id": 31977,
@@ -91,22 +91,6 @@
               "tag": "College Football",
               "uri_name": "cfb/2026-11-13/hou-colo_540p",
               "source_tag": "SD | ESPN",
-              "locale": "en"
-            },
-            {
-              "id": 31981,
-              "name": "Houston Cougars at Colorado Buffaloes",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-13/hou-colo/skycast",
-              "source_tag": "HD | SkyCast",
-              "locale": "en"
-            },
-            {
-              "id": 1031981,
-              "name": "Houston Cougars at Colorado Buffaloes",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-13/hou-colo/skycast_540p",
-              "source_tag": "SD | SkyCast",
               "locale": "en"
             }
           ],
@@ -1063,7 +1047,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32014,
@@ -1195,64 +1179,6 @@
       "id": 37,
       "always_live": false,
       "streams": [
-        {
-          "id": 32115,
-          "name": "New Zealand Breakers vs. Brisbane Bullets",
-          "tag": "NBL",
-          "source_tag": "HD | ESPN",
-          "poster": "https://static.ppvservices.st/assets/thumb/4ceecc6bac4435e7e691f5dcd288cca5-thumbnail.jpg",
-          "blurhash": "LVD@^N|HwMS2jbe:f7j[54JRX5W;",
-          "colors": [
-            "#e33c95",
-            "#1f4fa2"
-          ],
-          "uri_name": "nbl/2026-11-13/nzl-bri",
-          "starts_at": 1794551400,
-          "ends_at": 1794562200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032115,
-              "name": "New Zealand Breakers vs. Brisbane Bullets",
-              "tag": "NBL",
-              "uri_name": "nbl/2026-11-13/nzl-bri_540p",
-              "source_tag": "SD | ESPN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "83"
-        },
-        {
-          "id": 32116,
-          "name": "Cairns Taipans vs. Sydney Kings",
-          "tag": "NBL",
-          "source_tag": "HD | ESPN",
-          "poster": "https://static.ppvservices.st/assets/thumb/22115f49808a4a71f39c0ea497aaf016-thumbnail.jpg",
-          "blurhash": "LUFD[6}+smenj[j@fQaz56NHW=S$",
-          "colors": [
-            "#f69138",
-            "#552583"
-          ],
-          "uri_name": "nbl/2026-11-13/cns-syd",
-          "starts_at": 1794558600,
-          "ends_at": 1794569400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032116,
-              "name": "Cairns Taipans vs. Sydney Kings",
-              "tag": "NBL",
-              "uri_name": "nbl/2026-11-13/cns-syd_540p",
-              "source_tag": "SD | ESPN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
         {
           "id": 32117,
           "name": "North Alabama Lions at Miami Hurricanes",
@@ -1631,7 +1557,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32106,
@@ -1895,7 +1821,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32111,
@@ -2391,7 +2317,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "346"
+          "viewers": "33"
         },
         {
           "id": 27496,
@@ -2420,7 +2346,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "275"
+          "viewers": "21"
         }
       ]
     },
@@ -2429,6 +2355,180 @@
       "id": 34,
       "always_live": false,
       "streams": [
+        {
+          "id": 32160,
+          "name": "Burkina Faso vs. Mauritania",
+          "tag": "AFCON Qualifying",
+          "source_tag": "HD | beIN SPORTS 4",
+          "poster": "https://static.ppvservices.st/assets/thumb/48562e85755af4ed291f8cc4ec8631ad-thumbnail.jpg",
+          "blurhash": "L3579Z_iM|8F$OwKj[OV018Fxu@v",
+          "colors": [
+            "#028002",
+            "#02843e"
+          ],
+          "uri_name": "afcon-qualifying/2026-11-13/bka-mtn",
+          "starts_at": 1794585600,
+          "ends_at": 1794594600,
+          "always_live": 0,
+          "locale": "en",
+          "category_name": "Football",
+          "substreams": [
+            {
+              "id": 1032160,
+              "name": "Burkina Faso vs. Mauritania",
+              "tag": "AFCON Qualifying",
+              "uri_name": "afcon-qualifying/2026-11-13/bka-mtn_540p",
+              "source_tag": "SD | beIN SPORTS 4",
+              "locale": "en"
+            }
+          ],
+          "viewers": "28"
+        },
+        {
+          "id": 32161,
+          "name": "Cape Verde vs. Liberia",
+          "tag": "AFCON Qualifying",
+          "source_tag": "HD | beIN SPORTS 7",
+          "poster": "https://static.ppvservices.st/assets/thumb/701ef7f618c4eba0a3be24574090224d-thumbnail.jpg",
+          "blurhash": "L37T;d0bVt^fR-WDoLbF00}*tQ5S",
+          "colors": [
+            "#00007e",
+            "#002059"
+          ],
+          "uri_name": "afcon-qualifying/2026-11-13/cpv-lbr",
+          "starts_at": 1794585600,
+          "ends_at": 1794594600,
+          "always_live": 0,
+          "locale": "en",
+          "category_name": "Football",
+          "substreams": [
+            {
+              "id": 1032161,
+              "name": "Cape Verde vs. Liberia",
+              "tag": "AFCON Qualifying",
+              "uri_name": "afcon-qualifying/2026-11-13/cpv-lbr_540p",
+              "source_tag": "SD | beIN SPORTS 7",
+              "locale": "en"
+            }
+          ],
+          "viewers": "87"
+        },
+        {
+          "id": 32162,
+          "name": "Gabon vs. Lesotho",
+          "tag": "AFCON Qualifying",
+          "source_tag": "HD | beIN SPORTS 5",
+          "poster": "https://static.ppvservices.st/assets/thumb/9fc18b658e40d40e1671b6609cfbc056-thumbnail.jpg",
+          "blurhash": "L76b.Xc]TKo$fkbWj[jJ00j6slVe",
+          "colors": [
+            "#02843e",
+            "#0000cc"
+          ],
+          "uri_name": "afcon-qualifying/2026-11-13/gab-les",
+          "starts_at": 1794585600,
+          "ends_at": 1794594600,
+          "always_live": 0,
+          "locale": "en",
+          "category_name": "Football",
+          "substreams": [
+            {
+              "id": 1032162,
+              "name": "Gabon vs. Lesotho",
+              "tag": "AFCON Qualifying",
+              "uri_name": "afcon-qualifying/2026-11-13/gab-les_540p",
+              "source_tag": "SD | beIN SPORTS 5",
+              "locale": "en"
+            }
+          ],
+          "viewers": "36"
+        },
+        {
+          "id": 32163,
+          "name": "Nigeria vs. Tanzania",
+          "tag": "AFCON Qualifying",
+          "source_tag": "HD | beIN SPORTS",
+          "poster": "https://static.ppvservices.st/assets/thumb/6e4fc3907dc3217f2edd806681fc1f5b-thumbnail.jpg",
+          "blurhash": "LA5i~9*3SiInk8fljZbF4TIFob$-",
+          "colors": [
+            "#008651",
+            "#0134a1"
+          ],
+          "uri_name": "afcon-qualifying/2026-11-13/nga-tan",
+          "starts_at": 1794585600,
+          "ends_at": 1794594600,
+          "always_live": 0,
+          "locale": "en",
+          "category_name": "Football",
+          "substreams": [
+            {
+              "id": 1032163,
+              "name": "Nigeria vs. Tanzania",
+              "tag": "AFCON Qualifying",
+              "uri_name": "afcon-qualifying/2026-11-13/nga-tan_540p",
+              "source_tag": "SD | beIN SPORTS",
+              "locale": "en"
+            }
+          ],
+          "viewers": "376"
+        },
+        {
+          "id": 32164,
+          "name": "South Africa vs. Kenya",
+          "tag": "AFCON Qualifying",
+          "source_tag": "HD | beIN SPORTS 8",
+          "poster": "https://static.ppvservices.st/assets/thumb/6a2f8092362e8052db9bebaee577e318-thumbnail.jpg",
+          "blurhash": "LKHvY9~ko[WAoJj?a}a#0gMzaiWG",
+          "colors": [
+            "#feb71d",
+            "#bb0102"
+          ],
+          "uri_name": "afcon-qualifying/2026-11-13/rsa-ken",
+          "starts_at": 1794585600,
+          "ends_at": 1794594600,
+          "always_live": 0,
+          "locale": "en",
+          "category_name": "Football",
+          "substreams": [
+            {
+              "id": 1032164,
+              "name": "South Africa vs. Kenya",
+              "tag": "AFCON Qualifying",
+              "uri_name": "afcon-qualifying/2026-11-13/rsa-ken_540p",
+              "source_tag": "SD | beIN SPORTS 8",
+              "locale": "en"
+            }
+          ],
+          "viewers": "209"
+        },
+        {
+          "id": 32165,
+          "name": "Tunisia vs. Libya",
+          "tag": "AFCON Qualifying",
+          "source_tag": "HD | beIN SPORTS XTRA",
+          "poster": "https://static.ppvservices.st/assets/thumb/df2379ff4dc69b30a828a3dded26e929-thumbnail.jpg",
+          "blurhash": "L6I0[8-WnO1G#nSzfknj0L1GXS}a",
+          "colors": [
+            "#d00300",
+            "#e70103"
+          ],
+          "uri_name": "afcon-qualifying/2026-11-13/tun-lby",
+          "starts_at": 1794585600,
+          "ends_at": 1794594600,
+          "always_live": 0,
+          "locale": "en",
+          "category_name": "Football",
+          "substreams": [
+            {
+              "id": 1032165,
+              "name": "Tunisia vs. Libya",
+              "tag": "AFCON Qualifying",
+              "uri_name": "afcon-qualifying/2026-11-13/tun-lby_540p",
+              "source_tag": "SD | beIN SPORTS XTRA",
+              "locale": "en"
+            }
+          ],
+          "viewers": "88"
+        },
         {
           "id": 32132,
           "name": "Moldova vs. Kazakhstan",
@@ -2454,6 +2554,64 @@
               "uri_name": "uefa-nations-league/2026-11-13/mda-kaz_540p",
               "source_tag": "SD | DAZN",
               "locale": "en-ca"
+            }
+          ],
+          "viewers": "2"
+        },
+        {
+          "id": 32166,
+          "name": "Egypt vs. Malawi",
+          "tag": "AFCON Qualifying",
+          "source_tag": "HD | beIN SPORTS",
+          "poster": "https://static.ppvservices.st/assets/thumb/96b6094f6065355f9c11dd2e8d96804c-thumbnail.jpg",
+          "blurhash": "L3H88B?wn4Dh+zt5fkR+00DNXm.9",
+          "colors": [
+            "#d00300",
+            "#d00300"
+          ],
+          "uri_name": "afcon-qualifying/2026-11-13/egy-mwi",
+          "starts_at": 1794596400,
+          "ends_at": 1794605400,
+          "always_live": 0,
+          "locale": "en",
+          "category_name": "Football",
+          "substreams": [
+            {
+              "id": 1032166,
+              "name": "Egypt vs. Malawi",
+              "tag": "AFCON Qualifying",
+              "uri_name": "afcon-qualifying/2026-11-13/egy-mwi_540p",
+              "source_tag": "SD | beIN SPORTS",
+              "locale": "en"
+            }
+          ],
+          "viewers": "0"
+        },
+        {
+          "id": 32167,
+          "name": "Mali vs. Rwanda",
+          "tag": "AFCON Qualifying",
+          "source_tag": "HD | beIN SPORTS 3",
+          "poster": "https://static.ppvservices.st/assets/thumb/e62a5c30b3a8396657fa178afa037d42-thumbnail.jpg",
+          "blurhash": "L7DKUo05=rBqkDjrj?WY01-WVz}6",
+          "colors": [
+            "#14b43a",
+            "#e1e202"
+          ],
+          "uri_name": "afcon-qualifying/2026-11-13/mli-rwa",
+          "starts_at": 1794596400,
+          "ends_at": 1794605400,
+          "always_live": 0,
+          "locale": "en",
+          "category_name": "Football",
+          "substreams": [
+            {
+              "id": 1032167,
+              "name": "Mali vs. Rwanda",
+              "tag": "AFCON Qualifying",
+              "uri_name": "afcon-qualifying/2026-11-13/mli-rwa_540p",
+              "source_tag": "SD | beIN SPORTS 3",
+              "locale": "en"
             }
           ],
           "viewers": "0"
@@ -2514,7 +2672,7 @@
               "locale": "en-ca"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32135,
@@ -2659,7 +2817,7 @@
               "locale": "en-ca"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32140,
@@ -2718,6 +2876,35 @@
             }
           ],
           "viewers": "0"
+        },
+        {
+          "id": 32168,
+          "name": "Morocco vs. Niger",
+          "tag": "AFCON Qualifying",
+          "source_tag": "HD | beIN SPORTS 5",
+          "poster": "https://static.ppvservices.st/assets/thumb/c617dac167605a63ceca4815c4ee3028-thumbnail.jpg",
+          "blurhash": "L5Indey^nOUE$PS2fkso00Q4XSqv",
+          "colors": [
+            "#df2228",
+            "#df5107"
+          ],
+          "uri_name": "afcon-qualifying/2026-11-13/mar-nig",
+          "starts_at": 1794600000,
+          "ends_at": 1794609000,
+          "always_live": 0,
+          "locale": "en",
+          "category_name": "Football",
+          "substreams": [
+            {
+              "id": 1032168,
+              "name": "Morocco vs. Niger",
+              "tag": "AFCON Qualifying",
+              "uri_name": "afcon-qualifying/2026-11-13/mar-nig_540p",
+              "source_tag": "SD | beIN SPORTS 5",
+              "locale": "en"
+            }
+          ],
+          "viewers": "1"
         },
         {
           "id": 32084,
@@ -2811,7 +2998,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "38"
+          "viewers": "20"
         }
       ]
     },
@@ -2847,7 +3034,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "8"
         },
         {
           "id": 32142,
@@ -2941,7 +3128,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "1"
         }
       ]
     },
@@ -3042,7 +3229,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "16"
+          "viewers": "13"
         },
         {
           "id": 3663,
@@ -3100,7 +3287,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "27"
+          "viewers": "13"
         },
         {
           "id": 5191,
@@ -3129,7 +3316,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "2"
         },
         {
           "id": 16623,
@@ -3158,7 +3345,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "9"
+          "viewers": "4"
         },
         {
           "id": 17270,
@@ -3236,7 +3423,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "5"
         },
         {
           "id": 31730,
@@ -3265,14 +3452,14 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "4"
         }
       ]
     }
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-13T08:18:08.989876+00:00",
+    "captured_utc": "2026-11-13T16:37:02.925595+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
