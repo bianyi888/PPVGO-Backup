@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1794672870,
+  "timestamp": 1794689410,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.04873013496398926,
+  "performance": 0.037702083587646484,
   "streams": [
     {
       "category": "American Football",
@@ -36,7 +36,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "19"
+          "viewers": "11"
         },
         {
           "id": 31982,
@@ -81,7 +81,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "7"
+          "viewers": "335"
         },
         {
           "id": 31986,
@@ -110,7 +110,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "14"
+          "viewers": "302"
         },
         {
           "id": 31987,
@@ -155,7 +155,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "48"
+          "viewers": "47"
         },
         {
           "id": 31990,
@@ -184,7 +184,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "467"
         },
         {
           "id": 31992,
@@ -229,7 +229,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "534"
         },
         {
           "id": 31996,
@@ -274,7 +274,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "514"
         },
         {
           "id": 31999,
@@ -303,7 +303,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "600"
         },
         {
           "id": 32000,
@@ -332,7 +332,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "9"
         },
         {
           "id": 32001,
@@ -361,7 +361,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "136"
         },
         {
           "id": 32002,
@@ -390,7 +390,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "436"
         },
         {
           "id": 32003,
@@ -419,7 +419,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "4"
         },
         {
           "id": 32004,
@@ -493,7 +493,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32007,
@@ -522,7 +522,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "1"
         },
         {
           "id": 32008,
@@ -1096,7 +1096,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "4"
         }
       ]
     },
@@ -1132,7 +1132,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "16"
         },
         {
           "id": 32156,
@@ -1161,7 +1161,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "67"
         },
         {
           "id": 32144,
@@ -1235,7 +1235,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32147,
@@ -1280,7 +1280,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32149,
@@ -1412,7 +1412,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32183,
@@ -1766,7 +1766,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32193,
@@ -1927,7 +1927,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         }
       ]
     },
@@ -1995,7 +1995,7 @@
               "locale": "pt"
             }
           ],
-          "viewers": "22"
+          "viewers": "221"
         }
       ]
     },
@@ -2063,7 +2063,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "24"
+          "viewers": "13"
         },
         {
           "id": 27496,
@@ -2092,7 +2092,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "15"
+          "viewers": "5"
         }
       ]
     },
@@ -2101,238 +2101,6 @@
       "id": 34,
       "always_live": false,
       "streams": [
-        {
-          "id": 32204,
-          "name": "Kosovo vs. Israel",
-          "tag": "UEFA Nations League",
-          "source_tag": "HD | DAZN",
-          "poster": "https://static.ppvservices.st/assets/thumb/74c0225869c96b98022613c52978c835-thumbnail.jpg",
-          "blurhash": "L56[Ox0HNO_2oga#WVj@00_JxT9E",
-          "colors": [
-            "#0000cc",
-            "#2f50a1"
-          ],
-          "uri_name": "uefa-nations-league/2026-11-14/kos-isr",
-          "starts_at": 1794664800,
-          "ends_at": 1794673800,
-          "always_live": 0,
-          "locale": "en-ca",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032204,
-              "name": "Kosovo vs. Israel",
-              "tag": "UEFA Nations League",
-              "uri_name": "uefa-nations-league/2026-11-14/kos-isr_540p",
-              "source_tag": "SD | DAZN",
-              "locale": "en-ca"
-            }
-          ],
-          "viewers": "127"
-        },
-        {
-          "id": 32084,
-          "name": "Shrewsbury Town vs. Oldham Athletic",
-          "tag": "EFL League Two",
-          "source_tag": "HD | Sky Sports",
-          "poster": "https://static.ppvservices.st/assets/thumb/3f506f1e2b24c9d4c40080d4a588de84-thumbnail.jpg",
-          "blurhash": "L47B2nRo0YkXofoMWYWU00kW~IjD",
-          "colors": [
-            "#0000f8",
-            "#0e00f6"
-          ],
-          "uri_name": "efl-league-two/2026-11-14/shr-old",
-          "starts_at": 1794668400,
-          "ends_at": 1794677400,
-          "always_live": 0,
-          "locale": "en-gb",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032084,
-              "name": "Shrewsbury Town vs. Oldham Athletic",
-              "tag": "EFL League Two",
-              "uri_name": "efl-league-two/2026-11-14/shr-old_540p",
-              "source_tag": "SD | Sky Sports",
-              "locale": "en-gb"
-            }
-          ],
-          "viewers": "28"
-        },
-        {
-          "id": 32217,
-          "name": "Rochdale vs. York City",
-          "tag": "EFL League Two",
-          "source_tag": "HD | Sky Sports",
-          "poster": "https://static.ppvservices.st/assets/thumb/916e5251721d26e12ce75c29f3bd8001-thumbnail.jpg",
-          "blurhash": "LGD[Cp3?n4MdoLj[azay00rCtRxu",
-          "colors": [
-            "#0f1086",
-            "#c8142f"
-          ],
-          "uri_name": "efl-league-two/2026-11-14/rch-york",
-          "starts_at": 1794668400,
-          "ends_at": 1794677400,
-          "always_live": 0,
-          "locale": "en-gb",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032217,
-              "name": "Rochdale vs. York City",
-              "tag": "EFL League Two",
-              "uri_name": "efl-league-two/2026-11-14/rch-york_540p",
-              "source_tag": "SD | Sky Sports",
-              "locale": "en-gb"
-            }
-          ],
-          "viewers": "27"
-        },
-        {
-          "id": 32222,
-          "name": "Sheffield Wednesday vs. Plymouth Argyle",
-          "tag": "EFL League One",
-          "source_tag": "HD | Sky Sports",
-          "poster": "https://static.ppvservices.st/assets/thumb/9b25cc76b31461bdb5b0100002413c91-thumbnail.jpg",
-          "blurhash": "Ld6kxzn@RqWCj[j[a|f6ISWRt3ob",
-          "colors": [
-            "#0000fe",
-            "#003e00"
-          ],
-          "uri_name": "efl-league-one/2026-11-14/shw-ply",
-          "starts_at": 1794668400,
-          "ends_at": 1794677400,
-          "always_live": 0,
-          "locale": "en-gb",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032222,
-              "name": "Sheffield Wednesday vs. Plymouth Argyle",
-              "tag": "EFL League One",
-              "uri_name": "efl-league-one/2026-11-14/shw-ply_540p",
-              "source_tag": "SD | Sky Sports",
-              "locale": "en-gb"
-            }
-          ],
-          "viewers": "116"
-        },
-        {
-          "id": 32212,
-          "name": "Uganda vs. Botswana",
-          "tag": "AFCON Qualifying",
-          "source_tag": "HD | beIN SPORTS 3",
-          "poster": "https://static.ppvservices.st/assets/thumb/7b22156557092f1881beb5f409c55090-thumbnail.jpg",
-          "blurhash": "LeEMp~}fw~W?fkfPfQjt9GJEWUWD",
-          "colors": [
-            "#fbdc05",
-            "#0098fd"
-          ],
-          "uri_name": "afcon-qualifying/2026-11-14/uga-bot",
-          "starts_at": 1794672000,
-          "ends_at": 1794681000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032212,
-              "name": "Uganda vs. Botswana",
-              "tag": "AFCON Qualifying",
-              "uri_name": "afcon-qualifying/2026-11-14/uga-bot_540p",
-              "source_tag": "SD | beIN SPORTS 3",
-              "locale": "en"
-            }
-          ],
-          "viewers": "76"
-        },
-        {
-          "id": 32205,
-          "name": "Georgia vs. Hungary",
-          "tag": "UEFA Nations League",
-          "source_tag": "HD | DAZN",
-          "poster": "https://static.ppvservices.st/assets/thumb/79324e14b078a394d59e27dc80c6a574-thumbnail.jpg",
-          "blurhash": "LcJ6~b.mtRWVoLbHfQja0eM{V@i_",
-          "colors": [
-            "#ffffff",
-            "#ce2029"
-          ],
-          "uri_name": "uefa-nations-league/2026-11-14/geo-hun",
-          "starts_at": 1794675600,
-          "ends_at": 1794684600,
-          "always_live": 0,
-          "locale": "en-ca",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032205,
-              "name": "Georgia vs. Hungary",
-              "tag": "UEFA Nations League",
-              "uri_name": "uefa-nations-league/2026-11-14/geo-hun_540p",
-              "source_tag": "SD | DAZN",
-              "locale": "en-ca"
-            }
-          ],
-          "viewers": "5"
-        },
-        {
-          "id": 32206,
-          "name": "Norway vs. Wales",
-          "tag": "UEFA Nations League",
-          "source_tag": "HD | DAZN",
-          "poster": "https://static.ppvservices.st/assets/thumb/07a334681f728044ed3055aa38b9dae3-thumbnail.jpg",
-          "blurhash": "L2H*t00q@]3-^RInWBxb00G:C5_,",
-          "colors": [
-            "#c7102e",
-            "#e70103"
-          ],
-          "uri_name": "uefa-nations-league/2026-11-14/nor-wal",
-          "starts_at": 1794675600,
-          "ends_at": 1794684600,
-          "always_live": 0,
-          "locale": "en-ca",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032206,
-              "name": "Norway vs. Wales",
-              "tag": "UEFA Nations League",
-              "uri_name": "uefa-nations-league/2026-11-14/nor-wal_540p",
-              "source_tag": "SD | DAZN",
-              "locale": "en-ca"
-            }
-          ],
-          "viewers": "21"
-        },
-        {
-          "id": 32221,
-          "name": "Fleetwood Town vs. Tranmere Rovers",
-          "tag": "EFL League Two",
-          "source_tag": "HD | Sky Sports Football",
-          "poster": "https://static.ppvservices.st/assets/thumb/33632cfc8f88f759ab13932cad72492c-thumbnail.jpg",
-          "blurhash": "LCI|h000pbTejZoLa|WC00y?afxV",
-          "colors": [
-            "#c8142f",
-            "#ffffff"
-          ],
-          "uri_name": "efl-league-two/2026-11-14/fle-trn",
-          "starts_at": 1794677400,
-          "ends_at": 1794686400,
-          "always_live": 0,
-          "locale": "en-gb",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032221,
-              "name": "Fleetwood Town vs. Tranmere Rovers",
-              "tag": "EFL League Two",
-              "uri_name": "efl-league-two/2026-11-14/fle-trn_540p",
-              "source_tag": "SD | Sky Sports Football",
-              "locale": "en-gb"
-            }
-          ],
-          "viewers": "1"
-        },
         {
           "id": 32213,
           "name": "Algeria vs. Togo",
@@ -2360,7 +2128,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "436"
         },
         {
           "id": 32214,
@@ -2389,7 +2157,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "75"
         },
         {
           "id": 32207,
@@ -2418,7 +2186,7 @@
               "locale": "en-ca"
             }
           ],
-          "viewers": "0"
+          "viewers": "315"
         },
         {
           "id": 32208,
@@ -2447,7 +2215,7 @@
               "locale": "en-ca"
             }
           ],
-          "viewers": "0"
+          "viewers": "153"
         },
         {
           "id": 32209,
@@ -2476,7 +2244,7 @@
               "locale": "en-ca"
             }
           ],
-          "viewers": "4"
+          "viewers": "3866"
         },
         {
           "id": 32210,
@@ -2505,7 +2273,7 @@
               "locale": "en-ca"
             }
           ],
-          "viewers": "0"
+          "viewers": "550"
         },
         {
           "id": 32211,
@@ -2534,7 +2302,7 @@
               "locale": "en-ca"
             }
           ],
-          "viewers": "1"
+          "viewers": "1682"
         },
         {
           "id": 32215,
@@ -2563,7 +2331,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "17"
         },
         {
           "id": 32015,
@@ -2592,7 +2360,7 @@
               "locale": "es-us"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32216,
@@ -2621,7 +2389,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         }
       ]
     },
@@ -2657,7 +2425,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "14"
+          "viewers": "18"
         }
       ]
     },
@@ -2722,7 +2490,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "86"
         },
         {
           "id": 32170,
@@ -2751,7 +2519,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "267"
         },
         {
           "id": 32171,
@@ -2809,7 +2577,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32173,
@@ -3171,7 +2939,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "2"
         }
       ]
     },
@@ -3207,7 +2975,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "20"
+          "viewers": "15"
         },
         {
           "id": 3663,
@@ -3236,7 +3004,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "1"
         },
         {
           "id": 8008,
@@ -3265,7 +3033,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "22"
+          "viewers": "25"
         },
         {
           "id": 5191,
@@ -3294,7 +3062,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "1"
         },
         {
           "id": 16623,
@@ -3323,7 +3091,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "10"
+          "viewers": "3"
         },
         {
           "id": 17270,
@@ -3372,7 +3140,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "2"
         },
         {
           "id": 31729,
@@ -3401,7 +3169,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "4"
         },
         {
           "id": 31730,
@@ -3430,14 +3198,14 @@
               "locale": "en"
             }
           ],
-          "viewers": "7"
+          "viewers": "5"
         }
       ]
     }
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-14T16:14:26.942920+00:00",
+    "captured_utc": "2026-11-14T20:50:06.206047+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
