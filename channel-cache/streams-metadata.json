@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1794608270,
+  "timestamp": 1794623580,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.05034017562866211,
+  "performance": 0.031336069107055664,
   "streams": [
     {
       "category": "American Football",
@@ -36,7 +36,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "9"
+          "viewers": "8"
         },
         {
           "id": 31977,
@@ -65,7 +65,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "265"
         },
         {
           "id": 31979,
@@ -94,7 +94,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "7"
         },
         {
           "id": 31982,
@@ -1105,7 +1105,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 31976,
@@ -1170,7 +1170,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         }
       ]
     },
@@ -1179,35 +1179,6 @@
       "id": 37,
       "always_live": false,
       "streams": [
-        {
-          "id": 32117,
-          "name": "North Alabama Lions at Miami Hurricanes",
-          "tag": "College Basketball",
-          "source_tag": "HD | ACC Network",
-          "poster": "https://static.ppvservices.st/assets/thumb/f918c9325d344547f8fd996d172110f4-thumbnail.jpg",
-          "blurhash": "LGF|W71ne?vzoLbHazf60J#Ps.o}",
-          "colors": [
-            "#663399",
-            "#f47423"
-          ],
-          "uri_name": "cbb/2026-11-13/una-mia",
-          "starts_at": 1794607200,
-          "ends_at": 1794618000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032117,
-              "name": "North Alabama Lions at Miami Hurricanes",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-13/una-mia_540p",
-              "source_tag": "SD | ACC Network",
-              "locale": "en"
-            }
-          ],
-          "viewers": "38"
-        },
         {
           "id": 32100,
           "name": "New York Knicks vs. Indiana Pacers",
@@ -1235,7 +1206,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "2522"
         },
         {
           "id": 32101,
@@ -1280,7 +1251,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "191"
         },
         {
           "id": 32118,
@@ -1309,7 +1280,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         },
         {
           "id": 32119,
@@ -1338,7 +1309,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "9"
         },
         {
           "id": 32120,
@@ -1367,7 +1338,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "5"
         },
         {
           "id": 32121,
@@ -1396,7 +1367,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "3"
         },
         {
           "id": 32122,
@@ -1454,7 +1425,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "7"
         },
         {
           "id": 32124,
@@ -1483,7 +1454,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "31"
         },
         {
           "id": 32103,
@@ -1528,7 +1499,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1085"
         },
         {
           "id": 32105,
@@ -1557,7 +1528,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "365"
         },
         {
           "id": 32106,
@@ -1602,7 +1573,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "255"
         },
         {
           "id": 32125,
@@ -1631,7 +1602,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "6"
         },
         {
           "id": 32126,
@@ -1660,7 +1631,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "36"
         },
         {
           "id": 32127,
@@ -1689,7 +1660,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         },
         {
           "id": 32108,
@@ -1734,7 +1705,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "518"
         },
         {
           "id": 32128,
@@ -1763,7 +1734,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "43"
         },
         {
           "id": 32129,
@@ -1792,7 +1763,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "6"
         },
         {
           "id": 32110,
@@ -1821,7 +1792,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "690"
         },
         {
           "id": 32111,
@@ -1866,7 +1837,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "7"
         },
         {
           "id": 32113,
@@ -1911,7 +1882,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32152,
@@ -2056,7 +2027,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32145,
@@ -2101,7 +2072,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32147,
@@ -2146,7 +2117,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32149,
@@ -2317,7 +2288,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "11"
+          "viewers": "7"
         },
         {
           "id": 27496,
@@ -2355,35 +2326,6 @@
       "id": 34,
       "always_live": false,
       "streams": [
-        {
-          "id": 32168,
-          "name": "Morocco vs. Niger",
-          "tag": "AFCON Qualifying",
-          "source_tag": "HD | beIN SPORTS 5",
-          "poster": "https://static.ppvservices.st/assets/thumb/c617dac167605a63ceca4815c4ee3028-thumbnail.jpg",
-          "blurhash": "L5Indey^nOUE$PS2fkso00Q4XSqv",
-          "colors": [
-            "#df2228",
-            "#df5107"
-          ],
-          "uri_name": "afcon-qualifying/2026-11-13/mar-nig",
-          "starts_at": 1794600000,
-          "ends_at": 1794609000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032168,
-              "name": "Morocco vs. Niger",
-              "tag": "AFCON Qualifying",
-              "uri_name": "afcon-qualifying/2026-11-13/mar-nig_540p",
-              "source_tag": "SD | beIN SPORTS 5",
-              "locale": "en"
-            }
-          ],
-          "viewers": "109"
-        },
         {
           "id": 32084,
           "name": "Shrewsbury Town vs. Oldham Athletic",
@@ -2476,7 +2418,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "13"
+          "viewers": "6"
         }
       ]
     },
@@ -2512,7 +2454,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "2"
         },
         {
           "id": 32142,
@@ -2541,7 +2483,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "310"
         },
         {
           "id": 32143,
@@ -2570,7 +2512,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "3"
         }
       ]
     },
@@ -2606,7 +2548,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "54"
+          "viewers": "9"
         }
       ]
     },
@@ -2642,7 +2584,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "234"
         },
         {
           "id": 32020,
@@ -2707,7 +2649,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "10"
+          "viewers": "9"
         },
         {
           "id": 3663,
@@ -2823,7 +2765,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "1"
         },
         {
           "id": 17270,
@@ -2901,7 +2843,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "12"
+          "viewers": "14"
         },
         {
           "id": 31730,
@@ -2930,14 +2872,14 @@
               "locale": "en"
             }
           ],
-          "viewers": "8"
+          "viewers": "7"
         }
       ]
     }
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-13T22:17:47.882202+00:00",
+    "captured_utc": "2026-11-14T02:32:51.493489+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
