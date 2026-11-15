@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1794689410,
+  "timestamp": 1794702710,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.037702083587646484,
+  "performance": 0.03203296661376953,
   "streams": [
     {
       "category": "American Football",
@@ -39,389 +39,6 @@
           "viewers": "11"
         },
         {
-          "id": 31982,
-          "name": "Duke Blue Devils at Miami Hurricanes",
-          "tag": "College Football",
-          "source_tag": "HD | ABC",
-          "poster": "https://static.ppvservices.st/assets/thumb/c13aa2e9382735baf9be4a01a88313e6-thumbnail.jpg",
-          "blurhash": "LOF;yo3Zw3Mdj[bHfQf600m+oy%M",
-          "colors": [
-            "#00539b",
-            "#f47423"
-          ],
-          "uri_name": "cfb/2026-11-14/duke-mia",
-          "starts_at": 1794675600,
-          "ends_at": 1794690000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1031982,
-              "name": "Duke Blue Devils at Miami Hurricanes",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-14/duke-mia_540p",
-              "source_tag": "SD | ABC",
-              "locale": "en"
-            },
-            {
-              "id": 31984,
-              "name": "Duke Blue Devils at Miami Hurricanes",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-14/duke-mia/skycast",
-              "source_tag": "HD | SkyCast",
-              "locale": "en"
-            },
-            {
-              "id": 1031984,
-              "name": "Duke Blue Devils at Miami Hurricanes",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-14/duke-mia/skycast_540p",
-              "source_tag": "SD | SkyCast",
-              "locale": "en"
-            }
-          ],
-          "viewers": "335"
-        },
-        {
-          "id": 31986,
-          "name": "Northwestern Wildcats at Ohio State Buckeyes",
-          "tag": "College Football",
-          "source_tag": "HD | Fox",
-          "poster": "https://static.ppvservices.st/assets/thumb/fd12d220f18a3559b04677c817dcad9a-thumbnail.jpg",
-          "blurhash": "L9ChHr1Urw$~jGflj[ay00==kVR6",
-          "colors": [
-            "#492f92",
-            "#ba0c2f"
-          ],
-          "uri_name": "cfb/2026-11-14/nu-osu",
-          "starts_at": 1794675600,
-          "ends_at": 1794690000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1031986,
-              "name": "Northwestern Wildcats at Ohio State Buckeyes",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-14/nu-osu_540p",
-              "source_tag": "SD | Fox",
-              "locale": "en"
-            }
-          ],
-          "viewers": "302"
-        },
-        {
-          "id": 31987,
-          "name": "Wake Forest Demon Deacons at SMU Mustangs",
-          "tag": "College Football",
-          "source_tag": "HD | ESPN",
-          "poster": "https://static.ppvservices.st/assets/thumb/1d29a39140b9274705a331a489fc5ec4-thumbnail.jpg",
-          "blurhash": "LLF;QL.jkoaLoLfjfjfQ0fR7afbF",
-          "colors": [
-            "#ceb888",
-            "#a80000"
-          ],
-          "uri_name": "cfb/2026-11-14/wake-smu",
-          "starts_at": 1794675600,
-          "ends_at": 1794690000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1031987,
-              "name": "Wake Forest Demon Deacons at SMU Mustangs",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-14/wake-smu_540p",
-              "source_tag": "SD | ESPN",
-              "locale": "en"
-            },
-            {
-              "id": 31989,
-              "name": "Wake Forest Demon Deacons at SMU Mustangs",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-14/wake-smu/skycast",
-              "source_tag": "HD | SkyCast",
-              "locale": "en"
-            },
-            {
-              "id": 1031989,
-              "name": "Wake Forest Demon Deacons at SMU Mustangs",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-14/wake-smu/skycast_540p",
-              "source_tag": "SD | SkyCast",
-              "locale": "en"
-            }
-          ],
-          "viewers": "47"
-        },
-        {
-          "id": 31990,
-          "name": "Alabama Crimson Tide at Vanderbilt Commodores",
-          "tag": "College Football",
-          "source_tag": "HD | SEC Network",
-          "poster": "https://static.ppvservices.st/assets/thumb/ab755b046542a31d79415e649bbdd4c1-thumbnail.jpg",
-          "blurhash": "LDB.vB||n4RPjYWBWBf600OUo}X9",
-          "colors": [
-            "#9e1b32",
-            "#000000"
-          ],
-          "uri_name": "cfb/2026-11-14/ala-van",
-          "starts_at": 1794678300,
-          "ends_at": 1794692700,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1031990,
-              "name": "Alabama Crimson Tide at Vanderbilt Commodores",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-14/ala-van_540p",
-              "source_tag": "SD | SEC Network",
-              "locale": "en"
-            }
-          ],
-          "viewers": "467"
-        },
-        {
-          "id": 31992,
-          "name": "Tennessee Volunteers at Texas A&M Aggies",
-          "tag": "College Football",
-          "source_tag": "HD | ESPN",
-          "poster": "https://static.ppvservices.st/assets/thumb/818b6512c84f3c9d2a766872596488fe-thumbnail.jpg",
-          "blurhash": "LcHAOw}rs,RjozkCfQay0eJ9WXWq",
-          "colors": [
-            "#ff8200",
-            "#500000"
-          ],
-          "uri_name": "cfb/2026-11-14/tenn-tam",
-          "starts_at": 1794686400,
-          "ends_at": 1794700800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1031992,
-              "name": "Tennessee Volunteers at Texas A&M Aggies",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-14/tenn-tam_540p",
-              "source_tag": "SD | ESPN",
-              "locale": "en"
-            },
-            {
-              "id": 31994,
-              "name": "Tennessee Volunteers at Texas A&M Aggies",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-14/tenn-tam/skycast",
-              "source_tag": "HD | SkyCast",
-              "locale": "en"
-            },
-            {
-              "id": 1031994,
-              "name": "Tennessee Volunteers at Texas A&M Aggies",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-14/tenn-tam/skycast_540p",
-              "source_tag": "SD | SkyCast",
-              "locale": "en"
-            }
-          ],
-          "viewers": "534"
-        },
-        {
-          "id": 31996,
-          "name": "Missouri Tigers at Georgia Bulldogs",
-          "tag": "College Football",
-          "source_tag": "HD | ABC",
-          "poster": "https://static.ppvservices.st/assets/thumb/873859d775641dd9e910e5ef107c5a0e-thumbnail.jpg",
-          "blurhash": "LHHT4^_Bo[bIoJayfkj[0MN3WFRk",
-          "colors": [
-            "#f1b82d",
-            "#ba0c2f"
-          ],
-          "uri_name": "cfb/2026-11-14/miz-uga",
-          "starts_at": 1794688200,
-          "ends_at": 1794702600,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1031996,
-              "name": "Missouri Tigers at Georgia Bulldogs",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-14/miz-uga_540p",
-              "source_tag": "SD | ABC",
-              "locale": "en"
-            },
-            {
-              "id": 31997,
-              "name": "Missouri Tigers at Georgia Bulldogs",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-14/miz-uga/skycast",
-              "source_tag": "HD | SkyCast",
-              "locale": "en"
-            },
-            {
-              "id": 1031997,
-              "name": "Missouri Tigers at Georgia Bulldogs",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-14/miz-uga/skycast_540p",
-              "source_tag": "SD | SkyCast",
-              "locale": "en"
-            }
-          ],
-          "viewers": "514"
-        },
-        {
-          "id": 31999,
-          "name": "USC Trojans at Indiana Hoosiers",
-          "tag": "College Football",
-          "source_tag": "HD | CBS",
-          "poster": "https://static.ppvservices.st/assets/thumb/345fe3aa272ce68b3f499c982172ee94-thumbnail.jpg",
-          "blurhash": "L8ETuUD4V@?^s:axj[j[00.SozDO",
-          "colors": [
-            "#9d2235",
-            "#970310"
-          ],
-          "uri_name": "cfb/2026-11-14/usc-iu",
-          "starts_at": 1794688200,
-          "ends_at": 1794702600,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1031999,
-              "name": "USC Trojans at Indiana Hoosiers",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-14/usc-iu_540p",
-              "source_tag": "SD | CBS",
-              "locale": "en"
-            }
-          ],
-          "viewers": "600"
-        },
-        {
-          "id": 32000,
-          "name": "Baylor Bears at BYU Cougars",
-          "tag": "College Football",
-          "source_tag": "HD | Fox",
-          "poster": "https://static.ppvservices.st/assets/thumb/ed4ba350b1b15dfc348370741d7e810f-thumbnail.jpg",
-          "blurhash": "LB9tQAvcajTgoLoJoKoK00k]ocVX",
-          "colors": [
-            "#154734",
-            "#0047ba"
-          ],
-          "uri_name": "cfb/2026-11-14/bay-byu",
-          "starts_at": 1794688200,
-          "ends_at": 1794702600,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1032000,
-              "name": "Baylor Bears at BYU Cougars",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-14/bay-byu_540p",
-              "source_tag": "SD | Fox",
-              "locale": "en"
-            }
-          ],
-          "viewers": "9"
-        },
-        {
-          "id": 32001,
-          "name": "Boston College Eagles at Notre Dame Fighting Irish",
-          "tag": "College Football",
-          "source_tag": "HD | NBC",
-          "poster": "https://static.ppvservices.st/assets/thumb/df9ea491f44fef3288b8d43fa114f2ea-thumbnail.jpg",
-          "blurhash": "L6Ala}{ov~-3oKazj@fQ02tIbvEm",
-          "colors": [
-            "#8c2232",
-            "#062340"
-          ],
-          "uri_name": "cfb/2026-11-14/bc-nd",
-          "starts_at": 1794688200,
-          "ends_at": 1794702600,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1032001,
-              "name": "Boston College Eagles at Notre Dame Fighting Irish",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-14/bc-nd_540p",
-              "source_tag": "SD | NBC",
-              "locale": "en"
-            }
-          ],
-          "viewers": "136"
-        },
-        {
-          "id": 32002,
-          "name": "Michigan Wolverines at Oregon Ducks",
-          "tag": "College Football",
-          "source_tag": "HD | FS1",
-          "poster": "https://static.ppvservices.st/assets/thumb/6b3a214ea4760c197a40495d6a209f63-thumbnail.jpg",
-          "blurhash": "L3AdlA_VO*7wt5jaj[bG0142xI]%",
-          "colors": [
-            "#00274c",
-            "#00934b"
-          ],
-          "uri_name": "cfb/2026-11-14/mich-ore",
-          "starts_at": 1794688200,
-          "ends_at": 1794702600,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1032002,
-              "name": "Michigan Wolverines at Oregon Ducks",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-14/mich-ore_540p",
-              "source_tag": "SD | FS1",
-              "locale": "en"
-            }
-          ],
-          "viewers": "436"
-        },
-        {
-          "id": 32003,
-          "name": "Ole Miss Rebels at Oklahoma Sooners",
-          "tag": "College Football",
-          "source_tag": "HD | SEC Network",
-          "poster": "https://static.ppvservices.st/assets/thumb/83a51b3044f085f19f1ce542e219c1ea-thumbnail.jpg",
-          "blurhash": "L2B1*z3Z{hXRNaNuw{-B00#*Ki+v",
-          "colors": [
-            "#13294b",
-            "#990000"
-          ],
-          "uri_name": "cfb/2026-11-14/miss-ou",
-          "starts_at": 1794690900,
-          "ends_at": 1794705300,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1032003,
-              "name": "Ole Miss Rebels at Oklahoma Sooners",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-14/miss-ou_540p",
-              "source_tag": "SD | SEC Network",
-              "locale": "en"
-            }
-          ],
-          "viewers": "4"
-        },
-        {
           "id": 32004,
           "name": "Oregon State Beavers at Boise State Broncos",
           "tag": "College Football",
@@ -448,7 +65,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "178"
         },
         {
           "id": 32005,
@@ -493,36 +110,36 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "475"
         },
         {
-          "id": 32007,
-          "name": "Utah Utes at Arizona Wildcats",
+          "id": 32000,
+          "name": "Baylor Bears at BYU Cougars",
           "tag": "College Football",
           "source_tag": "HD | Fox",
-          "poster": "https://static.ppvservices.st/assets/thumb/a2164e606a888fd43286f74d88f957d3-thumbnail.jpg",
-          "blurhash": "L6HcTb?]i_4nnOozozoL008_bv?b",
+          "poster": "https://static.ppvservices.st/assets/thumb/ed4ba350b1b15dfc348370741d7e810f-thumbnail.jpg",
+          "blurhash": "LB9tQAvcajTgoLoJoKoK00k]ocVX",
           "colors": [
-            "#be0000",
-            "#cc0033"
+            "#154734",
+            "#0047ba"
           ],
-          "uri_name": "cfb/2026-11-14/utah-ariz",
-          "starts_at": 1794702600,
-          "ends_at": 1794717000,
+          "uri_name": "cfb/2026-11-14/bay-byu",
+          "starts_at": 1794700800,
+          "ends_at": 1794715200,
           "always_live": 0,
           "locale": "en",
           "category_name": "American Football",
           "substreams": [
             {
-              "id": 1032007,
-              "name": "Utah Utes at Arizona Wildcats",
+              "id": 1032000,
+              "name": "Baylor Bears at BYU Cougars",
               "tag": "College Football",
-              "uri_name": "cfb/2026-11-14/utah-ariz_540p",
+              "uri_name": "cfb/2026-11-14/bay-byu_540p",
               "source_tag": "SD | Fox",
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "166"
         },
         {
           "id": 32008,
@@ -567,7 +184,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "526"
         },
         {
           "id": 32010,
@@ -596,7 +213,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "21"
         },
         {
           "id": 32011,
@@ -625,7 +242,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "10"
         },
         {
           "id": 32012,
@@ -654,7 +271,36 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
+        },
+        {
+          "id": 32007,
+          "name": "Utah Utes at Arizona Wildcats",
+          "tag": "College Football",
+          "source_tag": "HD | Fox",
+          "poster": "https://static.ppvservices.st/assets/thumb/a2164e606a888fd43286f74d88f957d3-thumbnail.jpg",
+          "blurhash": "L6HcTb?]i_4nnOozozoL008_bv?b",
+          "colors": [
+            "#be0000",
+            "#cc0033"
+          ],
+          "uri_name": "cfb/2026-11-14/utah-ariz",
+          "starts_at": 1794713400,
+          "ends_at": 1794727800,
+          "always_live": 0,
+          "locale": "en",
+          "category_name": "American Football",
+          "substreams": [
+            {
+              "id": 1032007,
+              "name": "Utah Utes at Arizona Wildcats",
+              "tag": "College Football",
+              "uri_name": "cfb/2026-11-14/utah-ariz_540p",
+              "source_tag": "SD | Fox",
+              "locale": "en"
+            }
+          ],
+          "viewers": "1"
         },
         {
           "id": 31954,
@@ -889,6 +535,35 @@
           "viewers": "0"
         },
         {
+          "id": 32003,
+          "name": "Ole Miss Rebels at Oklahoma Sooners",
+          "tag": "College Football",
+          "source_tag": "HD | SEC Network",
+          "poster": "https://static.ppvservices.st/assets/thumb/83a51b3044f085f19f1ce542e219c1ea-thumbnail.jpg",
+          "blurhash": "L2B1*z3Z{hXRNaNuw{-B00#*Ki+v",
+          "colors": [
+            "#13294b",
+            "#990000"
+          ],
+          "uri_name": "cfb/2026-11-14/miss-ou",
+          "starts_at": 1794765600,
+          "ends_at": 1794780000,
+          "always_live": 0,
+          "locale": "en",
+          "category_name": "American Football",
+          "substreams": [
+            {
+              "id": 1032003,
+              "name": "Ole Miss Rebels at Oklahoma Sooners",
+              "tag": "College Football",
+              "uri_name": "cfb/2026-11-14/miss-ou_540p",
+              "source_tag": "SD | SEC Network",
+              "locale": "en"
+            }
+          ],
+          "viewers": "0"
+        },
+        {
           "id": 31970,
           "name": "Seattle Seahawks at Las Vegas Raiders",
           "tag": "NFL",
@@ -1002,7 +677,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 31975,
@@ -1096,7 +771,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "3"
         }
       ]
     },
@@ -1105,64 +780,6 @@
       "id": 37,
       "always_live": false,
       "streams": [
-        {
-          "id": 32155,
-          "name": "Stonehill Skyhawks at Texas Tech Red Raiders",
-          "tag": "College Basketball",
-          "source_tag": "HD | ESPN+",
-          "poster": "https://static.ppvservices.st/assets/thumb/e5e03416c8e0d595b79fb60f7b49c40e-thumbnail.jpg",
-          "blurhash": "L8DaDo1};3+]xabbj[f600{yOrbw",
-          "colors": [
-            "#000000",
-            "#da291c"
-          ],
-          "uri_name": "cbb/2026-11-14/sto-ttu",
-          "starts_at": 1794679200,
-          "ends_at": 1794690000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032155,
-              "name": "Stonehill Skyhawks at Texas Tech Red Raiders",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-14/sto-ttu_540p",
-              "source_tag": "SD | ESPN+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "16"
-        },
-        {
-          "id": 32156,
-          "name": "LSU Tigers at Gonzaga Bulldogs",
-          "tag": "College Basketball",
-          "source_tag": "HD | USA Net",
-          "poster": "https://static.ppvservices.st/assets/thumb/4c55f8f2ae4d75f95e7aa91f9df270a0-thumbnail.jpg",
-          "blurhash": "L48Dx2+OMzyGWXoMayfk00O]%LR1",
-          "colors": [
-            "#461d76",
-            "#041e42"
-          ],
-          "uri_name": "cbb/2026-11-14/lsu-gonz",
-          "starts_at": 1794688200,
-          "ends_at": 1794699000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032156,
-              "name": "LSU Tigers at Gonzaga Bulldogs",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-14/lsu-gonz_540p",
-              "source_tag": "SD | USA Net",
-              "locale": "en"
-            }
-          ],
-          "viewers": "67"
-        },
         {
           "id": 32144,
           "name": "Denver Nuggets vs. New Orleans Pelicans",
@@ -1190,7 +807,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1480"
         },
         {
           "id": 32145,
@@ -1235,7 +852,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "150"
         },
         {
           "id": 32147,
@@ -1280,7 +897,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "9"
         },
         {
           "id": 32149,
@@ -1325,7 +942,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32151,
@@ -1354,7 +971,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "17"
         },
         {
           "id": 32154,
@@ -1412,7 +1029,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32183,
@@ -1573,7 +1190,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32185,
@@ -1618,7 +1235,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         },
         {
           "id": 32187,
@@ -1647,7 +1264,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32188,
@@ -1766,7 +1383,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32193,
@@ -1995,7 +1612,36 @@
               "locale": "pt"
             }
           ],
-          "viewers": "221"
+          "viewers": "9492"
+        },
+        {
+          "id": 32224,
+          "name": "Pacheco vs. Fulghum",
+          "tag": "Boxing",
+          "source_tag": "HD | DAZN",
+          "poster": "https://static.ppvservices.st/assets/thumb/811a3ddb5132b71f1c5eb820439d827b-thumbnail.jpg",
+          "blurhash": "LEIV~b$.I7s*0uNbIxt20Ow$^%M~",
+          "colors": [
+            "#7101df",
+            "#7f00ff"
+          ],
+          "uri_name": "pacheco-vs-fulghum-32224",
+          "starts_at": 1794704400,
+          "ends_at": 1794722400,
+          "always_live": 0,
+          "locale": "en",
+          "category_name": "Combat Sports",
+          "substreams": [
+            {
+              "id": 1032224,
+              "name": "Pacheco vs. Fulghum",
+              "tag": "Boxing",
+              "uri_name": "pacheco-vs-fulghum-32224_540p",
+              "source_tag": "SD | DAZN",
+              "locale": "en"
+            }
+          ],
+          "viewers": "35"
         }
       ]
     },
@@ -2063,7 +1709,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "13"
+          "viewers": "15"
         },
         {
           "id": 27496,
@@ -2092,7 +1738,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "8"
         }
       ]
     },
@@ -2101,238 +1747,6 @@
       "id": 34,
       "always_live": false,
       "streams": [
-        {
-          "id": 32213,
-          "name": "Algeria vs. Togo",
-          "tag": "AFCON Qualifying",
-          "source_tag": "HD | beIN SPORTS 3",
-          "poster": "https://static.ppvservices.st/assets/thumb/f1db1a30a96a2ac945d6f0bb898bd2e7-thumbnail.jpg",
-          "blurhash": "L68=[L%N9?H;oLbGbFnk00ej=#yG",
-          "colors": [
-            "#4e9944",
-            "#189255"
-          ],
-          "uri_name": "afcon-qualifying/2026-11-14/alg-tog",
-          "starts_at": 1794682800,
-          "ends_at": 1794691800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032213,
-              "name": "Algeria vs. Togo",
-              "tag": "AFCON Qualifying",
-              "uri_name": "afcon-qualifying/2026-11-14/alg-tog_540p",
-              "source_tag": "SD | beIN SPORTS 3",
-              "locale": "en"
-            }
-          ],
-          "viewers": "436"
-        },
-        {
-          "id": 32214,
-          "name": "Angola vs. South Sudan",
-          "tag": "AFCON Qualifying",
-          "source_tag": "HD | beIN SPORTS 4",
-          "poster": "https://static.ppvservices.st/assets/thumb/af77c541084e89ab431b30be12933572-thumbnail.jpg",
-          "blurhash": "L2Gqn$0fz:7$[Y$ijuJ800PVK*{I",
-          "colors": [
-            "#bd0028",
-            "#d8131a"
-          ],
-          "uri_name": "afcon-qualifying/2026-11-14/ang-ssd",
-          "starts_at": 1794682800,
-          "ends_at": 1794691800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032214,
-              "name": "Angola vs. South Sudan",
-              "tag": "AFCON Qualifying",
-              "uri_name": "afcon-qualifying/2026-11-14/ang-ssd_540p",
-              "source_tag": "SD | beIN SPORTS 4",
-              "locale": "en"
-            }
-          ],
-          "viewers": "75"
-        },
-        {
-          "id": 32207,
-          "name": "Austria vs. Republic of Ireland",
-          "tag": "UEFA Nations League",
-          "source_tag": "HD | DAZN",
-          "poster": "https://static.ppvservices.st/assets/thumb/c694b087c1f462e3bed7c274a61490d6-thumbnail.jpg",
-          "blurhash": "LQE2ID{3$gS}j[jtayfQ0LOpSgay",
-          "colors": [
-            "#d52b2c",
-            "#049962"
-          ],
-          "uri_name": "uefa-nations-league/2026-11-14/aut-irl",
-          "starts_at": 1794685500,
-          "ends_at": 1794694500,
-          "always_live": 0,
-          "locale": "en-ca",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032207,
-              "name": "Austria vs. Republic of Ireland",
-              "tag": "UEFA Nations League",
-              "uri_name": "uefa-nations-league/2026-11-14/aut-irl_540p",
-              "source_tag": "SD | DAZN",
-              "locale": "en-ca"
-            }
-          ],
-          "viewers": "315"
-        },
-        {
-          "id": 32208,
-          "name": "Northern Ireland vs. Ukraine",
-          "tag": "UEFA Nations League",
-          "source_tag": "HD | DAZN",
-          "poster": "https://static.ppvservices.st/assets/thumb/018e9e2c26d998017ecb74e6c18f00d4-thumbnail.jpg",
-          "blurhash": "L6I:aL0E.aNER;s*ayRo00t[E9.6",
-          "colors": [
-            "#cc0001",
-            "#fddc01"
-          ],
-          "uri_name": "uefa-nations-league/2026-11-14/nir-ukr",
-          "starts_at": 1794685500,
-          "ends_at": 1794694500,
-          "always_live": 0,
-          "locale": "en-ca",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032208,
-              "name": "Northern Ireland vs. Ukraine",
-              "tag": "UEFA Nations League",
-              "uri_name": "uefa-nations-league/2026-11-14/nir-ukr_540p",
-              "source_tag": "SD | DAZN",
-              "locale": "en-ca"
-            }
-          ],
-          "viewers": "153"
-        },
-        {
-          "id": 32209,
-          "name": "Portugal vs. Denmark",
-          "tag": "UEFA Nations League",
-          "source_tag": "HD | DAZN",
-          "poster": "https://static.ppvservices.st/assets/thumb/e652a3f6b3622eb4eb143f098f3315f8-thumbnail.jpg",
-          "blurhash": "L2Hu9PI7rD.T$%a{WBjt00}_TdDh",
-          "colors": [
-            "#d9291c",
-            "#d02a3e"
-          ],
-          "uri_name": "uefa-nations-league/2026-11-14/por-den",
-          "starts_at": 1794685500,
-          "ends_at": 1794694500,
-          "always_live": 0,
-          "locale": "en-ca",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032209,
-              "name": "Portugal vs. Denmark",
-              "tag": "UEFA Nations League",
-              "uri_name": "uefa-nations-league/2026-11-14/por-den_540p",
-              "source_tag": "SD | DAZN",
-              "locale": "en-ca"
-            }
-          ],
-          "viewers": "3866"
-        },
-        {
-          "id": 32210,
-          "name": "Romania vs. Poland",
-          "tag": "UEFA Nations League",
-          "source_tag": "HD | DAZN",
-          "poster": "https://static.ppvservices.st/assets/thumb/4751b82fa0e48517c63a9d1aa6168d93-thumbnail.jpg",
-          "blurhash": "LAKm,tHXx{o~tRaKa|kV00%jMxWZ",
-          "colors": [
-            "#fdd118",
-            "#ffffff"
-          ],
-          "uri_name": "uefa-nations-league/2026-11-14/rou-pol",
-          "starts_at": 1794685500,
-          "ends_at": 1794694500,
-          "always_live": 0,
-          "locale": "en-ca",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032210,
-              "name": "Romania vs. Poland",
-              "tag": "UEFA Nations League",
-              "uri_name": "uefa-nations-league/2026-11-14/rou-pol_540p",
-              "source_tag": "SD | DAZN",
-              "locale": "en-ca"
-            }
-          ],
-          "viewers": "550"
-        },
-        {
-          "id": 32211,
-          "name": "Sweden vs. Bosnia-Herzegovina",
-          "tag": "UEFA Nations League",
-          "source_tag": "HD | DAZN",
-          "poster": "https://static.ppvservices.st/assets/thumb/eaeac30e84385f5d590e5ad247dad9d1-thumbnail.jpg",
-          "blurhash": "LaEB~C~3$zafoKa}fPj?9aM~R-R-",
-          "colors": [
-            "#fecb02",
-            "#112854"
-          ],
-          "uri_name": "uefa-nations-league/2026-11-14/swe-bih",
-          "starts_at": 1794685500,
-          "ends_at": 1794694500,
-          "always_live": 0,
-          "locale": "en-ca",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032211,
-              "name": "Sweden vs. Bosnia-Herzegovina",
-              "tag": "UEFA Nations League",
-              "uri_name": "uefa-nations-league/2026-11-14/swe-bih_540p",
-              "source_tag": "SD | DAZN",
-              "locale": "en-ca"
-            }
-          ],
-          "viewers": "1682"
-        },
-        {
-          "id": 32215,
-          "name": "Haiti vs. United States",
-          "tag": "Concacaf Nations League",
-          "source_tag": "HD | TBS",
-          "poster": "https://static.ppvservices.st/assets/thumb/6997fb4449b4f022c2a12ce044221461-thumbnail.jpg",
-          "blurhash": "L47^l:4+j0%zJVS$oLni00?rkVI9",
-          "colors": [
-            "#0134a1",
-            "#233065"
-          ],
-          "uri_name": "concacaf-nations-league/2026-11-14/hai-usa",
-          "starts_at": 1794691800,
-          "ends_at": 1794700800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032215,
-              "name": "Haiti vs. United States",
-              "tag": "Concacaf Nations League",
-              "uri_name": "concacaf-nations-league/2026-11-14/hai-usa_540p",
-              "source_tag": "SD | TBS",
-              "locale": "en"
-            }
-          ],
-          "viewers": "17"
-        },
         {
           "id": 32015,
           "name": "Querétaro vs. Monterrey",
@@ -2360,7 +1774,7 @@
               "locale": "es-us"
             }
           ],
-          "viewers": "1"
+          "viewers": "133"
         },
         {
           "id": 32216,
@@ -2389,7 +1803,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "40"
         }
       ]
     },
@@ -2425,7 +1839,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "18"
+          "viewers": "3"
         }
       ]
     },
@@ -2461,65 +1875,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
-        },
-        {
-          "id": 32169,
-          "name": "Seattle Kraken vs. Carolina Hurricanes",
-          "tag": "NHL",
-          "source_tag": "HD | CARNHL",
-          "poster": "https://static.ppvservices.st/assets/thumb/3ef20d409a74a2b8e4eeb1f8e6656472-thumbnail.jpg",
-          "blurhash": "LBC|:s1|+b,?oLa|fkf60K|^TJWB",
-          "colors": [
-            "#000d33",
-            "#e30426"
-          ],
-          "uri_name": "nhl/2026-11-14/sea-car",
-          "starts_at": 1794679200,
-          "ends_at": 1794690000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Ice Hockey",
-          "substreams": [
-            {
-              "id": 1032169,
-              "name": "Seattle Kraken vs. Carolina Hurricanes",
-              "tag": "NHL",
-              "uri_name": "nhl/2026-11-14/sea-car_540p",
-              "source_tag": "SD | CARNHL",
-              "locale": "en"
-            }
-          ],
-          "viewers": "86"
-        },
-        {
-          "id": 32170,
-          "name": "Winnipeg Jets vs. Chicago Blackhawks",
-          "tag": "NHL",
-          "source_tag": "HD | CHSN",
-          "poster": "https://static.ppvservices.st/assets/thumb/9d88feafab6d5a85ddef199cd1e6e4a3-thumbnail.jpg",
-          "blurhash": "L8DaQ83s:+Mvj]j[jZWV00:iTJ-q",
-          "colors": [
-            "#002d62",
-            "#e31937"
-          ],
-          "uri_name": "nhl/2026-11-14/wpg-chi",
-          "starts_at": 1794688200,
-          "ends_at": 1794699000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Ice Hockey",
-          "substreams": [
-            {
-              "id": 1032170,
-              "name": "Winnipeg Jets vs. Chicago Blackhawks",
-              "tag": "NHL",
-              "uri_name": "nhl/2026-11-14/wpg-chi_540p",
-              "source_tag": "SD | CHSN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "267"
+          "viewers": "8"
         },
         {
           "id": 32171,
@@ -2548,7 +1904,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "214"
         },
         {
           "id": 32172,
@@ -2577,7 +1933,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "862"
         },
         {
           "id": 32173,
@@ -2606,7 +1962,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "867"
         },
         {
           "id": 32174,
@@ -2635,7 +1991,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "77"
         },
         {
           "id": 32175,
@@ -2664,7 +2020,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "162"
         },
         {
           "id": 32176,
@@ -2693,7 +2049,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "92"
         },
         {
           "id": 32177,
@@ -2722,7 +2078,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "33"
         },
         {
           "id": 32178,
@@ -2751,7 +2107,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "58"
         },
         {
           "id": 32179,
@@ -2780,7 +2136,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32180,
@@ -2809,7 +2165,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32181,
@@ -2903,7 +2259,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "12"
+          "viewers": "7"
         }
       ]
     },
@@ -2913,33 +2269,33 @@
       "always_live": false,
       "streams": [
         {
-          "id": 32020,
-          "name": "AEW Saturday Night Collision",
+          "id": 32225,
+          "name": "AEW Full Gear",
           "tag": "Wrestling",
-          "source_tag": "HD | TNT",
-          "poster": "https://static.ppvservices.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",
-          "blurhash": "LDDk_9Na01of}mNwNMbF0TS#^cae",
+          "source_tag": "HD | PPV",
+          "poster": "https://static.ppvservices.st/assets/thumb/60795419dea1562c4d49da8839909798-thumbnail.jpg",
+          "blurhash": "LKGQqG0NnPRi~AMyoxRjMz9v?FWY",
           "colors": [
-            "#210e10",
-            "#160c0a"
+            "#1f1815",
+            "#4d2210"
           ],
-          "uri_name": "aew/2026-11-14",
-          "starts_at": 1794704400,
-          "ends_at": 1794715200,
+          "uri_name": "aew-full-gear-32225",
+          "starts_at": 1794700800,
+          "ends_at": 1794722400,
           "always_live": 0,
           "locale": "en",
           "category_name": "Wrestling",
           "substreams": [
             {
-              "id": 1032020,
-              "name": "AEW Saturday Night Collision",
+              "id": 1032225,
+              "name": "AEW Full Gear",
               "tag": "Wrestling",
-              "uri_name": "aew/2026-11-14_540p",
-              "source_tag": "SD | TNT",
+              "uri_name": "aew-full-gear-32225_540p",
+              "source_tag": "SD | PPV",
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "340"
         }
       ]
     },
@@ -2975,7 +2331,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "15"
+          "viewers": "5"
         },
         {
           "id": 3663,
@@ -3033,7 +2389,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "25"
+          "viewers": "18"
         },
         {
           "id": 5191,
@@ -3062,7 +2418,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "3"
         },
         {
           "id": 16623,
@@ -3091,7 +2447,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "1"
         },
         {
           "id": 17270,
@@ -3111,7 +2467,7 @@
           "locale": "en",
           "category_name": "24/7 Streams",
           "substreams": [],
-          "viewers": "4"
+          "viewers": "3"
         },
         {
           "id": 30527,
@@ -3169,7 +2525,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "2"
         },
         {
           "id": 31730,
@@ -3198,14 +2554,14 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "4"
         }
       ]
     }
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-14T20:50:06.206047+00:00",
+    "captured_utc": "2026-11-15T00:31:47.632596+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
