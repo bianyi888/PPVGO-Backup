@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1794847300,
+  "timestamp": 1794875690,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.05833601951599121,
+  "performance": 0.03581500053405762,
   "streams": [
     {
       "category": "American Football",
@@ -36,7 +36,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "9"
+          "viewers": "52"
         },
         {
           "id": 31976,
@@ -65,7 +65,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "237"
         },
         {
           "id": 32263,
@@ -94,7 +94,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         },
         {
           "id": 32286,
@@ -564,7 +564,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "3"
         },
         {
           "id": 32313,
@@ -1163,7 +1163,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32283,
@@ -1264,7 +1264,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2396"
         },
         {
           "id": 32232,
@@ -1293,7 +1293,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "883"
         },
         {
           "id": 32233,
@@ -1322,7 +1322,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "953"
         },
         {
           "id": 32241,
@@ -1351,7 +1351,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "4"
         },
         {
           "id": 32234,
@@ -1380,7 +1380,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "481"
         },
         {
           "id": 32235,
@@ -1409,7 +1409,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "461"
         },
         {
           "id": 32236,
@@ -1454,7 +1454,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "20"
         },
         {
           "id": 32238,
@@ -1483,7 +1483,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "9"
         },
         {
           "id": 32239,
@@ -2121,7 +2121,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "51"
+          "viewers": "16"
         },
         {
           "id": 27496,
@@ -2150,7 +2150,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "18"
+          "viewers": "4"
         }
       ]
     },
@@ -2159,35 +2159,6 @@
       "id": 32,
       "always_live": false,
       "streams": [
-        {
-          "id": 32253,
-          "name": "Grand Slam of Darts | Day 3",
-          "tag": "PDC Darts",
-          "source_tag": "HD | PDC.TV",
-          "poster": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
-          "blurhash": "LeDe-5?@ovD7kpa1k-VdEJJ#bEwP",
-          "colors": [
-            "#20422a",
-            "#78ff87"
-          ],
-          "uri_name": "grand-slam-of-darts--day-3-32253",
-          "starts_at": 1794855600,
-          "ends_at": 1794873600,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Darts",
-          "substreams": [
-            {
-              "id": 1032253,
-              "name": "Grand Slam of Darts | Day 3",
-              "tag": "PDC Darts",
-              "uri_name": "grand-slam-of-darts--day-3-32253_540p",
-              "source_tag": "SD | PDC.TV",
-              "locale": "en"
-            }
-          ],
-          "viewers": "1"
-        },
         {
           "id": 32254,
           "name": "Grand Slam of Darts | Day 4",
@@ -2244,7 +2215,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         },
         {
           "id": 32256,
@@ -2273,7 +2244,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32257,
@@ -2398,383 +2369,6 @@
       "id": 34,
       "always_live": false,
       "streams": [
-        {
-          "id": 32408,
-          "name": "Faroe Islands vs. Moldova",
-          "tag": "UEFA Nations League",
-          "source_tag": "HD | DAZN",
-          "poster": "https://static.ppvservices.st/assets/thumb/e912375e5e67af411c8810f797762541-thumbnail.jpg",
-          "blurhash": "LeE{qy~o%0Rjj[j[fQfQ4-IVR*WE",
-          "colors": [
-            "#ffffff",
-            "#0146ad"
-          ],
-          "uri_name": "uefa-nations-league/2026-11-16/fro-mda",
-          "starts_at": 1794841200,
-          "ends_at": 1794850200,
-          "always_live": 0,
-          "locale": "en-ca",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032408,
-              "name": "Faroe Islands vs. Moldova",
-              "tag": "UEFA Nations League",
-              "uri_name": "uefa-nations-league/2026-11-16/fro-mda_540p",
-              "source_tag": "SD | DAZN",
-              "locale": "en-ca"
-            }
-          ],
-          "viewers": "248"
-        },
-        {
-          "id": 32409,
-          "name": "Kazakhstan vs. Slovakia",
-          "tag": "UEFA Nations League",
-          "source_tag": "HD | DAZN",
-          "poster": "https://static.ppvservices.st/assets/thumb/fad58e5c89d4169e5b9f5d810dd81d44-thumbnail.jpg",
-          "blurhash": "LG6vfmLhT0#TozaeazkC8wz{ngNz",
-          "colors": [
-            "#01abc2",
-            "#0d30fe"
-          ],
-          "uri_name": "uefa-nations-league/2026-11-16/kaz-svk",
-          "starts_at": 1794841200,
-          "ends_at": 1794850200,
-          "always_live": 0,
-          "locale": "en-ca",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032409,
-              "name": "Kazakhstan vs. Slovakia",
-              "tag": "UEFA Nations League",
-              "uri_name": "uefa-nations-league/2026-11-16/kaz-svk_540p",
-              "source_tag": "SD | DAZN",
-              "locale": "en-ca"
-            }
-          ],
-          "viewers": "386"
-        },
-        {
-          "id": 32421,
-          "name": "Somalia vs. Ghana",
-          "tag": "AFCON Qualifying",
-          "source_tag": "HD | beIN SPORTS 6",
-          "poster": "https://static.ppvservices.st/assets/thumb/369c03ef56222f6eb39f3e1a214203c7-thumbnail.jpg",
-          "blurhash": "LXEyl30[sqr;oLa}fQja8{$cWUkV",
-          "colors": [
-            "#428fdf",
-            "#fbd534"
-          ],
-          "uri_name": "afcon-qualifying/2026-11-16/som-gha",
-          "starts_at": 1794841200,
-          "ends_at": 1794850200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032421,
-              "name": "Somalia vs. Ghana",
-              "tag": "AFCON Qualifying",
-              "uri_name": "afcon-qualifying/2026-11-16/som-gha_540p",
-              "source_tag": "SD | beIN SPORTS 6",
-              "locale": "en"
-            }
-          ],
-          "viewers": "493"
-        },
-        {
-          "id": 32422,
-          "name": "Central African Republic vs. Benin",
-          "tag": "AFCON Qualifying",
-          "source_tag": "HD | beIN SPORTS 3",
-          "poster": "https://static.ppvservices.st/assets/thumb/c0a6c9660551ff1d30c85891b5ba3feb-thumbnail.jpg",
-          "blurhash": "L17_fgHp^Y0cO@IKoxxm00#yBE~q",
-          "colors": [
-            "#061d47",
-            "#008651"
-          ],
-          "uri_name": "afcon-qualifying/2026-11-16/cta-ben",
-          "starts_at": 1794844800,
-          "ends_at": 1794853800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032422,
-              "name": "Central African Republic vs. Benin",
-              "tag": "AFCON Qualifying",
-              "uri_name": "afcon-qualifying/2026-11-16/cta-ben_540p",
-              "source_tag": "SD | beIN SPORTS 3",
-              "locale": "en"
-            }
-          ],
-          "viewers": "33"
-        },
-        {
-          "id": 32410,
-          "name": "Estonia vs. Bulgaria",
-          "tag": "UEFA Nations League",
-          "source_tag": "HD | DAZN",
-          "poster": "https://static.ppvservices.st/assets/thumb/4341f2be818a6c5e4b1cfe01ce5fe927-thumbnail.jpg",
-          "blurhash": "LNC}-Z2|wis,bIWBazof4-$1W-nh",
-          "colors": [
-            "#195dcc",
-            "#d52613"
-          ],
-          "uri_name": "uefa-nations-league/2026-11-16/est-bul",
-          "starts_at": 1794848400,
-          "ends_at": 1794857400,
-          "always_live": 0,
-          "locale": "en-ca",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032410,
-              "name": "Estonia vs. Bulgaria",
-              "tag": "UEFA Nations League",
-              "uri_name": "uefa-nations-league/2026-11-16/est-bul_540p",
-              "source_tag": "SD | DAZN",
-              "locale": "en-ca"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32411,
-          "name": "Iceland vs. Luxembourg",
-          "tag": "UEFA Nations League",
-          "source_tag": "HD | DAZN",
-          "poster": "https://static.ppvservices.st/assets/thumb/ca7c4e351a35338743c8e0a8c67595a8-thumbnail.jpg",
-          "blurhash": "LWDtJv1-wjt7n%W=azjZ5N$xW,i]",
-          "colors": [
-            "#0d30fe",
-            "#e70103"
-          ],
-          "uri_name": "uefa-nations-league/2026-11-16/isl-lux",
-          "starts_at": 1794848400,
-          "ends_at": 1794857400,
-          "always_live": 0,
-          "locale": "en-ca",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032411,
-              "name": "Iceland vs. Luxembourg",
-              "tag": "UEFA Nations League",
-              "uri_name": "uefa-nations-league/2026-11-16/isl-lux_540p",
-              "source_tag": "SD | DAZN",
-              "locale": "en-ca"
-            }
-          ],
-          "viewers": "1"
-        },
-        {
-          "id": 32412,
-          "name": "Lithuania vs. Liechtenstein",
-          "tag": "UEFA Nations League",
-          "source_tag": "HD | DAZN",
-          "poster": "https://static.ppvservices.st/assets/thumb/f1efddf20db4d2b355108a6201e7d2d6-thumbnail.jpg",
-          "blurhash": "LdEeoa~HxtWEf*oJfQa#9uN3R*R.",
-          "colors": [
-            "#ffe401",
-            "#0000cc"
-          ],
-          "uri_name": "uefa-nations-league/2026-11-16/ltu-lie",
-          "starts_at": 1794848400,
-          "ends_at": 1794857400,
-          "always_live": 0,
-          "locale": "en-ca",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032412,
-              "name": "Lithuania vs. Liechtenstein",
-              "tag": "UEFA Nations League",
-              "uri_name": "uefa-nations-league/2026-11-16/ltu-lie_540p",
-              "source_tag": "SD | DAZN",
-              "locale": "en-ca"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32423,
-          "name": "Eritrea vs. Guinea",
-          "tag": "AFCON Qualifying",
-          "source_tag": "HD | beIN SPORTS 4",
-          "poster": "https://static.ppvservices.st/assets/thumb/8a28b8491fd8846096cfd98d1945c1fc-thumbnail.jpg",
-          "blurhash": "LCD+6K4Ox--3oIa_j[j]04#*WGRE",
-          "colors": [
-            "#42b02b",
-            "#d00300"
-          ],
-          "uri_name": "afcon-qualifying/2026-11-16/eri-gui",
-          "starts_at": 1794848400,
-          "ends_at": 1794857400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032423,
-              "name": "Eritrea vs. Guinea",
-              "tag": "AFCON Qualifying",
-              "uri_name": "afcon-qualifying/2026-11-16/eri-gui_540p",
-              "source_tag": "SD | beIN SPORTS 4",
-              "locale": "en"
-            }
-          ],
-          "viewers": "29"
-        },
-        {
-          "id": 32413,
-          "name": "Gibraltar vs. Malta",
-          "tag": "UEFA Nations League",
-          "source_tag": "HD | DAZN",
-          "poster": "https://static.ppvservices.st/assets/thumb/6a511e999c7adb4d654bba9f4ccfd708-thumbnail.jpg",
-          "blurhash": "L2IxXR.S.n.S.8t,afR500H?HWHr",
-          "colors": [
-            "#de2a19",
-            "#dc2400"
-          ],
-          "uri_name": "uefa-nations-league/2026-11-16/gib-mlt",
-          "starts_at": 1794858300,
-          "ends_at": 1794867300,
-          "always_live": 0,
-          "locale": "en-ca",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032413,
-              "name": "Gibraltar vs. Malta",
-              "tag": "UEFA Nations League",
-              "uri_name": "uefa-nations-league/2026-11-16/gib-mlt_540p",
-              "source_tag": "SD | DAZN",
-              "locale": "en-ca"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32414,
-          "name": "Greece vs. Serbia",
-          "tag": "UEFA Nations League",
-          "source_tag": "HD | DAZN",
-          "poster": "https://static.ppvservices.st/assets/thumb/d24378502922384692993c806528ed55-thumbnail.jpg",
-          "blurhash": "LHEKj03Z$9r=jFkCayae00+tSwso",
-          "colors": [
-            "#295da8",
-            "#e70103"
-          ],
-          "uri_name": "uefa-nations-league/2026-11-16/gre-srb",
-          "starts_at": 1794858300,
-          "ends_at": 1794867300,
-          "always_live": 0,
-          "locale": "en-ca",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032414,
-              "name": "Greece vs. Serbia",
-              "tag": "UEFA Nations League",
-              "uri_name": "uefa-nations-league/2026-11-16/gre-srb_540p",
-              "source_tag": "SD | DAZN",
-              "locale": "en-ca"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32415,
-          "name": "North Macedonia vs. Slovenia",
-          "tag": "UEFA Nations League",
-          "source_tag": "HD | DAZN",
-          "poster": "https://static.ppvservices.st/assets/thumb/7c0af8f1a0b9a4ca1780efeca9f5fe37-thumbnail.jpg",
-          "blurhash": "LBJ?Q;Q8%~I_tRV@fQkC00LNIU--",
-          "colors": [
-            "#e70103",
-            "#ffffff"
-          ],
-          "uri_name": "uefa-nations-league/2026-11-16/mkd-svn",
-          "starts_at": 1794858300,
-          "ends_at": 1794867300,
-          "always_live": 0,
-          "locale": "en-ca",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032415,
-              "name": "North Macedonia vs. Slovenia",
-              "tag": "UEFA Nations League",
-              "uri_name": "uefa-nations-league/2026-11-16/mkd-svn_540p",
-              "source_tag": "SD | DAZN",
-              "locale": "en-ca"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32416,
-          "name": "Switzerland vs. Scotland",
-          "tag": "UEFA Nations League",
-          "source_tag": "HD | DAZN",
-          "poster": "https://static.ppvservices.st/assets/thumb/ecd4b7f261d259cd6835152bf7c4f507-thumbnail.jpg",
-          "blurhash": "LeFC^,{{wfX8j[jtf7fQ5QK5W;WB",
-          "colors": [
-            "#fe0000",
-            "#1a2d68"
-          ],
-          "uri_name": "uefa-nations-league/2026-11-16/sui-sco",
-          "starts_at": 1794858300,
-          "ends_at": 1794867300,
-          "always_live": 0,
-          "locale": "en-ca",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032416,
-              "name": "Switzerland vs. Scotland",
-              "tag": "UEFA Nations League",
-              "uri_name": "uefa-nations-league/2026-11-16/sui-sco_540p",
-              "source_tag": "SD | DAZN",
-              "locale": "en-ca"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32417,
-          "name": "Germany vs. Netherlands",
-          "tag": "UEFA Nations League",
-          "source_tag": "HD | DAZN",
-          "poster": "https://static.ppvservices.st/assets/thumb/dea4742dab5d5f11e1acb18054073ac1-thumbnail.jpg",
-          "blurhash": "LVKS-MqFtSohn*WXfQoJ0Li{RjVr",
-          "colors": [
-            "#ffffff",
-            "#fb5e01"
-          ],
-          "uri_name": "uefa-nations-league/2026-11-16/ger-ned",
-          "starts_at": 1794858300,
-          "ends_at": 1794867300,
-          "always_live": 0,
-          "locale": "en-ca",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032417,
-              "name": "Germany vs. Netherlands",
-              "tag": "UEFA Nations League",
-              "uri_name": "uefa-nations-league/2026-11-16/ger-ned_540p",
-              "source_tag": "SD | DAZN",
-              "locale": "en-ca"
-            }
-          ],
-          "viewers": "4"
-        },
         {
           "id": 32372,
           "name": "Orlando City SC vs. FC Cincinnati",
@@ -3150,7 +2744,7 @@
               "locale": "sv"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32396,
@@ -4716,7 +4310,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32360,
@@ -5100,7 +4694,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "19"
+          "viewers": "5"
         }
       ]
     },
@@ -5136,7 +4730,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "6"
+          "viewers": "9"
         },
         {
           "id": 32262,
@@ -5165,7 +4759,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "608"
         },
         {
           "id": 32264,
@@ -5194,7 +4788,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         }
       ]
     },
@@ -6022,7 +5616,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "3"
         }
       ]
     },
@@ -6058,7 +5652,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "22"
+          "viewers": "9"
         },
         {
           "id": 32479,
@@ -6087,7 +5681,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "6"
         }
       ]
     },
@@ -6275,7 +5869,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "12"
+          "viewers": "14"
         },
         {
           "id": 3663,
@@ -6304,7 +5898,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 8008,
@@ -6333,7 +5927,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "26"
+          "viewers": "13"
         },
         {
           "id": 5191,
@@ -6362,7 +5956,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "2"
         },
         {
           "id": 16623,
@@ -6391,7 +5985,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "6"
+          "viewers": "4"
         },
         {
           "id": 17270,
@@ -6440,7 +6034,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "1"
         },
         {
           "id": 31729,
@@ -6469,7 +6063,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "6"
+          "viewers": "12"
         },
         {
           "id": 31730,
@@ -6498,14 +6092,14 @@
               "locale": "en"
             }
           ],
-          "viewers": "6"
+          "viewers": "5"
         }
       ]
     }
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-16T16:41:38.427996+00:00",
+    "captured_utc": "2026-11-17T00:34:42.632489+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
