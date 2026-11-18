@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1794989050,
+  "timestamp": 1795022650,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.03805685043334961,
+  "performance": 0.057106971740722656,
   "streams": [
     {
       "category": "American Football",
@@ -213,7 +213,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32296,
@@ -1199,7 +1199,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         }
       ]
     },
@@ -1208,35 +1208,6 @@
       "id": 37,
       "always_live": false,
       "streams": [
-        {
-          "id": 32508,
-          "name": "New Zealand Breakers vs. South East Melbourne Phoenix",
-          "tag": "NBL",
-          "source_tag": "HD | ESPN",
-          "poster": "https://static.ppvservices.st/assets/thumb/60daceaf9c6d7cbbb91fde53f69c4532-thumbnail.jpg",
-          "blurhash": "LQF5Nq_^s:ScoMaefQof0LKHa#kC",
-          "colors": [
-            "#e33c95",
-            "#69bf29"
-          ],
-          "uri_name": "nbl/2026-11-18/nzl-pnx",
-          "starts_at": 1794983400,
-          "ends_at": 1794994200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032508,
-              "name": "New Zealand Breakers vs. South East Melbourne Phoenix",
-              "tag": "NBL",
-              "uri_name": "nbl/2026-11-18/nzl-pnx_540p",
-              "source_tag": "SD | ESPN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "11"
-        },
         {
           "id": 32557,
           "name": "Houston Cougars at Florida Gators",
@@ -1264,7 +1235,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32491,
@@ -1821,7 +1792,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         },
         {
           "id": 32506,
@@ -1895,7 +1866,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32556,
@@ -2259,7 +2230,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "29"
+          "viewers": "18"
         },
         {
           "id": 27496,
@@ -2288,7 +2259,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "395"
+          "viewers": "19"
         }
       ]
     },
@@ -2563,7 +2534,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32363,
@@ -2737,7 +2708,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32325,
@@ -4803,7 +4774,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "3"
         }
       ]
     },
@@ -4839,7 +4810,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "1"
         },
         {
           "id": 32545,
@@ -5754,7 +5725,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "1"
         }
       ]
     },
@@ -5790,7 +5761,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "12"
         },
         {
           "id": 32479,
@@ -5819,7 +5790,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "3"
         }
       ]
     },
@@ -5978,7 +5949,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "17"
+          "viewers": "6"
         },
         {
           "id": 3663,
@@ -6007,7 +5978,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "1"
         },
         {
           "id": 8008,
@@ -6036,7 +6007,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "24"
+          "viewers": "11"
         },
         {
           "id": 5191,
@@ -6065,7 +6036,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "1"
         },
         {
           "id": 16623,
@@ -6094,7 +6065,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "4"
         },
         {
           "id": 17270,
@@ -6114,7 +6085,7 @@
           "locale": "en",
           "category_name": "24/7 Streams",
           "substreams": [],
-          "viewers": "3"
+          "viewers": "1"
         },
         {
           "id": 30527,
@@ -6172,7 +6143,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "3"
         },
         {
           "id": 31730,
@@ -6208,7 +6179,7 @@
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-18T08:04:04.016184+00:00",
+    "captured_utc": "2026-11-18T17:24:04.774302+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
