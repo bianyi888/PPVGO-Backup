@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1795095560,
+  "timestamp": 1795125320,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.06077098846435547,
+  "performance": 0.03650403022766113,
   "streams": [
     {
       "category": "American Football",
@@ -36,7 +36,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "10"
+          "viewers": "19"
         },
         {
           "id": 32263,
@@ -65,7 +65,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "5"
         },
         {
           "id": 32286,
@@ -94,7 +94,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32288,
@@ -873,7 +873,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32268,
@@ -1199,7 +1199,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "2"
         }
       ]
     },
@@ -1235,7 +1235,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "98"
         },
         {
           "id": 32548,
@@ -1309,7 +1309,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32551,
@@ -2111,7 +2111,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "34"
+          "viewers": "47"
         },
         {
           "id": 27496,
@@ -2140,7 +2140,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "10"
+          "viewers": "9"
         }
       ]
     },
@@ -2176,7 +2176,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "855"
         },
         {
           "id": 32257,
@@ -2386,7 +2386,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32363,
@@ -2531,7 +2531,7 @@
               "locale": "es-us"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32343,
@@ -2560,7 +2560,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32325,
@@ -2995,7 +2995,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32326,
@@ -3140,7 +3140,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32327,
@@ -3691,7 +3691,7 @@
               "locale": "es-us"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32383,
@@ -4662,7 +4662,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "2"
         },
         {
           "id": 32561,
@@ -4691,7 +4691,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32562,
@@ -4836,7 +4836,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32567,
@@ -4865,7 +4865,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32568,
@@ -4923,7 +4923,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32570,
@@ -5174,7 +5174,7 @@
               "locale": "pl"
             }
           ],
-          "viewers": "1"
+          "viewers": "4"
         },
         {
           "id": 32435,
@@ -5645,7 +5645,7 @@
               "locale": "pl"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32468,
@@ -5838,7 +5838,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "0"
         }
       ]
     },
@@ -5874,7 +5874,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "91"
+          "viewers": "36"
         },
         {
           "id": 32479,
@@ -5903,7 +5903,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "4"
         }
       ]
     },
@@ -6033,7 +6033,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "10"
+          "viewers": "15"
         },
         {
           "id": 3663,
@@ -6091,7 +6091,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "15"
+          "viewers": "16"
         },
         {
           "id": 5191,
@@ -6120,7 +6120,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "1"
         },
         {
           "id": 16623,
@@ -6149,7 +6149,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "6"
+          "viewers": "4"
         },
         {
           "id": 17270,
@@ -6169,7 +6169,7 @@
           "locale": "en",
           "category_name": "24/7 Streams",
           "substreams": [],
-          "viewers": "1"
+          "viewers": "2"
         },
         {
           "id": 30527,
@@ -6198,7 +6198,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 31729,
@@ -6227,7 +6227,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "5"
         },
         {
           "id": 31730,
@@ -6256,14 +6256,14 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "3"
         }
       ]
     }
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-19T13:39:13.084999+00:00",
+    "captured_utc": "2026-11-19T21:55:16.021072+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
