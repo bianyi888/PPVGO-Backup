@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1795125320,
+  "timestamp": 1795142740,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.03650403022766113,
+  "performance": 0.06572794914245605,
   "streams": [
     {
       "category": "American Football",
@@ -36,7 +36,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "19"
+          "viewers": "11"
         },
         {
           "id": 32263,
@@ -65,7 +65,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "4987"
         },
         {
           "id": 32286,
@@ -844,7 +844,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32266,
@@ -931,7 +931,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32273,
@@ -1209,35 +1209,6 @@
       "always_live": false,
       "streams": [
         {
-          "id": 32586,
-          "name": "Florida Gators at West Virginia Mountaineers",
-          "tag": "College Basketball",
-          "source_tag": "HD | ESPN",
-          "poster": "https://static.ppvservices.st/assets/thumb/66be3fa05e168f9b1ae4fee4afafeb5d-thumbnail.jpg",
-          "blurhash": "LCELd70G=z?Gt8V@ayog00~SNZRO",
-          "colors": [
-            "#0021a5",
-            "#eaaa00"
-          ],
-          "uri_name": "cbb/2026-11-19/fla-wvu",
-          "starts_at": 1795116600,
-          "ends_at": 1795127400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032586,
-              "name": "Florida Gators at West Virginia Mountaineers",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-19/fla-wvu_540p",
-              "source_tag": "SD | ESPN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "98"
-        },
-        {
           "id": 32548,
           "name": "Golden State Warriors vs. Memphis Grizzlies",
           "tag": "NBA",
@@ -1264,7 +1235,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1016"
         },
         {
           "id": 32549,
@@ -1309,7 +1280,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "809"
         },
         {
           "id": 32551,
@@ -1370,7 +1341,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "3323"
         },
         {
           "id": 32554,
@@ -1415,7 +1386,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2195"
         },
         {
           "id": 32558,
@@ -1444,7 +1415,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "6"
         },
         {
           "id": 32559,
@@ -1473,7 +1444,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "11"
         },
         {
           "id": 32560,
@@ -1531,7 +1502,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32585,
@@ -1808,7 +1779,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32579,
@@ -2111,7 +2082,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "47"
+          "viewers": "362"
         },
         {
           "id": 27496,
@@ -2140,7 +2111,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "9"
+          "viewers": "53"
         }
       ]
     },
@@ -2149,35 +2120,6 @@
       "id": 32,
       "always_live": false,
       "streams": [
-        {
-          "id": 32256,
-          "name": "Grand Slam of Darts | Day 6",
-          "tag": "PDC Darts",
-          "source_tag": "HD | PDC.TV",
-          "poster": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
-          "blurhash": "LeDe-5?@ovD7kpa1k-VdEJJ#bEwP",
-          "colors": [
-            "#20422a",
-            "#78ff87"
-          ],
-          "uri_name": "grand-slam-of-darts--day-6-32256",
-          "starts_at": 1795114800,
-          "ends_at": 1795132800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Darts",
-          "substreams": [
-            {
-              "id": 1032256,
-              "name": "Grand Slam of Darts | Day 6",
-              "tag": "PDC Darts",
-              "uri_name": "grand-slam-of-darts--day-6-32256_540p",
-              "source_tag": "SD | PDC.TV",
-              "locale": "en"
-            }
-          ],
-          "viewers": "855"
-        },
         {
           "id": 32257,
           "name": "Grand Slam of Darts | Day 7",
@@ -2328,7 +2270,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "55"
         },
         {
           "id": 32373,
@@ -2357,7 +2299,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "6"
         },
         {
           "id": 32334,
@@ -2560,7 +2502,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32325,
@@ -4242,7 +4184,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32360,
@@ -4626,7 +4568,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "2"
         }
       ]
     },
@@ -4691,7 +4633,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1000"
         },
         {
           "id": 32562,
@@ -4720,7 +4662,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "286"
         },
         {
           "id": 32563,
@@ -4749,7 +4691,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "40"
         },
         {
           "id": 32564,
@@ -4778,7 +4720,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "104"
         },
         {
           "id": 32565,
@@ -4807,7 +4749,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1577"
         },
         {
           "id": 32566,
@@ -4836,7 +4778,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "35"
         },
         {
           "id": 32567,
@@ -4865,7 +4807,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "403"
         },
         {
           "id": 32568,
@@ -4894,7 +4836,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "51"
         },
         {
           "id": 32569,
@@ -4923,7 +4865,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "139"
         },
         {
           "id": 32570,
@@ -4952,7 +4894,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "38"
         },
         {
           "id": 32571,
@@ -4981,7 +4923,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "50"
         },
         {
           "id": 32572,
@@ -5019,163 +4961,6 @@
       "id": 35,
       "always_live": false,
       "streams": [
-        {
-          "id": 32424,
-          "name": "Las Vegas Grand Prix - Practice 1",
-          "tag": "Formula 1",
-          "source_tag": "HD | Sky Sports F1",
-          "poster": "https://static.ppvservices.st/assets/thumb/a4e51bfec583268fd1a064ffb4c8a18e-thumbnail.jpg",
-          "blurhash": "LMB4v|m98_pu?]H@IByC+QS[WBw~",
-          "colors": [
-            "#070506",
-            "#010101"
-          ],
-          "uri_name": "f1/2026/las-vegas/fp1",
-          "starts_at": 1795134600,
-          "ends_at": 1795141800,
-          "always_live": 0,
-          "locale": "en-gb",
-          "category_name": "Motorsports",
-          "substreams": [
-            {
-              "id": 1032424,
-              "name": "Las Vegas Grand Prix - Practice 1",
-              "tag": "Formula 1",
-              "uri_name": "f1/2026/las-vegas/fp1_540p",
-              "source_tag": "SD | Sky Sports F1",
-              "locale": "en-gb"
-            },
-            {
-              "id": 32426,
-              "name": "Las Vegas Grand Prix - Practice 1",
-              "tag": "Formula 1",
-              "uri_name": "las-vegas-grand-prix---practice-1-32426",
-              "source_tag": "HD | Apple TV (F1TV)",
-              "locale": "en-us"
-            },
-            {
-              "id": 1032426,
-              "name": "Las Vegas Grand Prix - Practice 1",
-              "tag": "Formula 1",
-              "uri_name": "las-vegas-grand-prix---practice-1-32426_540p",
-              "source_tag": "SD | Apple TV (F1TV)",
-              "locale": "en-us"
-            },
-            {
-              "id": 32428,
-              "name": "Las Vegas Grand Prix - Practice 1",
-              "tag": "Formula 1",
-              "uri_name": "las-vegas-grand-prix---practice-1-32428",
-              "source_tag": "HD | DAZN F1",
-              "locale": "es"
-            },
-            {
-              "id": 1032428,
-              "name": "Las Vegas Grand Prix - Practice 1",
-              "tag": "Formula 1",
-              "uri_name": "las-vegas-grand-prix---practice-1-32428_540p",
-              "source_tag": "SD | DAZN F1",
-              "locale": "es"
-            },
-            {
-              "id": 32429,
-              "name": "Las Vegas Grand Prix - Practice 1",
-              "tag": "Formula 1",
-              "uri_name": "las-vegas-grand-prix---practice-1-32429",
-              "source_tag": "HD | Sky Sport F1",
-              "locale": "de"
-            },
-            {
-              "id": 1032429,
-              "name": "Las Vegas Grand Prix - Practice 1",
-              "tag": "Formula 1",
-              "uri_name": "las-vegas-grand-prix---practice-1-32429_540p",
-              "source_tag": "SD | Sky Sport F1",
-              "locale": "de"
-            },
-            {
-              "id": 32430,
-              "name": "Las Vegas Grand Prix - Practice 1",
-              "tag": "Formula 1",
-              "uri_name": "las-vegas-grand-prix---practice-1-32430",
-              "source_tag": "HD | Sky Sport F1",
-              "locale": "it"
-            },
-            {
-              "id": 1032430,
-              "name": "Las Vegas Grand Prix - Practice 1",
-              "tag": "Formula 1",
-              "uri_name": "las-vegas-grand-prix---practice-1-32430_540p",
-              "source_tag": "SD | Sky Sport F1",
-              "locale": "it"
-            },
-            {
-              "id": 32431,
-              "name": "Las Vegas Grand Prix - Practice 1",
-              "tag": "Formula 1",
-              "uri_name": "las-vegas-grand-prix---practice-1-32431",
-              "source_tag": "HD | V Sport Motor",
-              "locale": "sv"
-            },
-            {
-              "id": 1032431,
-              "name": "Las Vegas Grand Prix - Practice 1",
-              "tag": "Formula 1",
-              "uri_name": "las-vegas-grand-prix---practice-1-32431_540p",
-              "source_tag": "SD | V Sport Motor",
-              "locale": "sv"
-            },
-            {
-              "id": 32432,
-              "name": "Las Vegas Grand Prix - Practice 1",
-              "tag": "Formula 1",
-              "uri_name": "las-vegas-grand-prix---practice-1-32432",
-              "source_tag": "HD | Viaplay",
-              "locale": "nl"
-            },
-            {
-              "id": 1032432,
-              "name": "Las Vegas Grand Prix - Practice 1",
-              "tag": "Formula 1",
-              "uri_name": "las-vegas-grand-prix---practice-1-32432_540p",
-              "source_tag": "SD | Viaplay",
-              "locale": "nl"
-            },
-            {
-              "id": 32433,
-              "name": "Las Vegas Grand Prix - Practice 1",
-              "tag": "Formula 1",
-              "uri_name": "las-vegas-grand-prix---practice-1-32433",
-              "source_tag": "HD | Nova Sport 5",
-              "locale": "cs"
-            },
-            {
-              "id": 1032433,
-              "name": "Las Vegas Grand Prix - Practice 1",
-              "tag": "Formula 1",
-              "uri_name": "las-vegas-grand-prix---practice-1-32433_540p",
-              "source_tag": "SD | Nova Sport 5",
-              "locale": "cs"
-            },
-            {
-              "id": 32434,
-              "name": "Las Vegas Grand Prix - Practice 1",
-              "tag": "Formula 1",
-              "uri_name": "las-vegas-grand-prix---practice-1-32434",
-              "source_tag": "HD | Eleven Sports 1",
-              "locale": "pl"
-            },
-            {
-              "id": 1032434,
-              "name": "Las Vegas Grand Prix - Practice 1",
-              "tag": "Formula 1",
-              "uri_name": "las-vegas-grand-prix---practice-1-32434_540p",
-              "source_tag": "SD | Eleven Sports 1",
-              "locale": "pl"
-            }
-          ],
-          "viewers": "4"
-        },
         {
           "id": 32435,
           "name": "Las Vegas Grand Prix - Practice 2",
@@ -5331,7 +5116,7 @@
               "locale": "pl"
             }
           ],
-          "viewers": "0"
+          "viewers": "27"
         },
         {
           "id": 32446,
@@ -5488,7 +5273,7 @@
               "locale": "pl"
             }
           ],
-          "viewers": "0"
+          "viewers": "12"
         },
         {
           "id": 32457,
@@ -5802,7 +5587,7 @@
               "locale": "pl"
             }
           ],
-          "viewers": "0"
+          "viewers": "15"
         }
       ]
     },
@@ -5874,7 +5659,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "36"
+          "viewers": "8"
         },
         {
           "id": 32479,
@@ -5903,7 +5688,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "3"
         }
       ]
     },
@@ -5939,7 +5724,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "27"
         },
         {
           "id": 32406,
@@ -6033,7 +5818,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "15"
+          "viewers": "17"
         },
         {
           "id": 3663,
@@ -6091,7 +5876,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "16"
+          "viewers": "21"
         },
         {
           "id": 5191,
@@ -6149,7 +5934,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "3"
         },
         {
           "id": 17270,
@@ -6169,7 +5954,7 @@
           "locale": "en",
           "category_name": "24/7 Streams",
           "substreams": [],
-          "viewers": "2"
+          "viewers": "0"
         },
         {
           "id": 30527,
@@ -6227,7 +6012,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "4"
         },
         {
           "id": 31730,
@@ -6256,14 +6041,14 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "5"
         }
       ]
     }
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-19T21:55:16.021072+00:00",
+    "captured_utc": "2026-11-20T02:45:40.077052+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
