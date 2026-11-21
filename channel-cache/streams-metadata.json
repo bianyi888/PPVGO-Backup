@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1795246480,
+  "timestamp": 1795276010,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.03078913688659668,
+  "performance": 0.03328084945678711,
   "streams": [
     {
       "category": "American Football",
@@ -36,7 +36,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "15"
+          "viewers": "10"
         },
         {
           "id": 32288,
@@ -63,25 +63,9 @@
               "uri_name": "cfb/2026-11-21/byu-ku_540p",
               "source_tag": "SD | ABC",
               "locale": "en"
-            },
-            {
-              "id": 32289,
-              "name": "BYU Cougars at Kansas Jayhawks",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-21/byu-ku/skycast",
-              "source_tag": "HD | SkyCast",
-              "locale": "en"
-            },
-            {
-              "id": 1032289,
-              "name": "BYU Cougars at Kansas Jayhawks",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-21/byu-ku/skycast_540p",
-              "source_tag": "SD | SkyCast",
-              "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32291,
@@ -126,7 +110,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "21"
         },
         {
           "id": 32294,
@@ -155,7 +139,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32296,
@@ -184,7 +168,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "7"
         },
         {
           "id": 32298,
@@ -271,7 +255,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32305,
@@ -739,22 +723,6 @@
               "uri_name": "cfb/2026-11-21/okst-asu_540p",
               "source_tag": "SD | ESPN",
               "locale": "en"
-            },
-            {
-              "id": 32323,
-              "name": "Oklahoma State Cowboys at Arizona State Sun Devils",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-21/okst-asu/skycast",
-              "source_tag": "HD | SkyCast",
-              "locale": "en"
-            },
-            {
-              "id": 1032323,
-              "name": "Oklahoma State Cowboys at Arizona State Sun Devils",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-21/okst-asu/skycast_540p",
-              "source_tag": "SD | SkyCast",
-              "locale": "en"
             }
           ],
           "viewers": "0"
@@ -902,7 +870,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32275,
@@ -1141,7 +1109,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "4"
         }
       ]
     },
@@ -1150,64 +1118,6 @@
       "id": 37,
       "always_live": false,
       "streams": [
-        {
-          "id": 32606,
-          "name": "Tasmania JackJumpers vs. Illawarra Hawks",
-          "tag": "NBL",
-          "source_tag": "HD | ESPN",
-          "poster": "https://static.ppvservices.st/assets/thumb/076176202ebe7d94ce25e0e68ddf3649-thumbnail.jpg",
-          "blurhash": "L8B{P$4L,n$Rogj]fQax01[Jbwix",
-          "colors": [
-            "#008b45",
-            "#ce202f"
-          ],
-          "uri_name": "nbl/2026-11-21/tas-hwk",
-          "starts_at": 1795242600,
-          "ends_at": 1795253400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032606,
-              "name": "Tasmania JackJumpers vs. Illawarra Hawks",
-              "tag": "NBL",
-              "uri_name": "nbl/2026-11-21/tas-hwk_540p",
-              "source_tag": "SD | ESPN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "47"
-        },
-        {
-          "id": 32607,
-          "name": "Melbourne United vs. New Zealand Breakers",
-          "tag": "NBL",
-          "source_tag": "HD | ESPN",
-          "poster": "https://static.ppvservices.st/assets/thumb/c91ed693652c01cb6f76b8875f775e02-thumbnail.jpg",
-          "blurhash": "L8EUKQ3Y#Y-7j0X9jujF00|=XNiy",
-          "colors": [
-            "#4370b7",
-            "#e33c95"
-          ],
-          "uri_name": "nbl/2026-11-21/mel-nzl",
-          "starts_at": 1795249800,
-          "ends_at": 1795260600,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032607,
-              "name": "Melbourne United vs. New Zealand Breakers",
-              "tag": "NBL",
-              "uri_name": "nbl/2026-11-21/mel-nzl_540p",
-              "source_tag": "SD | ESPN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
         {
           "id": 32609,
           "name": "Detroit Mercy Titans at Michigan State Spartans",
@@ -1309,7 +1219,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32611,
@@ -1473,7 +1383,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32602,
@@ -1935,6 +1845,74 @@
       ]
     },
     {
+      "category": "Combat Sports",
+      "id": 33,
+      "always_live": false,
+      "streams": [
+        {
+          "id": 32647,
+          "name": "UFC Fight Night: Prochazka vs. Stirling",
+          "tag": "MMA",
+          "source_tag": "HD | Paramount+",
+          "poster": "https://static.ppvservices.st/assets/thumb/847c6a9814ff9f823f8e267bd33355ef-thumbnail.jpg",
+          "blurhash": "LHFMOwNIV@R+}YEhjsWXBAWCr=sB",
+          "colors": [
+            "#cf030c",
+            "#c44c18"
+          ],
+          "uri_name": "ufc-fight-night-prochazka-vs-stirling-32647",
+          "starts_at": 1795273200,
+          "ends_at": 1795302000,
+          "always_live": 0,
+          "locale": "en",
+          "category_name": "Combat Sports",
+          "substreams": [
+            {
+              "id": 1032647,
+              "name": "UFC Fight Night: Prochazka vs. Stirling",
+              "tag": "MMA",
+              "uri_name": "ufc-fight-night-prochazka-vs-stirling-32647_540p",
+              "source_tag": "SD | Paramount+",
+              "locale": "en"
+            },
+            {
+              "id": 32648,
+              "name": "UFC Fight Night: Prochazka vs. Stirling",
+              "tag": "MMA",
+              "uri_name": "ufc-fight-night-prochazka-vs-stirling-32648",
+              "source_tag": "HD | Paramount+",
+              "locale": "es"
+            },
+            {
+              "id": 1032648,
+              "name": "UFC Fight Night: Prochazka vs. Stirling",
+              "tag": "MMA",
+              "uri_name": "ufc-fight-night-prochazka-vs-stirling-32648_540p",
+              "source_tag": "SD | Paramount+",
+              "locale": "es"
+            },
+            {
+              "id": 32649,
+              "name": "UFC Fight Night: Prochazka vs. Stirling",
+              "tag": "MMA",
+              "uri_name": "ufc-fight-night-prochazka-vs-stirling-32649",
+              "source_tag": "HD | Paramount+",
+              "locale": "pt"
+            },
+            {
+              "id": 1032649,
+              "name": "UFC Fight Night: Prochazka vs. Stirling",
+              "tag": "MMA",
+              "uri_name": "ufc-fight-night-prochazka-vs-stirling-32649_540p",
+              "source_tag": "SD | Paramount+",
+              "locale": "pt"
+            }
+          ],
+          "viewers": "4394"
+        }
+      ]
+    },
+    {
       "category": "Cricket",
       "id": 47,
       "always_live": false,
@@ -1998,7 +1976,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "68"
+          "viewers": "59"
         },
         {
           "id": 27496,
@@ -2027,7 +2005,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "34"
+          "viewers": "21"
         }
       ]
     },
@@ -2131,64 +2109,6 @@
       "always_live": false,
       "streams": [
         {
-          "id": 32343,
-          "name": "Manchester City vs. Fulham",
-          "tag": "Premier League",
-          "source_tag": "HD | Premier League",
-          "poster": "https://static.ppvservices.st/assets/thumb/aba3473a6843b02ae8650fb5c79639d1-thumbnail.jpg",
-          "blurhash": "LEA^@F.mX8oLofazazj[00MxodWB",
-          "colors": [
-            "#6cabdd",
-            "#0033a0"
-          ],
-          "uri_name": "pl/2026-11-21/mci-ful",
-          "starts_at": 1795264200,
-          "ends_at": 1795273200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032343,
-              "name": "Manchester City vs. Fulham",
-              "tag": "Premier League",
-              "uri_name": "pl/2026-11-21/mci-ful_540p",
-              "source_tag": "SD | Premier League",
-              "locale": "en"
-            }
-          ],
-          "viewers": "2"
-        },
-        {
-          "id": 32325,
-          "name": "Alavés vs. Deportivo",
-          "tag": "LaLiga",
-          "source_tag": "HD | ESPN+",
-          "poster": "https://static.ppvservices.st/assets/thumb/268a369e4713e9afd343aec1003fa3a7-thumbnail.jpg",
-          "blurhash": "L27_mbJb02=TV{tQazRQ00v^~UE:",
-          "colors": [
-            "#004fa3",
-            "#0055a5"
-          ],
-          "uri_name": "laliga/2026-11-21/ala-dep",
-          "starts_at": 1795266000,
-          "ends_at": 1795275000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032325,
-              "name": "Alavés vs. Deportivo",
-              "tag": "LaLiga",
-              "uri_name": "laliga/2026-11-21/ala-dep_540p",
-              "source_tag": "SD | ESPN+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
           "id": 32353,
           "name": "Como vs. Cagliari",
           "tag": "Serie A",
@@ -2215,7 +2135,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "196"
         },
         {
           "id": 32354,
@@ -2244,13 +2164,13 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "128"
         },
         {
           "id": 32395,
           "name": "AIK vs. Degerfors IF",
           "tag": "Allsvenskan",
-          "source_tag": "HD | TV4 Play",
+          "source_tag": "HD | TV4 Fotboll",
           "poster": "https://static.ppvservices.st/assets/thumb/c578239d743e14b9b7bfdd92bef9f015-thumbnail.jpg",
           "blurhash": "LIJYwfuWo@=wt6aea}kC02#EWZEN",
           "colors": [
@@ -2269,17 +2189,17 @@
               "name": "AIK vs. Degerfors IF",
               "tag": "Allsvenskan",
               "uri_name": "allsvenskan/2026-11-21/aik-deg_540p",
-              "source_tag": "SD | TV4 Play",
+              "source_tag": "SD | TV4 Fotboll",
               "locale": "sv"
             }
           ],
-          "viewers": "0"
+          "viewers": "80"
         },
         {
           "id": 32396,
           "name": "Mjällby AIF vs. Malmö FF",
           "tag": "Allsvenskan",
-          "source_tag": "HD | TV4 Play",
+          "source_tag": "HD | TV4 Sport Live 1",
           "poster": "https://static.ppvservices.st/assets/thumb/d4b3a0a781e04f6cf9ac5a18bba3fbbb-thumbnail.jpg",
           "blurhash": "LTF$9F{@r_o#ofaxfQj[4nOubYRj",
           "colors": [
@@ -2298,17 +2218,17 @@
               "name": "Mjällby AIF vs. Malmö FF",
               "tag": "Allsvenskan",
               "uri_name": "allsvenskan/2026-11-21/mja-mal_540p",
-              "source_tag": "SD | TV4 Play",
+              "source_tag": "SD | TV4 Sport Live 1",
               "locale": "sv"
             }
           ],
-          "viewers": "0"
+          "viewers": "63"
         },
         {
           "id": 32335,
           "name": "1. FC Union Berlin vs. RB Leipzig",
           "tag": "Bundesliga",
-          "source_tag": "HD | Bundesliga",
+          "source_tag": "HD | Fandango",
           "poster": "https://static.ppvservices.st/assets/thumb/86c01c9cbd06e1a26262b0f8996a26d5-thumbnail.jpg",
           "blurhash": "L4JW~s@?Q8Y6xGaxj@kC00K+uiiH",
           "colors": [
@@ -2327,17 +2247,17 @@
               "name": "1. FC Union Berlin vs. RB Leipzig",
               "tag": "Bundesliga",
               "uri_name": "bundesliga/2026-11-21/fcu-rbl_540p",
-              "source_tag": "SD | Bundesliga",
+              "source_tag": "SD | Fandango",
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "157"
         },
         {
           "id": 32336,
           "name": "Bayer Leverkusen vs. SC Paderborn 07",
           "tag": "Bundesliga",
-          "source_tag": "HD | Bundesliga",
+          "source_tag": "HD | Fandango",
           "poster": "https://static.ppvservices.st/assets/thumb/3737905533f129cbd6e4b53ae640024f-thumbnail.jpg",
           "blurhash": "LXDtoa}4rwR.j[f6fQj@54JDoybb",
           "colors": [
@@ -2356,17 +2276,17 @@
               "name": "Bayer Leverkusen vs. SC Paderborn 07",
               "tag": "Bundesliga",
               "uri_name": "bundesliga/2026-11-21/b04-scp_540p",
-              "source_tag": "SD | Bundesliga",
+              "source_tag": "SD | Fandango",
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "114"
         },
         {
           "id": 32337,
           "name": "Borussia Mönchengladbach vs. Borussia Dortmund",
           "tag": "Bundesliga",
-          "source_tag": "HD | Bundesliga",
+          "source_tag": "HD | Fandango",
           "poster": "https://static.ppvservices.st/assets/thumb/ef7e780fbe1c4b32f2525469700d7aab-thumbnail.jpg",
           "blurhash": "LBEo;G0E+?$_oeazjtfQ02~1ksoz",
           "colors": [
@@ -2385,17 +2305,17 @@
               "name": "Borussia Mönchengladbach vs. Borussia Dortmund",
               "tag": "Bundesliga",
               "uri_name": "bundesliga/2026-11-21/bmg-dor_540p",
-              "source_tag": "SD | Bundesliga",
+              "source_tag": "SD | Fandango",
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1491"
         },
         {
           "id": 32338,
           "name": "Eintracht Frankfurt vs. TSG Hoffenheim",
           "tag": "Bundesliga",
-          "source_tag": "HD | Bundesliga",
+          "source_tag": "HD | Fandango",
           "poster": "https://static.ppvservices.st/assets/thumb/5f4ab402998fb63d368cd4a361872469-thumbnail.jpg",
           "blurhash": "LXEnMP{cruNxayj[fQay0dK6kVoL",
           "colors": [
@@ -2414,17 +2334,17 @@
               "name": "Eintracht Frankfurt vs. TSG Hoffenheim",
               "tag": "Bundesliga",
               "uri_name": "bundesliga/2026-11-21/sge-tsg_540p",
-              "source_tag": "SD | Bundesliga",
+              "source_tag": "SD | Fandango",
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "270"
         },
         {
           "id": 32339,
           "name": "SV Elversberg vs. SC Freiburg",
           "tag": "Bundesliga",
-          "source_tag": "HD | Bundesliga",
+          "source_tag": "HD | Fandango",
           "poster": "https://static.ppvservices.st/assets/thumb/914cd973a652eb8b8e49b6a53e5e9daa-thumbnail.jpg",
           "blurhash": "L6F3_W3:@FD*s:WVjtj[00@auO}t",
           "colors": [
@@ -2443,17 +2363,17 @@
               "name": "SV Elversberg vs. SC Freiburg",
               "tag": "Bundesliga",
               "uri_name": "bundesliga/2026-11-21/elv-scf_540p",
-              "source_tag": "SD | Bundesliga",
+              "source_tag": "SD | Fandango",
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "158"
         },
         {
           "id": 32344,
           "name": "AFC Bournemouth vs. Nottingham Forest",
           "tag": "Premier League",
-          "source_tag": "HD | Premier League",
+          "source_tag": "HD | Sky Sport Select",
           "poster": "https://static.ppvservices.st/assets/thumb/d1789d893d71224b7e554f107c2ab557-thumbnail.jpg",
           "blurhash": "L3IUVR3nzp{}n4S#aenO00:lPABn",
           "colors": [
@@ -2464,7 +2384,7 @@
           "starts_at": 1795273200,
           "ends_at": 1795282200,
           "always_live": 0,
-          "locale": "en",
+          "locale": "en-nz",
           "category_name": "Football",
           "substreams": [
             {
@@ -2472,17 +2392,17 @@
               "name": "AFC Bournemouth vs. Nottingham Forest",
               "tag": "Premier League",
               "uri_name": "pl/2026-11-21/bou-nfo_540p",
-              "source_tag": "SD | Premier League",
-              "locale": "en"
+              "source_tag": "SD | Sky Sport Select",
+              "locale": "en-nz"
             }
           ],
-          "viewers": "1"
+          "viewers": "688"
         },
         {
           "id": 32345,
           "name": "Aston Villa vs. Sunderland",
           "tag": "Premier League",
-          "source_tag": "HD | Premier League",
+          "source_tag": "HD | Sky Sport 9",
           "poster": "https://static.ppvservices.st/assets/thumb/8c8c9c27b0932b84b1f1078a3d978df9-thumbnail.jpg",
           "blurhash": "L5FWIg49z;L~xYt6jZRk00@ZTd?a",
           "colors": [
@@ -2493,7 +2413,7 @@
           "starts_at": 1795273200,
           "ends_at": 1795282200,
           "always_live": 0,
-          "locale": "en",
+          "locale": "en-nz",
           "category_name": "Football",
           "substreams": [
             {
@@ -2501,17 +2421,17 @@
               "name": "Aston Villa vs. Sunderland",
               "tag": "Premier League",
               "uri_name": "pl/2026-11-21/avl-sun_540p",
-              "source_tag": "SD | Premier League",
-              "locale": "en"
+              "source_tag": "SD | Sky Sport 9",
+              "locale": "en-nz"
             }
           ],
-          "viewers": "1"
+          "viewers": "1366"
         },
         {
           "id": 32346,
           "name": "Chelsea vs. Leeds United",
           "tag": "Premier League",
-          "source_tag": "HD | Premier League",
+          "source_tag": "HD | Sky Sport 8",
           "poster": "https://static.ppvservices.st/assets/thumb/69e808732fbf6789e296b3a0394b27e3-thumbnail.jpg",
           "blurhash": "L68#EW-@M|ISoMoeayWC00IRxt%O",
           "colors": [
@@ -2522,7 +2442,7 @@
           "starts_at": 1795273200,
           "ends_at": 1795282200,
           "always_live": 0,
-          "locale": "en",
+          "locale": "en-nz",
           "category_name": "Football",
           "substreams": [
             {
@@ -2530,17 +2450,17 @@
               "name": "Chelsea vs. Leeds United",
               "tag": "Premier League",
               "uri_name": "pl/2026-11-21/che-lee_540p",
-              "source_tag": "SD | Premier League",
-              "locale": "en"
+              "source_tag": "SD | Sky Sport 8",
+              "locale": "en-nz"
             }
           ],
-          "viewers": "1"
+          "viewers": "10099"
         },
         {
           "id": 32347,
           "name": "Coventry City vs. Crystal Palace",
           "tag": "Premier League",
-          "source_tag": "HD | Premier League",
+          "source_tag": "HD | Sky Sport 7",
           "poster": "https://static.ppvservices.st/assets/thumb/f69ee60df0595dd81682c428602bf8f4-thumbnail.jpg",
           "blurhash": "LG9a~[?^X8NfWXoLayWW4TMys,r;",
           "colors": [
@@ -2551,7 +2471,7 @@
           "starts_at": 1795273200,
           "ends_at": 1795282200,
           "always_live": 0,
-          "locale": "en",
+          "locale": "en-nz",
           "category_name": "Football",
           "substreams": [
             {
@@ -2559,17 +2479,17 @@
               "name": "Coventry City vs. Crystal Palace",
               "tag": "Premier League",
               "uri_name": "pl/2026-11-21/cov-cry_540p",
-              "source_tag": "SD | Premier League",
-              "locale": "en"
+              "source_tag": "SD | Sky Sport 7",
+              "locale": "en-nz"
             }
           ],
-          "viewers": "1"
+          "viewers": "551"
         },
         {
           "id": 32348,
           "name": "Tottenham Hotspur vs. Ipswich Town",
           "tag": "Premier League",
-          "source_tag": "HD | Premier League",
+          "source_tag": "HD | Sky Sport 6",
           "poster": "https://static.ppvservices.st/assets/thumb/172c174dd26f89927068dfa9f4862485-thumbnail.jpg",
           "blurhash": "L47K}b4TE4=zxaR*ays:00?K%LEN",
           "colors": [
@@ -2580,7 +2500,7 @@
           "starts_at": 1795273200,
           "ends_at": 1795282200,
           "always_live": 0,
-          "locale": "en",
+          "locale": "en-nz",
           "category_name": "Football",
           "substreams": [
             {
@@ -2588,11 +2508,156 @@
               "name": "Tottenham Hotspur vs. Ipswich Town",
               "tag": "Premier League",
               "uri_name": "pl/2026-11-21/tot-ips_540p",
-              "source_tag": "SD | Premier League",
+              "source_tag": "SD | Sky Sport 6",
+              "locale": "en-nz"
+            }
+          ],
+          "viewers": "4686"
+        },
+        {
+          "id": 32643,
+          "name": "Lincoln City vs. Wrexham",
+          "tag": "EFL Championship",
+          "source_tag": "HD | Paramount+",
+          "poster": "https://static.ppvservices.st/assets/thumb/ef887999a46ba73030dbb133ca8a558d-thumbnail.jpg",
+          "blurhash": "L4G~FH[FHXB+oMxaf6NG00GD*I+d",
+          "colors": [
+            "#c8142f",
+            "#c8142f"
+          ],
+          "uri_name": "efl-championship/2026-11-21/lcn-wxm",
+          "starts_at": 1795273200,
+          "ends_at": 1795282200,
+          "always_live": 0,
+          "locale": "en",
+          "category_name": "Football",
+          "substreams": [
+            {
+              "id": 1032643,
+              "name": "Lincoln City vs. Wrexham",
+              "tag": "EFL Championship",
+              "uri_name": "efl-championship/2026-11-21/lcn-wxm_540p",
+              "source_tag": "SD | Paramount+",
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "65"
+        },
+        {
+          "id": 32644,
+          "name": "Middlesbrough vs. Bristol City",
+          "tag": "EFL Championship",
+          "source_tag": "HD | Paramount+",
+          "poster": "https://static.ppvservices.st/assets/thumb/1946e96effe6764063e2fae85aba40a9-thumbnail.jpg",
+          "blurhash": "L3KHIZ%Mujiw$jjZjZfk00NGQ7kC",
+          "colors": [
+            "#f32728",
+            "#f32728"
+          ],
+          "uri_name": "efl-championship/2026-11-21/mid-brc",
+          "starts_at": 1795273200,
+          "ends_at": 1795282200,
+          "always_live": 0,
+          "locale": "en",
+          "category_name": "Football",
+          "substreams": [
+            {
+              "id": 1032644,
+              "name": "Middlesbrough vs. Bristol City",
+              "tag": "EFL Championship",
+              "uri_name": "efl-championship/2026-11-21/mid-brc_540p",
+              "source_tag": "SD | Paramount+",
+              "locale": "en"
+            }
+          ],
+          "viewers": "77"
+        },
+        {
+          "id": 32645,
+          "name": "West Ham United vs. Preston North End",
+          "tag": "EFL Championship",
+          "source_tag": "HD | Paramount+",
+          "poster": "https://static.ppvservices.st/assets/thumb/e52ea312c418ec780ec41afd212473f5-thumbnail.jpg",
+          "blurhash": "LBGRuO00tlg4ogfRfkay00?^n%%1",
+          "colors": [
+            "#7d2c3b",
+            "#ffffff"
+          ],
+          "uri_name": "efl-championship/2026-11-21/whu-pne",
+          "starts_at": 1795273200,
+          "ends_at": 1795282200,
+          "always_live": 0,
+          "locale": "en",
+          "category_name": "Football",
+          "substreams": [
+            {
+              "id": 1032645,
+              "name": "West Ham United vs. Preston North End",
+              "tag": "EFL Championship",
+              "uri_name": "efl-championship/2026-11-21/whu-pne_540p",
+              "source_tag": "SD | Paramount+",
+              "locale": "en"
+            }
+          ],
+          "viewers": "470"
+        },
+        {
+          "id": 32646,
+          "name": "Wolverhampton Wanderers vs. Charlton Athletic",
+          "tag": "EFL Championship",
+          "source_tag": "HD | Paramount+",
+          "poster": "https://static.ppvservices.st/assets/thumb/ce647e4b2f610af5a4e086be0ecc51ce-thumbnail.jpg",
+          "blurhash": "LHIo:*_AoFsqoLbGfPjt02RWbwNH",
+          "colors": [
+            "#fcb913",
+            "#c8142f"
+          ],
+          "uri_name": "efl-championship/2026-11-21/wol-cha",
+          "starts_at": 1795273200,
+          "ends_at": 1795282200,
+          "always_live": 0,
+          "locale": "en",
+          "category_name": "Football",
+          "substreams": [
+            {
+              "id": 1032646,
+              "name": "Wolverhampton Wanderers vs. Charlton Athletic",
+              "tag": "EFL Championship",
+              "uri_name": "efl-championship/2026-11-21/wol-cha_540p",
+              "source_tag": "SD | Paramount+",
+              "locale": "en"
+            }
+          ],
+          "viewers": "143"
+        },
+        {
+          "id": 32652,
+          "name": "Swansea City vs. West Bromwich Albion",
+          "tag": "EFL Championship",
+          "source_tag": "HD | Viaplay",
+          "poster": "https://static.ppvservices.st/assets/thumb/f3e1ca0f440fffeb76162a711d6594dc-thumbnail.jpg",
+          "blurhash": "LeFr@m~qt7ayofayfQj[4nIUf6WB",
+          "colors": [
+            "#ffffff",
+            "#091452"
+          ],
+          "uri_name": "efl-championship/2026-11-21/swa-wba",
+          "starts_at": 1795273200,
+          "ends_at": 1795282200,
+          "always_live": 0,
+          "locale": "en",
+          "category_name": "Football",
+          "substreams": [
+            {
+              "id": 1032652,
+              "name": "Swansea City vs. West Bromwich Albion",
+              "tag": "EFL Championship",
+              "uri_name": "efl-championship/2026-11-21/swa-wba_540p",
+              "source_tag": "SD | Viaplay",
+              "locale": "en"
+            }
+          ],
+          "viewers": "89"
         },
         {
           "id": 32326,
@@ -2621,13 +2686,13 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "73"
         },
         {
           "id": 32386,
           "name": "NEC Nijmegen vs. PSV Eindhoven",
           "tag": "Eredivisie",
-          "source_tag": "HD | ESPN",
+          "source_tag": "HD | ESPN2",
           "poster": "https://static.ppvservices.st/assets/thumb/2d57901941378c054922ada852642f62-thumbnail.jpg",
           "blurhash": "L4ILW80gzV}[VYWUn%sp00~BPo9Z",
           "colors": [
@@ -2646,11 +2711,11 @@
               "name": "NEC Nijmegen vs. PSV Eindhoven",
               "tag": "Eredivisie",
               "uri_name": "eredivisie/2026-11-21/nec-psv_540p",
-              "source_tag": "SD | ESPN",
+              "source_tag": "SD | ESPN2",
               "locale": "nl"
             }
           ],
-          "viewers": "0"
+          "viewers": "160"
         },
         {
           "id": 32364,
@@ -2679,13 +2744,13 @@
               "locale": "fr"
             }
           ],
-          "viewers": "0"
+          "viewers": "13"
         },
         {
           "id": 32397,
           "name": "GAIS vs. Västerås SK",
           "tag": "Allsvenskan",
-          "source_tag": "HD | TV4 Play",
+          "source_tag": "HD | TV4 Sportkanalen",
           "poster": "https://static.ppvservices.st/assets/thumb/53cbc3f8ebbedce56978cf40078e9aea-thumbnail.jpg",
           "blurhash": "L69Rgq:|ITG^,swKayOW00Gv%NvK",
           "colors": [
@@ -2704,7 +2769,7 @@
               "name": "GAIS vs. Västerås SK",
               "tag": "Allsvenskan",
               "uri_name": "allsvenskan/2026-11-21/gais-vas_540p",
-              "source_tag": "SD | TV4 Play",
+              "source_tag": "SD | TV4 Sportkanalen",
               "locale": "sv"
             }
           ],
@@ -2772,7 +2837,7 @@
           "id": 32340,
           "name": "Schalke 04 vs. VfB Stuttgart",
           "tag": "Bundesliga",
-          "source_tag": "HD | Bundesliga",
+          "source_tag": "HD | Fandango",
           "poster": "https://static.ppvservices.st/assets/thumb/259953fa8e9e64d1546c1f1937aa88b7-thumbnail.jpg",
           "blurhash": "LDDkDx1mvi=_t7WBfQof00}ltkMy",
           "colors": [
@@ -2791,7 +2856,7 @@
               "name": "Schalke 04 vs. VfB Stuttgart",
               "tag": "Bundesliga",
               "uri_name": "bundesliga/2026-11-21/s04-vfb_540p",
-              "source_tag": "SD | Bundesliga",
+              "source_tag": "SD | Fandango",
               "locale": "en"
             }
           ],
@@ -2801,7 +2866,7 @@
           "id": 32349,
           "name": "Newcastle United vs. Arsenal",
           "tag": "Premier League",
-          "source_tag": "HD | Premier League",
+          "source_tag": "HD | Sky Sports Premier League",
           "poster": "https://static.ppvservices.st/assets/thumb/320e9458bedbca66794cd42cebba9351-thumbnail.jpg",
           "blurhash": "LDD%z%2|+$$in*WBazof0d]OS|nh",
           "colors": [
@@ -2812,7 +2877,7 @@
           "starts_at": 1795282200,
           "ends_at": 1795291200,
           "always_live": 0,
-          "locale": "en",
+          "locale": "en-gb",
           "category_name": "Football",
           "substreams": [
             {
@@ -2820,17 +2885,17 @@
               "name": "Newcastle United vs. Arsenal",
               "tag": "Premier League",
               "uri_name": "pl/2026-11-21/new-ars_540p",
-              "source_tag": "SD | Premier League",
-              "locale": "en"
+              "source_tag": "SD | Sky Sports Premier League",
+              "locale": "en-gb"
             }
           ],
-          "viewers": "1"
+          "viewers": "10"
         },
         {
           "id": 32387,
           "name": "FC Utrecht vs. SC Cambuur",
           "tag": "Eredivisie",
-          "source_tag": "HD | ESPN",
+          "source_tag": "HD | ESPN3",
           "poster": "https://static.ppvservices.st/assets/thumb/0da871e3c6147503d413f50557eee998-thumbnail.jpg",
           "blurhash": "L4I:gh0Hydp8yEx[ofRQ00_7Rs%3",
           "colors": [
@@ -2849,7 +2914,7 @@
               "name": "FC Utrecht vs. SC Cambuur",
               "tag": "Eredivisie",
               "uri_name": "eredivisie/2026-11-21/utr-cam_540p",
-              "source_tag": "SD | ESPN",
+              "source_tag": "SD | ESPN3",
               "locale": "nl"
             }
           ],
@@ -3027,7 +3092,7 @@
               "locale": "fr"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         },
         {
           "id": 32368,
@@ -3056,7 +3121,7 @@
               "locale": "fr"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32328,
@@ -3085,7 +3150,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32389,
@@ -3120,7 +3185,7 @@
           "id": 32390,
           "name": "Telstar vs. PEC Zwolle",
           "tag": "Eredivisie",
-          "source_tag": "HD | ESPN",
+          "source_tag": "HD | ESPN2",
           "poster": "https://static.ppvservices.st/assets/thumb/eef15df386e89d204ee295ee9a175bfc-thumbnail.jpg",
           "blurhash": "L47_23vc4;L4$MOEf6wc00PD^%zn",
           "colors": [
@@ -3139,7 +3204,7 @@
               "name": "Telstar vs. PEC Zwolle",
               "tag": "Eredivisie",
               "uri_name": "eredivisie/2026-11-21/tel-pec_540p",
-              "source_tag": "SD | ESPN",
+              "source_tag": "SD | ESPN2",
               "locale": "nl"
             }
           ],
@@ -3178,7 +3243,7 @@
           "id": 32380,
           "name": "Pachuca vs. Toluca",
           "tag": "Liga MX",
-          "source_tag": "HD | Liga MX",
+          "source_tag": "HD | TUDN",
           "poster": "https://static.ppvservices.st/assets/thumb/65e4e8a3a4de55f4ddb174a28b807dd3-thumbnail.jpg",
           "blurhash": "LDEdxo3GvhadazkCayWC00+ttl$j",
           "colors": [
@@ -3197,7 +3262,7 @@
               "name": "Pachuca vs. Toluca",
               "tag": "Liga MX",
               "uri_name": "liga-mx/2026-11-21/pac-tol_540p",
-              "source_tag": "SD | Liga MX",
+              "source_tag": "SD | TUDN",
               "locale": "es-us"
             }
           ],
@@ -3236,7 +3301,7 @@
           "id": 32381,
           "name": "Santos vs. León",
           "tag": "Liga MX",
-          "source_tag": "HD | Liga MX",
+          "source_tag": "HD | ViX",
           "poster": "https://static.ppvservices.st/assets/thumb/6c33984bcfb9bee87ac4eb147b96a89b-thumbnail.jpg",
           "blurhash": "L47Cp1t90JNXWAoLayay00Rh~Xxc",
           "colors": [
@@ -3255,7 +3320,7 @@
               "name": "Santos vs. León",
               "tag": "Liga MX",
               "uri_name": "liga-mx/2026-11-21/san-leo_540p",
-              "source_tag": "SD | Liga MX",
+              "source_tag": "SD | ViX",
               "locale": "es-us"
             }
           ],
@@ -3265,7 +3330,7 @@
           "id": 32382,
           "name": "Pumas UNAM vs. Monterrey",
           "tag": "Liga MX",
-          "source_tag": "HD | Liga MX",
+          "source_tag": "HD | TUDN",
           "poster": "https://static.ppvservices.st/assets/thumb/37d1e9f82dda933c7047cd5ec5f777b2-thumbnail.jpg",
           "blurhash": "L55rWFMa02x^ofayayj[00x{~VM|",
           "colors": [
@@ -3284,7 +3349,7 @@
               "name": "Pumas UNAM vs. Monterrey",
               "tag": "Liga MX",
               "uri_name": "liga-mx/2026-11-21/unam-mty_540p",
-              "source_tag": "SD | Liga MX",
+              "source_tag": "SD | TUDN",
               "locale": "es-us"
             }
           ],
@@ -3294,7 +3359,7 @@
           "id": 32383,
           "name": "Tigres UANL vs. América",
           "tag": "Liga MX",
-          "source_tag": "HD | Liga MX",
+          "source_tag": "HD | FOX Deportes",
           "poster": "https://static.ppvservices.st/assets/thumb/9a8868031736bc34622c9af99acd0017-thumbnail.jpg",
           "blurhash": "L4KmNkm1vcxl$yslj?R.00YDThXU",
           "colors": [
@@ -3313,7 +3378,7 @@
               "name": "Tigres UANL vs. América",
               "tag": "Liga MX",
               "uri_name": "liga-mx/2026-11-21/uanl-ame_540p",
-              "source_tag": "SD | Liga MX",
+              "source_tag": "SD | FOX Deportes",
               "locale": "es-us"
             }
           ],
@@ -3723,7 +3788,7 @@
               "locale": "sv"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32394,
@@ -4259,7 +4324,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "0"
         },
         {
           "id": 32614,
@@ -4288,7 +4353,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32615,
@@ -4813,7 +4878,7 @@
               "locale": "pl"
             }
           ],
-          "viewers": "2"
+          "viewers": "9"
         }
       ]
     },
@@ -4849,7 +4914,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "17"
         }
       ]
     },
@@ -4885,7 +4950,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "291"
         },
         {
           "id": 32479,
@@ -4914,7 +4979,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "111"
         }
       ]
     },
@@ -4986,7 +5051,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "23"
+          "viewers": "17"
         },
         {
           "id": 3663,
@@ -5015,7 +5080,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 8008,
@@ -5044,7 +5109,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "29"
+          "viewers": "14"
         },
         {
           "id": 5191,
@@ -5073,7 +5138,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 16623,
@@ -5102,7 +5167,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "6"
+          "viewers": "7"
         },
         {
           "id": 17270,
@@ -5122,7 +5187,7 @@
           "locale": "en",
           "category_name": "24/7 Streams",
           "substreams": [],
-          "viewers": "3"
+          "viewers": "1"
         },
         {
           "id": 30527,
@@ -5209,14 +5274,14 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "5"
         }
       ]
     }
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-21T07:34:41.201939+00:00",
+    "captured_utc": "2026-11-21T15:46:43.255950+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
