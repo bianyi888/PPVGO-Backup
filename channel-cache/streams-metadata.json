@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1795200900,
+  "timestamp": 1795220930,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.06455492973327637,
+  "performance": 0.05723905563354492,
   "streams": [
     {
       "category": "American Football",
@@ -36,7 +36,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "26"
+          "viewers": "15"
         },
         {
           "id": 32286,
@@ -65,7 +65,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "23"
         },
         {
           "id": 32288,
@@ -551,7 +551,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32315,
@@ -1170,7 +1170,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "3"
         }
       ]
     },
@@ -1206,7 +1206,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "43"
         },
         {
           "id": 32573,
@@ -1235,7 +1235,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1718"
         },
         {
           "id": 32589,
@@ -1264,7 +1264,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "16"
         },
         {
           "id": 32590,
@@ -1293,7 +1293,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "23"
         },
         {
           "id": 32574,
@@ -1322,7 +1322,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "31"
         },
         {
           "id": 32575,
@@ -1351,7 +1351,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "60"
         },
         {
           "id": 32576,
@@ -1380,7 +1380,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "138"
         },
         {
           "id": 32577,
@@ -1425,7 +1425,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "8"
         },
         {
           "id": 32579,
@@ -1470,7 +1470,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "4"
         },
         {
           "id": 32591,
@@ -1499,7 +1499,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32592,
@@ -1631,7 +1631,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "8"
         },
         {
           "id": 32584,
@@ -1660,7 +1660,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "7"
         },
         {
           "id": 32606,
@@ -2030,7 +2030,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32604,
@@ -2201,7 +2201,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "33"
+          "viewers": "196"
         },
         {
           "id": 27496,
@@ -2230,7 +2230,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "7"
+          "viewers": "4"
         }
       ]
     },
@@ -2239,35 +2239,6 @@
       "id": 32,
       "always_live": false,
       "streams": [
-        {
-          "id": 32257,
-          "name": "Grand Slam of Darts | Day 7",
-          "tag": "PDC Darts",
-          "source_tag": "HD | PDC.TV",
-          "poster": "https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg",
-          "blurhash": "LeDe-5?@ovD7kpa1k-VdEJJ#bEwP",
-          "colors": [
-            "#20422a",
-            "#78ff87"
-          ],
-          "uri_name": "grand-slam-of-darts--day-7-32257",
-          "starts_at": 1795201200,
-          "ends_at": 1795219200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Darts",
-          "substreams": [
-            {
-              "id": 1032257,
-              "name": "Grand Slam of Darts | Day 7",
-              "tag": "PDC Darts",
-              "uri_name": "grand-slam-of-darts--day-7-32257_540p",
-              "source_tag": "SD | PDC.TV",
-              "locale": "en"
-            }
-          ],
-          "viewers": "32"
-        },
         {
           "id": 32258,
           "name": "Grand Slam of Darts | Day 8",
@@ -2353,7 +2324,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         }
       ]
     },
@@ -2362,93 +2333,6 @@
       "id": 34,
       "always_live": false,
       "streams": [
-        {
-          "id": 32334,
-          "name": "Bayern Munich vs. FC Cologne",
-          "tag": "Bundesliga",
-          "source_tag": "HD | USA",
-          "poster": "https://static.ppvservices.st/assets/thumb/c4362aeb3057819335319a3740367a0b-thumbnail.jpg",
-          "blurhash": "L4JqQw3YUbiawJbbjZae00z.qFx^",
-          "colors": [
-            "#dc052d",
-            "#fd1220"
-          ],
-          "uri_name": "bundesliga/2026-11-20/bay-koe",
-          "starts_at": 1795203000,
-          "ends_at": 1795212000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032334,
-              "name": "Bayern Munich vs. FC Cologne",
-              "tag": "Bundesliga",
-              "uri_name": "bundesliga/2026-11-20/bay-koe_540p",
-              "source_tag": "SD | USA",
-              "locale": "en"
-            }
-          ],
-          "viewers": "61"
-        },
-        {
-          "id": 32363,
-          "name": "Troyes vs. Le Havre AC",
-          "tag": "Ligue 1",
-          "source_tag": "HD | Ligue 1+",
-          "poster": "https://static.ppvservices.st/assets/thumb/00eee945e802263b7ba04da78974342c-thumbnail.jpg",
-          "blurhash": "LG5O%ZapM~oej[j[j[ayDgj.t6WT",
-          "colors": [
-            "#0000bf",
-            "#003259"
-          ],
-          "uri_name": "ligue1/2026-11-20/try-hac",
-          "starts_at": 1795203900,
-          "ends_at": 1795212900,
-          "always_live": 0,
-          "locale": "fr",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032363,
-              "name": "Troyes vs. Le Havre AC",
-              "tag": "Ligue 1",
-              "uri_name": "ligue1/2026-11-20/try-hac_540p",
-              "source_tag": "SD | Ligue 1+",
-              "locale": "fr"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32324,
-          "name": "Athletic Club vs. Espanyol",
-          "tag": "LaLiga",
-          "source_tag": "HD | ESPN+",
-          "poster": "https://static.ppvservices.st/assets/thumb/224589ac46e9bb3e52e26565909536b2-thumbnail.jpg",
-          "blurhash": "LVE1LF|;wMV@kCkCf7ax55I@X8XS",
-          "colors": [
-            "#e30613",
-            "#0044a6"
-          ],
-          "uri_name": "laliga/2026-11-20/ath-esp",
-          "starts_at": 1795204800,
-          "ends_at": 1795213800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032324,
-              "name": "Athletic Club vs. Espanyol",
-              "tag": "LaLiga",
-              "uri_name": "laliga/2026-11-20/ath-esp_540p",
-              "source_tag": "SD | ESPN+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "2"
-        },
         {
           "id": 32377,
           "name": "Puebla vs. Atlético de San Luis",
@@ -2476,7 +2360,7 @@
               "locale": "es-us"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32378,
@@ -2563,7 +2447,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32325,
@@ -3607,7 +3491,7 @@
               "locale": "es-us"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32376,
@@ -3810,7 +3694,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32398,
@@ -4629,7 +4513,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "18"
+          "viewers": "6"
         }
       ]
     },
@@ -4813,7 +4697,7 @@
               "locale": "pl"
             }
           ],
-          "viewers": "5"
+          "viewers": "564"
         },
         {
           "id": 32457,
@@ -4954,7 +4838,7 @@
               "locale": "pl"
             }
           ],
-          "viewers": "7"
+          "viewers": "6"
         },
         {
           "id": 32468,
@@ -5095,7 +4979,7 @@
               "locale": "pl"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         }
       ]
     },
@@ -5131,7 +5015,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "0"
         }
       ]
     },
@@ -5167,7 +5051,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "17"
+          "viewers": "9"
         },
         {
           "id": 32479,
@@ -5196,7 +5080,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "8"
+          "viewers": "2"
         }
       ]
     },
@@ -5232,7 +5116,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "8"
         },
         {
           "id": 32407,
@@ -5297,7 +5181,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "13"
+          "viewers": "25"
         },
         {
           "id": 3663,
@@ -5326,7 +5210,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 8008,
@@ -5355,7 +5239,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "17"
+          "viewers": "21"
         },
         {
           "id": 5191,
@@ -5384,7 +5268,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "1"
         },
         {
           "id": 16623,
@@ -5413,7 +5297,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "8"
         },
         {
           "id": 17270,
@@ -5433,7 +5317,7 @@
           "locale": "en",
           "category_name": "24/7 Streams",
           "substreams": [],
-          "viewers": "2"
+          "viewers": "1"
         },
         {
           "id": 30527,
@@ -5491,7 +5375,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "8"
         },
         {
           "id": 31730,
@@ -5520,14 +5404,14 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "5"
         }
       ]
     }
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-20T18:54:52.748209+00:00",
+    "captured_utc": "2026-11-21T00:28:46.610764+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
