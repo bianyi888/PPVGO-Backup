@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1795545800,
+  "timestamp": 1795575070,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.08859515190124512,
+  "performance": 0.035650014877319336,
   "streams": [
     {
       "category": "American Football",
@@ -65,7 +65,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32685,
@@ -226,7 +226,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32714,
@@ -567,7 +567,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32736,
@@ -1373,122 +1373,6 @@
       "always_live": false,
       "streams": [
         {
-          "id": 32897,
-          "name": "Ole Miss Rebels at BYU Cougars",
-          "tag": "College Basketball",
-          "source_tag": "HD | ESPN2",
-          "poster": "https://static.ppvservices.st/assets/thumb/08e71477a5a9bd2693efcf5bf0f05720-thumbnail.jpg",
-          "blurhash": "LA8|*rQRjKyXS4WVoLso00yZbYIA",
-          "colors": [
-            "#13294b",
-            "#0047ba"
-          ],
-          "uri_name": "cbb/2026-11-24/miss-byu",
-          "starts_at": 1795548600,
-          "ends_at": 1795559400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032897,
-              "name": "Ole Miss Rebels at BYU Cougars",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-24/miss-byu_540p",
-              "source_tag": "SD | ESPN2",
-              "locale": "en"
-            }
-          ],
-          "viewers": "2"
-        },
-        {
-          "id": 32721,
-          "name": "Tennessee Volunteers at Maryland Terrapins",
-          "tag": "College Basketball",
-          "source_tag": "HD | ESPN",
-          "poster": "https://static.ppvservices.st/assets/thumb/773a303499e2cd31cffdf64de8baac98-thumbnail.jpg",
-          "blurhash": "LKJ#yK~oobMdt7ozfQae0LD*W=tS",
-          "colors": [
-            "#ff8200",
-            "#ce1126"
-          ],
-          "uri_name": "cbb/2026-11-24/tenn-md",
-          "starts_at": 1795550400,
-          "ends_at": 1795561200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032721,
-              "name": "Tennessee Volunteers at Maryland Terrapins",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-24/tenn-md_540p",
-              "source_tag": "SD | ESPN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "1"
-        },
-        {
-          "id": 32723,
-          "name": "Miami Hurricanes at TCU Horned Frogs",
-          "tag": "College Basketball",
-          "source_tag": "HD | ESPNU",
-          "poster": "https://static.ppvservices.st/assets/thumb/3497abcfc66e52665cc08ca9c12ccb25-thumbnail.jpg",
-          "blurhash": "LaE,y$}Rw_WFjtjsfQfk9@I[SgW.",
-          "colors": [
-            "#f47423",
-            "#4d1979"
-          ],
-          "uri_name": "cbb/2026-11-24/mia-tcu",
-          "starts_at": 1795550400,
-          "ends_at": 1795561200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032723,
-              "name": "Miami Hurricanes at TCU Horned Frogs",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-24/mia-tcu_540p",
-              "source_tag": "SD | ESPNU",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32725,
-          "name": "Creighton Bluejays at Michigan Wolverines",
-          "tag": "College Basketball",
-          "source_tag": "HD | ESPN",
-          "poster": "https://static.ppvservices.st/assets/thumb/a60eba5d761656ef61fabd44dfddda10-thumbnail.jpg",
-          "blurhash": "LKAAg%O_WFwGj[azayay01#$oeNz",
-          "colors": [
-            "#005ca9",
-            "#00274c"
-          ],
-          "uri_name": "cbb/2026-11-24/crei-mich",
-          "starts_at": 1795559400,
-          "ends_at": 1795570200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032725,
-              "name": "Creighton Bluejays at Michigan Wolverines",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-24/crei-mich_540p",
-              "source_tag": "SD | ESPN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
           "id": 32700,
           "name": "Detroit Pistons vs. Orlando Magic",
           "tag": "NBA",
@@ -1515,7 +1399,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "398"
         },
         {
           "id": 32727,
@@ -1544,7 +1428,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "7"
         },
         {
           "id": 32729,
@@ -1573,7 +1457,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "16"
         },
         {
           "id": 32898,
@@ -1602,7 +1486,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         },
         {
           "id": 32702,
@@ -1631,7 +1515,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2978"
         },
         {
           "id": 32732,
@@ -1660,7 +1544,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "195"
         },
         {
           "id": 32704,
@@ -1705,7 +1589,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "101"
         },
         {
           "id": 32735,
@@ -1734,7 +1618,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "4"
         },
         {
           "id": 32737,
@@ -1879,7 +1763,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32883,
@@ -1908,7 +1792,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32902,
@@ -2024,7 +1908,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32885,
@@ -2375,7 +2259,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "20"
+          "viewers": "16"
         },
         {
           "id": 27496,
@@ -2404,7 +2288,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "11"
+          "viewers": "9"
         }
       ]
     },
@@ -2413,267 +2297,6 @@
       "id": 34,
       "always_live": false,
       "streams": [
-        {
-          "id": 32813,
-          "name": "Bodo/Glimt vs. LASK Linz",
-          "tag": "Champions League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/d7a63855217c2696b4c221290d3e80f6-thumbnail.jpg",
-          "blurhash": "LEKdYSHXok%Nt6WBjtof00%%W9Ip",
-          "colors": [
-            "#ffcc00",
-            "#ffffff"
-          ],
-          "uri_name": "ucl/2026-11-24/bodo-las",
-          "starts_at": 1795542300,
-          "ends_at": 1795551300,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032813,
-              "name": "Bodo/Glimt vs. LASK Linz",
-              "tag": "Champions League",
-              "uri_name": "ucl/2026-11-24/bodo-las_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "617"
-        },
-        {
-          "id": 32814,
-          "name": "Galatasaray vs. Aston Villa",
-          "tag": "Champions League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/a34cc9763e84c539981dc313fed66e10-thumbnail.jpg",
-          "blurhash": "LFDkW4}ZaKIos:f8fQj?00ELozxb",
-          "colors": [
-            "#a90432",
-            "#670e36"
-          ],
-          "uri_name": "ucl/2026-11-24/gal-avl",
-          "starts_at": 1795542300,
-          "ends_at": 1795551300,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032814,
-              "name": "Galatasaray vs. Aston Villa",
-              "tag": "Champions League",
-              "uri_name": "ucl/2026-11-24/gal-avl_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "4421"
-        },
-        {
-          "id": 32815,
-          "name": "Arsenal vs. Borussia Dortmund",
-          "tag": "Champions League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/a7d217ae06d3122b9b6c9a6d95ae6dc3-thumbnail.jpg",
-          "blurhash": "L7J~YdDIuCo?t6j]j@ay03uVRWo}",
-          "colors": [
-            "#ef0107",
-            "#fde100"
-          ],
-          "uri_name": "ucl/2026-11-24/ars-dor",
-          "starts_at": 1795550400,
-          "ends_at": 1795559400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032815,
-              "name": "Arsenal vs. Borussia Dortmund",
-              "tag": "Champions League",
-              "uri_name": "ucl/2026-11-24/ars-dor_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "23"
-        },
-        {
-          "id": 32816,
-          "name": "Como vs. AEK Athens",
-          "tag": "Champions League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/10335f7345fd88e51d45cbcf99af506d-thumbnail.jpg",
-          "blurhash": "LIE{wB0I-ni^ogjsjta#01-eNIx@",
-          "colors": [
-            "#0033a0",
-            "#ffff00"
-          ],
-          "uri_name": "ucl/2026-11-24/como-aek",
-          "starts_at": 1795550400,
-          "ends_at": 1795559400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032816,
-              "name": "Como vs. AEK Athens",
-              "tag": "Champions League",
-              "uri_name": "ucl/2026-11-24/como-aek_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "2"
-        },
-        {
-          "id": 32817,
-          "name": "Feyenoord Rotterdam vs. FC Porto",
-          "tag": "Champions League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/f36c03e9162e142c159f15d390594589-thumbnail.jpg",
-          "blurhash": "LUC}6,|mwOWEjufjfQjs9rJWX5X9",
-          "colors": [
-            "#e30613",
-            "#0000dd"
-          ],
-          "uri_name": "ucl/2026-11-24/fey-fcp",
-          "starts_at": 1795550400,
-          "ends_at": 1795559400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032817,
-              "name": "Feyenoord Rotterdam vs. FC Porto",
-              "tag": "Champions League",
-              "uri_name": "ucl/2026-11-24/fey-fcp_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32818,
-          "name": "Manchester City vs. Napoli",
-          "tag": "Champions League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/b3fbae6fdcc457523358c78b369a8f08-thumbnail.jpg",
-          "blurhash": "LA8?E{}+jJEOkCfPfQfk00E7ob$$",
-          "colors": [
-            "#6cabdd",
-            "#00a1e6"
-          ],
-          "uri_name": "ucl/2026-11-24/mci-nap",
-          "starts_at": 1795550400,
-          "ends_at": 1795559400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032818,
-              "name": "Manchester City vs. Napoli",
-              "tag": "Champions League",
-              "uri_name": "ucl/2026-11-24/mci-nap_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "6"
-        },
-        {
-          "id": 32819,
-          "name": "RB Leipzig vs. Lens",
-          "tag": "Champions League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/8f51ce06b6937515243e349395b1ee51-thumbnail.jpg",
-          "blurhash": "L1J4YyI6rB]w.8m-f6X,00$=TfB@",
-          "colors": [
-            "#e30613",
-            "#e30613"
-          ],
-          "uri_name": "ucl/2026-11-24/rbl-rcl",
-          "starts_at": 1795550400,
-          "ends_at": 1795559400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032819,
-              "name": "RB Leipzig vs. Lens",
-              "tag": "Champions League",
-              "uri_name": "ucl/2026-11-24/rbl-rcl_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "2"
-        },
-        {
-          "id": 32820,
-          "name": "Real Madrid vs. PSV Eindhoven",
-          "tag": "Champions League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/ad9c41ea1e4917e5b466564b41c2b550-thumbnail.jpg",
-          "blurhash": "LFKI9H*6o[s;nij?fQa#01a7WYRQ",
-          "colors": [
-            "#ffb300",
-            "#ed1c24"
-          ],
-          "uri_name": "ucl/2026-11-24/rma-psv",
-          "starts_at": 1795550400,
-          "ends_at": 1795559400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032820,
-              "name": "Real Madrid vs. PSV Eindhoven",
-              "tag": "Champions League",
-              "uri_name": "ucl/2026-11-24/rma-psv_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "17"
-        },
-        {
-          "id": 32821,
-          "name": "Slovan Bratislava vs. Real Betis",
-          "tag": "Champions League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/aba89bdf4e42b9dcc5834a481f24ae4c-thumbnail.jpg",
-          "blurhash": "LXDIj-{mw]WAjZjtfQaz9GJ$W=bc",
-          "colors": [
-            "#e83030",
-            "#00954c"
-          ],
-          "uri_name": "ucl/2026-11-24/slb-bet",
-          "starts_at": 1795550400,
-          "ends_at": 1795559400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032821,
-              "name": "Slovan Bratislava vs. Real Betis",
-              "tag": "Champions League",
-              "uri_name": "ucl/2026-11-24/slb-bet_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
         {
           "id": 32804,
           "name": "San Jose Earthquakes vs. Houston Dynamo FC",
@@ -2701,7 +2324,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "9"
         },
         {
           "id": 32822,
@@ -2730,7 +2353,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "1"
         },
         {
           "id": 32823,
@@ -2904,7 +2527,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         },
         {
           "id": 32829,
@@ -2962,7 +2585,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32849,
@@ -3977,7 +3600,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32866,
@@ -5224,7 +4847,7 @@
               "locale": "nl"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32873,
@@ -5485,7 +5108,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32761,
@@ -5956,7 +5579,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "2"
         },
         {
           "id": 32882,
@@ -5985,7 +5608,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "798"
         }
       ]
     },
@@ -6021,7 +5644,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         }
       ]
     },
@@ -6057,7 +5680,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "26"
+          "viewers": "5"
         }
       ]
     },
@@ -6093,7 +5716,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "52"
         },
         {
           "id": 32878,
@@ -6180,7 +5803,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32881,
@@ -6245,7 +5868,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "16"
+          "viewers": "18"
         },
         {
           "id": 3663,
@@ -6274,7 +5897,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "0"
         },
         {
           "id": 8008,
@@ -6303,7 +5926,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "22"
+          "viewers": "23"
         },
         {
           "id": 5191,
@@ -6332,7 +5955,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "3"
         },
         {
           "id": 16623,
@@ -6361,7 +5984,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "3"
         },
         {
           "id": 17270,
@@ -6381,7 +6004,7 @@
           "locale": "en",
           "category_name": "24/7 Streams",
           "substreams": [],
-          "viewers": "1"
+          "viewers": "2"
         },
         {
           "id": 31729,
@@ -6410,7 +6033,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "8"
         },
         {
           "id": 31730,
@@ -6439,14 +6062,14 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "4"
         }
       ]
     }
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-24T18:43:19.506173+00:00",
+    "captured_utc": "2026-11-25T02:51:04.088662+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
