@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1795607550,
+  "timestamp": 1795639810,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.08135199546813965,
+  "performance": 0.07940983772277832,
   "streams": [
     {
       "category": "American Football",
@@ -36,7 +36,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "6"
+          "viewers": "13"
         },
         {
           "id": 32683,
@@ -65,7 +65,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "5"
         },
         {
           "id": 32685,
@@ -123,7 +123,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32709,
@@ -950,7 +950,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32753,
@@ -1363,7 +1363,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "3"
         }
       ]
     },
@@ -1372,35 +1372,6 @@
       "id": 37,
       "always_live": false,
       "streams": [
-        {
-          "id": 32899,
-          "name": "Virginia Cavaliers at Marquette Golden Eagles",
-          "tag": "College Basketball",
-          "source_tag": "HD | ESPN",
-          "poster": "https://static.ppvservices.st/assets/thumb/66759433dc91c436645c9d5e49276d8f-thumbnail.jpg",
-          "blurhash": "L58gml8wRj?]t7f+WBoe00?]t78{",
-          "colors": [
-            "#232d4b",
-            "#003366"
-          ],
-          "uri_name": "cbb/2026-11-25/uva-marq",
-          "starts_at": 1795626000,
-          "ends_at": 1795636800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032899,
-              "name": "Virginia Cavaliers at Marquette Golden Eagles",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-25/uva-marq_540p",
-              "source_tag": "SD | ESPN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
         {
           "id": 32900,
           "name": "Arizona State Sun Devils at LSU Tigers",
@@ -1428,7 +1399,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "137"
         },
         {
           "id": 32919,
@@ -1457,7 +1428,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "116"
         },
         {
           "id": 32901,
@@ -1515,7 +1486,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "7"
         },
         {
           "id": 32902,
@@ -1660,7 +1631,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32885,
@@ -2156,7 +2127,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "83"
+          "viewers": "18"
         },
         {
           "id": 27496,
@@ -2185,7 +2156,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "10"
+          "viewers": "6"
         }
       ]
     },
@@ -2194,64 +2165,6 @@
       "id": 34,
       "always_live": false,
       "streams": [
-        {
-          "id": 32822,
-          "name": "Sabah FK vs. Barcelona",
-          "tag": "Champions League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/c1c8ab8e97f2dfb8e1c7e38111f6b10c-thumbnail.jpg",
-          "blurhash": "LEG#ki{gnOxrs:WXfPoJ0yTGbvIt",
-          "colors": [
-            "#ee2020",
-            "#a50044"
-          ],
-          "uri_name": "ucl/2026-11-25/sab-bar",
-          "starts_at": 1795628700,
-          "ends_at": 1795637700,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032822,
-              "name": "Sabah FK vs. Barcelona",
-              "tag": "Champions League",
-              "uri_name": "ucl/2026-11-25/sab-bar_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "1"
-        },
-        {
-          "id": 32823,
-          "name": "Slavia Prague vs. Villarreal",
-          "tag": "Champions League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/f60060edcc6760995f934e4e48d76f75-thumbnail.jpg",
-          "blurhash": "L6I.vJ4ZtvP9xDahfQj?03d6Rq,-",
-          "colors": [
-            "#d7141a",
-            "#f4c300"
-          ],
-          "uri_name": "ucl/2026-11-25/slp-vil",
-          "starts_at": 1795628700,
-          "ends_at": 1795637700,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032823,
-              "name": "Slavia Prague vs. Villarreal",
-              "tag": "Champions League",
-              "uri_name": "ucl/2026-11-25/slp-vil_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
         {
           "id": 32824,
           "name": "Atlético Madrid vs. Viking FK",
@@ -2279,7 +2192,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "565"
         },
         {
           "id": 32825,
@@ -2308,7 +2221,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "9434"
         },
         {
           "id": 32826,
@@ -2337,7 +2250,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1179"
         },
         {
           "id": 32827,
@@ -2366,7 +2279,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "3573"
         },
         {
           "id": 32828,
@@ -2395,7 +2308,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "5536"
         },
         {
           "id": 32829,
@@ -2424,7 +2337,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "660"
         },
         {
           "id": 32830,
@@ -2453,7 +2366,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "17549"
         },
         {
           "id": 32849,
@@ -2482,7 +2395,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32831,
@@ -3294,7 +3207,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32860,
@@ -3961,7 +3874,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32757,
@@ -4599,7 +4512,7 @@
               "locale": "nl"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32788,
@@ -5447,7 +5360,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "0"
         },
         {
           "id": 32905,
@@ -5534,7 +5447,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32908,
@@ -5795,7 +5708,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32917,
@@ -5889,7 +5802,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "4"
         }
       ]
     },
@@ -5925,7 +5838,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "40"
         }
       ]
     },
@@ -6084,7 +5997,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "14"
+          "viewers": "15"
         },
         {
           "id": 3663,
@@ -6171,7 +6084,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "4"
         },
         {
           "id": 16623,
@@ -6200,7 +6113,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "5"
         },
         {
           "id": 17270,
@@ -6220,7 +6133,7 @@
           "locale": "en",
           "category_name": "24/7 Streams",
           "substreams": [],
-          "viewers": "1"
+          "viewers": "2"
         },
         {
           "id": 31729,
@@ -6249,7 +6162,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "6"
         },
         {
           "id": 31730,
@@ -6278,14 +6191,14 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "3"
         }
       ]
     }
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-25T11:52:23.497245+00:00",
+    "captured_utc": "2026-11-25T20:50:07.380295+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
