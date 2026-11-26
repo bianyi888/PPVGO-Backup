@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1795639810,
+  "timestamp": 1795663060,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.07940983772277832,
+  "performance": 0.034362077713012695,
   "streams": [
     {
       "category": "American Football",
@@ -36,7 +36,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "13"
+          "viewers": "2"
         },
         {
           "id": 32683,
@@ -65,7 +65,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "8503"
         },
         {
           "id": 32685,
@@ -123,7 +123,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32709,
@@ -950,7 +950,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32753,
@@ -1124,7 +1124,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         },
         {
           "id": 32698,
@@ -1363,7 +1363,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "4"
         }
       ]
     },
@@ -1372,267 +1372,6 @@
       "id": 37,
       "always_live": false,
       "streams": [
-        {
-          "id": 32900,
-          "name": "Arizona State Sun Devils at LSU Tigers",
-          "tag": "College Basketball",
-          "source_tag": "HD | CBSSN",
-          "poster": "https://static.ppvservices.st/assets/thumb/1d7f43dba162b8f5bb3f056753ff9662-thumbnail.jpg",
-          "blurhash": "LcF;u~~1xWWXj@j@fQfQ59I[WEWE",
-          "colors": [
-            "#ffc627",
-            "#461d76"
-          ],
-          "uri_name": "cbb/2026-11-25/asu-lsu",
-          "starts_at": 1795633200,
-          "ends_at": 1795644000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032900,
-              "name": "Arizona State Sun Devils at LSU Tigers",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-25/asu-lsu_540p",
-              "source_tag": "SD | CBSSN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "137"
-        },
-        {
-          "id": 32919,
-          "name": "Ole Miss Rebels at Arizona Wildcats",
-          "tag": "College Basketball",
-          "source_tag": "HD | ESPN",
-          "poster": "https://static.ppvservices.st/assets/thumb/5b616639860c46507420cb9a04294a54-thumbnail.jpg",
-          "blurhash": "L5D7,Z0K[Wy?RPXSsor?00_3KOqa",
-          "colors": [
-            "#13294b",
-            "#cc0033"
-          ],
-          "uri_name": "cbb/2026-11-25/miss-ariz",
-          "starts_at": 1795635000,
-          "ends_at": 1795645800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032919,
-              "name": "Ole Miss Rebels at Arizona Wildcats",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-25/miss-ariz_540p",
-              "source_tag": "SD | ESPN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "116"
-        },
-        {
-          "id": 32901,
-          "name": "South Carolina Gamecocks at USC Trojans",
-          "tag": "College Basketball",
-          "source_tag": "HD | CBSSN",
-          "poster": "https://static.ppvservices.st/assets/thumb/852add9543d248107b27d37b31be4b0f-thumbnail.jpg",
-          "blurhash": "L2CECA3;RP:5s.fka}oJ00_$xuL2",
-          "colors": [
-            "#73000a",
-            "#9d2235"
-          ],
-          "uri_name": "cbb/2026-11-25/sc-usc",
-          "starts_at": 1795642200,
-          "ends_at": 1795653000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032901,
-              "name": "South Carolina Gamecocks at USC Trojans",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-25/sc-usc_540p",
-              "source_tag": "SD | CBSSN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32883,
-          "name": "Miami Heat vs. Philadelphia 76ers",
-          "tag": "NBA",
-          "source_tag": "HD | ESPN",
-          "poster": "https://static.ppvservices.st/assets/thumb/2a09f23a6f6e5186d3a92bec589691e4-thumbnail.jpg",
-          "blurhash": "L8B2i;_#s=$+NaxtaeRk00X:jYJ8",
-          "colors": [
-            "#98002e",
-            "#1d428a"
-          ],
-          "uri_name": "nba/2026-11-25/mia-phi",
-          "starts_at": 1795644000,
-          "ends_at": 1795654800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032883,
-              "name": "Miami Heat vs. Philadelphia 76ers",
-              "tag": "NBA",
-              "uri_name": "nba/2026-11-25/mia-phi_540p",
-              "source_tag": "SD | ESPN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "7"
-        },
-        {
-          "id": 32902,
-          "name": "Southern Jaguars at Nebraska Cornhuskers",
-          "tag": "College Basketball",
-          "source_tag": "HD | BTN",
-          "poster": "https://static.ppvservices.st/assets/thumb/a63c3ee59ae776ce114e41bfe4f89126-thumbnail.jpg",
-          "blurhash": "LFEm-A3s,uz;oLbHj[jZ0J:jSdb^",
-          "colors": [
-            "#004b97",
-            "#e31937"
-          ],
-          "uri_name": "cbb/2026-11-25/sou-neb",
-          "starts_at": 1795644000,
-          "ends_at": 1795654800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032902,
-              "name": "Southern Jaguars at Nebraska Cornhuskers",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-25/sou-neb_540p",
-              "source_tag": "SD | BTN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32903,
-          "name": "Memphis Tigers at Penn State Nittany Lions",
-          "tag": "College Basketball",
-          "source_tag": "HD | ESPNU",
-          "poster": "https://static.ppvservices.st/assets/thumb/d2747b4cc8ef9331742476683e7c4ed8-thumbnail.jpg",
-          "blurhash": "LB5ricpMR.jEfRayfQj[4maIs:bI",
-          "colors": [
-            "#004991",
-            "#061440"
-          ],
-          "uri_name": "cbb/2026-11-25/mem-psu",
-          "starts_at": 1795644000,
-          "ends_at": 1795654800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032903,
-              "name": "Memphis Tigers at Penn State Nittany Lions",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-25/mem-psu_540p",
-              "source_tag": "SD | ESPNU",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32920,
-          "name": "BYU Cougars at Providence Friars",
-          "tag": "College Basketball",
-          "source_tag": "HD | ESPN2",
-          "poster": "https://static.ppvservices.st/assets/thumb/d60f6d48e6f9313256aa096224b09ff5-thumbnail.jpg",
-          "blurhash": "LP7e6+x|b1M{fRfRfRfQ9EM^j=xt",
-          "colors": [
-            "#0047ba",
-            "#000000"
-          ],
-          "uri_name": "cbb/2026-11-25/byu-prov",
-          "starts_at": 1795645800,
-          "ends_at": 1795656600,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032920,
-              "name": "BYU Cougars at Providence Friars",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-25/byu-prov_540p",
-              "source_tag": "SD | ESPN2",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32884,
-          "name": "Chicago Bulls vs. Charlotte Hornets",
-          "tag": "NBA",
-          "source_tag": "HD | Home",
-          "poster": "https://static.ppvservices.st/assets/thumb/26fd11ca8c2fe2dfdb3ff5872fcc913b-thumbnail.jpg",
-          "blurhash": "LRCYOY{0w{S$ofa|fQjt5OKPW;jZ",
-          "colors": [
-            "#ce1141",
-            "#008ca8"
-          ],
-          "uri_name": "nba/2026-11-25/chi-cha",
-          "starts_at": 1795651200,
-          "ends_at": 1795662000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032884,
-              "name": "Chicago Bulls vs. Charlotte Hornets",
-              "tag": "NBA",
-              "uri_name": "nba/2026-11-25/chi-cha_540p",
-              "source_tag": "SD | Home",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32904,
-          "name": "UConn Huskies at Duke Blue Devils",
-          "tag": "College Basketball",
-          "source_tag": "HD | Prime Video",
-          "poster": "https://static.ppvservices.st/assets/thumb/ba718599fdf7657c587ad4fb377497d0-thumbnail.jpg",
-          "blurhash": "L9A1I.00kD_3a}WBfQj[00_4axD*",
-          "colors": [
-            "#0c2340",
-            "#00539b"
-          ],
-          "uri_name": "cbb/2026-11-25/conn-duke",
-          "starts_at": 1795651200,
-          "ends_at": 1795662000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032904,
-              "name": "UConn Huskies at Duke Blue Devils",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-25/conn-duke_540p",
-              "source_tag": "SD | Prime Video",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
         {
           "id": 32885,
           "name": "Cleveland Cavaliers vs. New York Knicks",
@@ -1676,7 +1415,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "402"
         },
         {
           "id": 32887,
@@ -1705,7 +1444,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "965"
         },
         {
           "id": 32888,
@@ -1750,7 +1489,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "218"
         },
         {
           "id": 32890,
@@ -1795,7 +1534,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "528"
         },
         {
           "id": 32892,
@@ -1840,7 +1579,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1186"
         },
         {
           "id": 32894,
@@ -1869,7 +1608,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1194"
         },
         {
           "id": 32895,
@@ -1914,7 +1653,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2280"
         },
         {
           "id": 32921,
@@ -2127,7 +1866,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "18"
+          "viewers": "16"
         },
         {
           "id": 27496,
@@ -2166,209 +1905,6 @@
       "always_live": false,
       "streams": [
         {
-          "id": 32824,
-          "name": "Atlético Madrid vs. Viking FK",
-          "tag": "Champions League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/1361c5a83d1494781f2c8dbf12b7fc74-thumbnail.jpg",
-          "blurhash": "LLDG{G}RwMrqbHbHfQjs0{NHf*OZ",
-          "colors": [
-            "#ce3524",
-            "#000080"
-          ],
-          "uri_name": "ucl/2026-11-25/atm-vfk",
-          "starts_at": 1795636800,
-          "ends_at": 1795645800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032824,
-              "name": "Atlético Madrid vs. Viking FK",
-              "tag": "Champions League",
-              "uri_name": "ucl/2026-11-25/atm-vfk_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "565"
-        },
-        {
-          "id": 32825,
-          "name": "Club Brugge vs. Liverpool",
-          "tag": "Champions League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/2ca022888f384b55b66804ce29f871bc-thumbnail.jpg",
-          "blurhash": "L7CEbE3G+d#ljaWBj[oe00{xTIoc",
-          "colors": [
-            "#0a2e7a",
-            "#c8102e"
-          ],
-          "uri_name": "ucl/2026-11-25/bru-liv",
-          "starts_at": 1795636800,
-          "ends_at": 1795645800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032825,
-              "name": "Club Brugge vs. Liverpool",
-              "tag": "Champions League",
-              "uri_name": "ucl/2026-11-25/bru-liv_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "9434"
-        },
-        {
-          "id": 32826,
-          "name": "Inter Milan vs. VfB Stuttgart",
-          "tag": "Champions League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/48c9804f682ccc4f1053cabbda1e2d34-thumbnail.jpg",
-          "blurhash": "L7Edbw3Y[WvxxuR%f6og00{cOrxd",
-          "colors": [
-            "#0a2540",
-            "#e30613"
-          ],
-          "uri_name": "ucl/2026-11-25/int-vfb",
-          "starts_at": 1795636800,
-          "ends_at": 1795645800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032826,
-              "name": "Inter Milan vs. VfB Stuttgart",
-              "tag": "Champions League",
-              "uri_name": "ucl/2026-11-25/int-vfb_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "1179"
-        },
-        {
-          "id": 32827,
-          "name": "Lille vs. Bayern Munich",
-          "tag": "Champions League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/d36deb84dbb1ca477e54e2946c967ed9-thumbnail.jpg",
-          "blurhash": "L1Ix5o{t*y-F#:R*jZso00E.G[JN",
-          "colors": [
-            "#e30613",
-            "#dc052d"
-          ],
-          "uri_name": "ucl/2026-11-25/lill-bay",
-          "starts_at": 1795636800,
-          "ends_at": 1795645800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032827,
-              "name": "Lille vs. Bayern Munich",
-              "tag": "Champions League",
-              "uri_name": "ucl/2026-11-25/lill-bay_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "3573"
-        },
-        {
-          "id": 32828,
-          "name": "Paris Saint-Germain vs. AS Roma",
-          "tag": "Champions League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/7855d89c9c2a7ec0fd69494f54eab939-thumbnail.jpg",
-          "blurhash": "LH9~w77jr^r;oea#fQj?54wFkBbc",
-          "colors": [
-            "#0033a0",
-            "#970a2c"
-          ],
-          "uri_name": "ucl/2026-11-25/psg-roma",
-          "starts_at": 1795636800,
-          "ends_at": 1795645800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032828,
-              "name": "Paris Saint-Germain vs. AS Roma",
-              "tag": "Champions League",
-              "uri_name": "ucl/2026-11-25/psg-roma_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "5536"
-        },
-        {
-          "id": 32829,
-          "name": "Shakhtar Donetsk vs. Fenerbahce",
-          "tag": "Champions League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/94307b01c3eed5e6a9110c235a492f02-thumbnail.jpg",
-          "blurhash": "L8KvZbuntwXnxFjbj@ay00UWRptc",
-          "colors": [
-            "#ff5900",
-            "#ffff00"
-          ],
-          "uri_name": "ucl/2026-11-25/shk-fen",
-          "starts_at": 1795636800,
-          "ends_at": 1795645800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032829,
-              "name": "Shakhtar Donetsk vs. Fenerbahce",
-              "tag": "Champions League",
-              "uri_name": "ucl/2026-11-25/shk-fen_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "660"
-        },
-        {
-          "id": 32830,
-          "name": "Sporting CP vs. Manchester United",
-          "tag": "Champions League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/9d94f7f3af859407a2e0a6c51019c622-thumbnail.jpg",
-          "blurhash": "LAC}:=4Q-6+tj@WWjtj[02{LS$S%",
-          "colors": [
-            "#008057",
-            "#da020e"
-          ],
-          "uri_name": "ucl/2026-11-25/scp-mun",
-          "starts_at": 1795636800,
-          "ends_at": 1795645800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032830,
-              "name": "Sporting CP vs. Manchester United",
-              "tag": "Champions League",
-              "uri_name": "ucl/2026-11-25/scp-mun_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "17549"
-        },
-        {
           "id": 32849,
           "name": "Kairat Almaty vs. Mjällby AIF",
           "tag": "Conference League",
@@ -2395,7 +1931,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32831,
@@ -3207,7 +2743,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32860,
@@ -4164,7 +3700,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32787,
@@ -4512,7 +4048,7 @@
               "locale": "nl"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32788,
@@ -5360,239 +4896,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
-        },
-        {
-          "id": 32905,
-          "name": "Winnipeg Jets vs. Boston Bruins",
-          "tag": "NHL",
-          "source_tag": "HD | NESN",
-          "poster": "https://static.ppvservices.st/assets/thumb/08b253f4acd5ecb11873f808514a5a65-thumbnail.jpg",
-          "blurhash": "L49QaM1BD*}*offkayfP00^F-:5X",
-          "colors": [
-            "#002d62",
-            "#231f20"
-          ],
-          "uri_name": "nhl/2026-11-25/wpg-bos",
-          "starts_at": 1795651200,
-          "ends_at": 1795662000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Ice Hockey",
-          "substreams": [
-            {
-              "id": 1032905,
-              "name": "Winnipeg Jets vs. Boston Bruins",
-              "tag": "NHL",
-              "uri_name": "nhl/2026-11-25/wpg-bos_540p",
-              "source_tag": "SD | NESN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32906,
-          "name": "New York Rangers vs. Buffalo Sabres",
-          "tag": "NHL",
-          "source_tag": "HD | MSGB",
-          "poster": "https://static.ppvservices.st/assets/thumb/e7df1b277a4c7a4b0a27e3328bd2243a-thumbnail.jpg",
-          "blurhash": "L87n^UyGM~R%t7Rjayt700M^xssm",
-          "colors": [
-            "#0056ae",
-            "#00468b"
-          ],
-          "uri_name": "nhl/2026-11-25/nyr-buf",
-          "starts_at": 1795651200,
-          "ends_at": 1795662000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Ice Hockey",
-          "substreams": [
-            {
-              "id": 1032906,
-              "name": "New York Rangers vs. Buffalo Sabres",
-              "tag": "NHL",
-              "uri_name": "nhl/2026-11-25/nyr-buf_540p",
-              "source_tag": "SD | MSGB",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32907,
-          "name": "Carolina Hurricanes vs. Tampa Bay Lightning",
-          "tag": "NHL",
-          "source_tag": "HD | TNT",
-          "poster": "https://static.ppvservices.st/assets/thumb/5e722f947506b476b1c32322adfb65b2-thumbnail.jpg",
-          "blurhash": "LTDth;{ewKX9j[jZjtay55OrX8WB",
-          "colors": [
-            "#e30426",
-            "#003e7e"
-          ],
-          "uri_name": "nhl/2026-11-25/car-tb",
-          "starts_at": 1795651200,
-          "ends_at": 1795662000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Ice Hockey",
-          "substreams": [
-            {
-              "id": 1032907,
-              "name": "Carolina Hurricanes vs. Tampa Bay Lightning",
-              "tag": "NHL",
-              "uri_name": "nhl/2026-11-25/car-tb_540p",
-              "source_tag": "SD | TNT",
-              "locale": "en"
-            }
-          ],
-          "viewers": "1"
-        },
-        {
-          "id": 32908,
-          "name": "Ottawa Senators vs. Florida Panthers",
-          "tag": "NHL",
-          "source_tag": "HD | Scripps Sports",
-          "poster": "https://static.ppvservices.st/assets/thumb/f19b9dad95e749ccf1432f3156d20132-thumbnail.jpg",
-          "blurhash": "L1IA;}DO?_Tx=ejFaybb00PnD3+H",
-          "colors": [
-            "#dd1a32",
-            "#e51937"
-          ],
-          "uri_name": "nhl/2026-11-25/ott-fla",
-          "starts_at": 1795651200,
-          "ends_at": 1795662000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Ice Hockey",
-          "substreams": [
-            {
-              "id": 1032908,
-              "name": "Ottawa Senators vs. Florida Panthers",
-              "tag": "NHL",
-              "uri_name": "nhl/2026-11-25/ott-fla_540p",
-              "source_tag": "SD | Scripps Sports",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32909,
-          "name": "St. Louis Blues vs. New York Islanders",
-          "tag": "NHL",
-          "source_tag": "HD | MSGSN",
-          "poster": "https://static.ppvservices.st/assets/thumb/34442f148352bbb8d29eaf1dcdc35401-thumbnail.jpg",
-          "blurhash": "L67B~O2yE3}?t8aeaykD00]~%K58",
-          "colors": [
-            "#0070b9",
-            "#00529b"
-          ],
-          "uri_name": "nhl/2026-11-25/stl-nyi",
-          "starts_at": 1795651200,
-          "ends_at": 1795662000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Ice Hockey",
-          "substreams": [
-            {
-              "id": 1032909,
-              "name": "St. Louis Blues vs. New York Islanders",
-              "tag": "NHL",
-              "uri_name": "nhl/2026-11-25/stl-nyi_540p",
-              "source_tag": "SD | MSGSN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32910,
-          "name": "Calgary Flames vs. Pittsburgh Penguins",
-          "tag": "NHL",
-          "source_tag": "HD | ESPN+",
-          "poster": "https://static.ppvservices.st/assets/thumb/b8da89a7846c268fc80f9252482dd2b0-thumbnail.jpg",
-          "blurhash": "LWD%aq{}wJS}oLf6fQj[5RK4bbaL",
-          "colors": [
-            "#dd1a32",
-            "#000000"
-          ],
-          "uri_name": "nhl/2026-11-25/cgy-pit",
-          "starts_at": 1795651200,
-          "ends_at": 1795662000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Ice Hockey",
-          "substreams": [
-            {
-              "id": 1032910,
-              "name": "Calgary Flames vs. Pittsburgh Penguins",
-              "tag": "NHL",
-              "uri_name": "nhl/2026-11-25/cgy-pit_540p",
-              "source_tag": "SD | ESPN+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32911,
-          "name": "Philadelphia Flyers vs. Washington Capitals",
-          "tag": "NHL",
-          "source_tag": "HD | MNMT",
-          "poster": "https://static.ppvservices.st/assets/thumb/9442b9f518ba74c931dfa3c602e132b6-thumbnail.jpg",
-          "blurhash": "L7I-TZ~4rW+^oLbHjZn%00rtTKFd",
-          "colors": [
-            "#fe5823",
-            "#d71830"
-          ],
-          "uri_name": "nhl/2026-11-25/phi-wsh",
-          "starts_at": 1795651200,
-          "ends_at": 1795662000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Ice Hockey",
-          "substreams": [
-            {
-              "id": 1032911,
-              "name": "Philadelphia Flyers vs. Washington Capitals",
-              "tag": "NHL",
-              "uri_name": "nhl/2026-11-25/phi-wsh_540p",
-              "source_tag": "SD | MNMT",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32912,
-          "name": "New Jersey Devils vs. Columbus Blue Jackets",
-          "tag": "NHL",
-          "source_tag": "HD | CBJNHL",
-          "poster": "https://static.ppvservices.st/assets/thumb/e50f0e9ec23a1e202e5a8ae178acebc9-thumbnail.jpg",
-          "blurhash": "LXDjoD|twJR+j[j@fQaz5QJ9bbbb",
-          "colors": [
-            "#e30b2b",
-            "#002d62"
-          ],
-          "uri_name": "nhl/2026-11-25/nj-cbj",
-          "starts_at": 1795651200,
-          "ends_at": 1795662000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Ice Hockey",
-          "substreams": [
-            {
-              "id": 1032912,
-              "name": "New Jersey Devils vs. Columbus Blue Jackets",
-              "tag": "NHL",
-              "uri_name": "nhl/2026-11-25/nj-cbj_540p",
-              "source_tag": "SD | CBJNHL",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
+          "viewers": "2"
         },
         {
           "id": 32913,
@@ -5621,7 +4925,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "52"
         },
         {
           "id": 32914,
@@ -5650,7 +4954,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "89"
         },
         {
           "id": 32915,
@@ -5679,7 +4983,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "99"
         },
         {
           "id": 32916,
@@ -5708,7 +5012,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "740"
         },
         {
           "id": 32917,
@@ -5737,7 +5041,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "100"
         },
         {
           "id": 32918,
@@ -5766,7 +5070,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "154"
         }
       ]
     },
@@ -5802,7 +5106,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "1"
         }
       ]
     },
@@ -5838,7 +5142,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "40"
+          "viewers": "8"
         }
       ]
     },
@@ -5874,7 +5178,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "172"
         },
         {
           "id": 32879,
@@ -6055,7 +5359,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "18"
+          "viewers": "17"
         },
         {
           "id": 5191,
@@ -6084,7 +5388,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "2"
         },
         {
           "id": 16623,
@@ -6113,7 +5417,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "2"
         },
         {
           "id": 17270,
@@ -6133,7 +5437,7 @@
           "locale": "en",
           "category_name": "24/7 Streams",
           "substreams": [],
-          "viewers": "2"
+          "viewers": "1"
         },
         {
           "id": 31729,
@@ -6162,7 +5466,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "6"
+          "viewers": "7"
         },
         {
           "id": 31730,
@@ -6198,7 +5502,7 @@
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-25T20:50:07.380295+00:00",
+    "captured_utc": "2026-11-26T03:17:34.122363+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
