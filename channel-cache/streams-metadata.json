@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1795730660,
+  "timestamp": 1795753320,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.06548786163330078,
+  "performance": 0.054141998291015625,
   "streams": [
     {
       "category": "American Football",
@@ -36,36 +36,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "14"
-        },
-        {
-          "id": 32686,
-          "name": "Philadelphia Eagles at Dallas Cowboys",
-          "tag": "NFL",
-          "source_tag": "HD | Fox",
-          "poster": "https://static.ppvservices.st/assets/thumb/d63f5e3ca2a488a5b92479a551bd3562-thumbnail.jpg",
-          "blurhash": "L25rx[.U4oIXfmt6WBNG00Du?u%N",
-          "colors": [
-            "#004c54",
-            "#003594"
-          ],
-          "uri_name": "nfl/2026-11-26/phi-dal",
-          "starts_at": 1795728600,
-          "ends_at": 1795743000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1032686,
-              "name": "Philadelphia Eagles at Dallas Cowboys",
-              "tag": "NFL",
-              "uri_name": "nfl/2026-11-26/phi-dal_540p",
-              "source_tag": "SD | Fox",
-              "locale": "en"
-            }
-          ],
-          "viewers": "8558"
+          "viewers": "8"
         },
         {
           "id": 32709,
@@ -94,7 +65,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "99"
         },
         {
           "id": 32687,
@@ -123,7 +94,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "7"
+          "viewers": "14073"
         },
         {
           "id": 32712,
@@ -316,7 +287,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32724,
@@ -1299,209 +1270,6 @@
       "always_live": false,
       "streams": [
         {
-          "id": 32921,
-          "name": "Georgetown Hoyas at Texas Longhorns",
-          "tag": "College Basketball",
-          "source_tag": "HD | FS1",
-          "poster": "https://static.ppvservices.st/assets/thumb/2a6056783ca30f11029dfbb06eef7790-thumbnail.jpg",
-          "blurhash": "L7A+jd0Q#l=_ofWVj[j[00}rXSM{",
-          "colors": [
-            "#110e42",
-            "#af5c37"
-          ],
-          "uri_name": "cbb/2026-11-26/gtwn-tex",
-          "starts_at": 1795721400,
-          "ends_at": 1795732200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032921,
-              "name": "Georgetown Hoyas at Texas Longhorns",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-26/gtwn-tex_540p",
-              "source_tag": "SD | FS1",
-              "locale": "en"
-            }
-          ],
-          "viewers": "22"
-        },
-        {
-          "id": 32942,
-          "name": "Tennessee Volunteers at Iowa State Cyclones",
-          "tag": "College Basketball",
-          "source_tag": "HD | ESPN",
-          "poster": "https://static.ppvservices.st/assets/thumb/d87b18127ebd33f747f82d362e6d0213-thumbnail.jpg",
-          "blurhash": "LTIyC2~AoJMxozkCfQae0fIVbHo#",
-          "colors": [
-            "#ff8200",
-            "#ae192d"
-          ],
-          "uri_name": "cbb/2026-11-26/tenn-isu",
-          "starts_at": 1795725000,
-          "ends_at": 1795735800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032942,
-              "name": "Tennessee Volunteers at Iowa State Cyclones",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-26/tenn-isu_540p",
-              "source_tag": "SD | ESPN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "34"
-        },
-        {
-          "id": 32943,
-          "name": "Miami Hurricanes at Michigan Wolverines",
-          "tag": "College Basketball",
-          "source_tag": "HD | ESPN2",
-          "poster": "https://static.ppvservices.st/assets/thumb/86eac1bf2e14d69d642647d5a7e575b8-thumbnail.jpg",
-          "blurhash": "LSFgab|[$NxVj@jtjtfk0iS^OEI[",
-          "colors": [
-            "#f47423",
-            "#00274c"
-          ],
-          "uri_name": "cbb/2026-11-26/mia-mich",
-          "starts_at": 1795725000,
-          "ends_at": 1795735800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032943,
-              "name": "Miami Hurricanes at Michigan Wolverines",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-26/mia-mich_540p",
-              "source_tag": "SD | ESPN2",
-              "locale": "en"
-            }
-          ],
-          "viewers": "46"
-        },
-        {
-          "id": 32922,
-          "name": "Arkansas Razorbacks at Michigan State Spartans",
-          "tag": "College Basketball",
-          "source_tag": "HD | CBS",
-          "poster": "https://static.ppvservices.st/assets/thumb/de58db432c6a01b61f8f88626bc320b2-thumbnail.jpg",
-          "blurhash": "L9Boju.nv~_Ns:aeayof00yrkW4n",
-          "colors": [
-            "#a32136",
-            "#173f35"
-          ],
-          "uri_name": "cbb/2026-11-26/ark-msu",
-          "starts_at": 1795728600,
-          "ends_at": 1795739400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032922,
-              "name": "Arkansas Razorbacks at Michigan State Spartans",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-26/ark-msu_540p",
-              "source_tag": "SD | CBS",
-              "locale": "en"
-            }
-          ],
-          "viewers": "140"
-        },
-        {
-          "id": 32923,
-          "name": "Utah State Aggies at USC Trojans",
-          "tag": "College Basketball",
-          "source_tag": "HD | CBSSN",
-          "poster": "https://static.ppvservices.st/assets/thumb/0ab3608c513c8a3db1ebf9be075916aa-thumbnail.jpg",
-          "blurhash": "L9BoaY8vv~Hrjtaza}oL00QSbu.8",
-          "colors": [
-            "#0f2439",
-            "#9d2235"
-          ],
-          "uri_name": "cbb/2026-11-26/usu-usc",
-          "starts_at": 1795728600,
-          "ends_at": 1795739400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032923,
-              "name": "Utah State Aggies at USC Trojans",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-26/usu-usc_540p",
-              "source_tag": "SD | CBSSN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "44"
-        },
-        {
-          "id": 32924,
-          "name": "Saint Mary's Gaels at UCLA Bruins",
-          "tag": "College Basketball",
-          "source_tag": "HD | FS1",
-          "poster": "https://static.ppvservices.st/assets/thumb/90e212c516f9fb6c6f2e9001e71aa85a-thumbnail.jpg",
-          "blurhash": "LUC}P3{JspS#j[jsfQa|9?K5W.ju",
-          "colors": [
-            "#d80024",
-            "#2774ae"
-          ],
-          "uri_name": "cbb/2026-11-26/smc-ucla",
-          "starts_at": 1795730400,
-          "ends_at": 1795741200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032924,
-              "name": "Saint Mary's Gaels at UCLA Bruins",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-26/smc-ucla_540p",
-              "source_tag": "SD | FS1",
-              "locale": "en"
-            }
-          ],
-          "viewers": "11"
-        },
-        {
-          "id": 32925,
-          "name": "SMU Mustangs at LSU Tigers",
-          "tag": "College Basketball",
-          "source_tag": "HD | CBSSN",
-          "poster": "https://static.ppvservices.st/assets/thumb/b9f813bafca45288936359ff1fbedabf-thumbnail.jpg",
-          "blurhash": "LBB-lY{cr^bqj[j@fQaz0fO;f+Rp",
-          "colors": [
-            "#a80000",
-            "#461d76"
-          ],
-          "uri_name": "cbb/2026-11-26/smu-lsu",
-          "starts_at": 1795737600,
-          "ends_at": 1795748400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Basketball",
-          "substreams": [
-            {
-              "id": 1032925,
-              "name": "SMU Mustangs at LSU Tigers",
-              "tag": "College Basketball",
-              "uri_name": "cbb/2026-11-26/smu-lsu_540p",
-              "source_tag": "SD | CBSSN",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
           "id": 32944,
           "name": "Louisville Cardinals at St. John's Red Storm",
           "tag": "College Basketball",
@@ -1528,7 +1296,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "103"
         },
         {
           "id": 32945,
@@ -1557,7 +1325,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "41"
         },
         {
           "id": 32946,
@@ -1586,7 +1354,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32947,
@@ -1615,7 +1383,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         },
         {
           "id": 32948,
@@ -1789,7 +1557,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         },
         {
           "id": 32927,
@@ -1863,7 +1631,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "4"
         },
         {
           "id": 32930,
@@ -1908,7 +1676,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         },
         {
           "id": 32953,
@@ -2085,7 +1853,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "5"
         },
         {
           "id": 32938,
@@ -2256,7 +2024,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "180"
+          "viewers": "230"
         },
         {
           "id": 27496,
@@ -2285,7 +2053,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "17"
+          "viewers": "34"
         }
       ]
     },
@@ -2294,528 +2062,6 @@
       "id": 34,
       "always_live": false,
       "streams": [
-        {
-          "id": 32839,
-          "name": "Crystal Palace vs. Real Sociedad",
-          "tag": "Europa League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/a65190b7d0ea55b110d52c1aa154f853-thumbnail.jpg",
-          "blurhash": "L16bA,B^0j}#IVS%WEwt00]g~70@",
-          "colors": [
-            "#1b458f",
-            "#0033a0"
-          ],
-          "uri_name": "uel/2026-11-26/cry-rso",
-          "starts_at": 1795723200,
-          "ends_at": 1795732200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032839,
-              "name": "Crystal Palace vs. Real Sociedad",
-              "tag": "Europa League",
-              "uri_name": "uel/2026-11-26/cry-rso_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "252"
-        },
-        {
-          "id": 32840,
-          "name": "Ferencvaros vs. NK Celje",
-          "tag": "Europa League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/782407dcd10055f0a8b2a0a19e7d409e-thumbnail.jpg",
-          "blurhash": "LVDte.|pwNa$jZjZfQfk55JVX6W;",
-          "colors": [
-            "#e30613",
-            "#000099"
-          ],
-          "uri_name": "uel/2026-11-26/fer-nkc",
-          "starts_at": 1795723200,
-          "ends_at": 1795732200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032840,
-              "name": "Ferencvaros vs. NK Celje",
-              "tag": "Europa League",
-              "uri_name": "uel/2026-11-26/fer-nkc_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "10"
-        },
-        {
-          "id": 32841,
-          "name": "Juventus vs. Omonia Nicosia",
-          "tag": "Europa League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/03f6043445f42a077dc561ede8159e11-thumbnail.jpg",
-          "blurhash": "LcET||{+wJS1fQj[fQay5QJ*X8fk",
-          "colors": [
-            "#ee2020",
-            "#025719"
-          ],
-          "uri_name": "uel/2026-11-26/juv-omon",
-          "starts_at": 1795723200,
-          "ends_at": 1795732200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032841,
-              "name": "Juventus vs. Omonia Nicosia",
-              "tag": "Europa League",
-              "uri_name": "uel/2026-11-26/juv-omon_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "157"
-        },
-        {
-          "id": 32842,
-          "name": "Lyon vs. Lillestrom",
-          "tag": "Europa League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/cb211eb768dc9171d1188cf6f5526325-thumbnail.jpg",
-          "blurhash": "L5Iy?guyuWRf$%r@j@Sh00PtRDu4",
-          "colors": [
-            "#e30613",
-            "#e8e337"
-          ],
-          "uri_name": "uel/2026-11-26/lyon-lsk",
-          "starts_at": 1795723200,
-          "ends_at": 1795732200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032842,
-              "name": "Lyon vs. Lillestrom",
-              "tag": "Europa League",
-              "uri_name": "uel/2026-11-26/lyon-lsk_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "60"
-        },
-        {
-          "id": 32843,
-          "name": "NEC Nijmegen vs. Stade Rennais",
-          "tag": "Europa League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/14722cd59d2e12db07bf8433267f2102-thumbnail.jpg",
-          "blurhash": "L2HkL@3?@[qur?M{n%xu00:6C6yD",
-          "colors": [
-            "#c8102e",
-            "#e30613"
-          ],
-          "uri_name": "uel/2026-11-26/nec-ren",
-          "starts_at": 1795723200,
-          "ends_at": 1795732200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032843,
-              "name": "NEC Nijmegen vs. Stade Rennais",
-              "tag": "Europa League",
-              "uri_name": "uel/2026-11-26/nec-ren_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "29"
-        },
-        {
-          "id": 32844,
-          "name": "OFI Crete vs. Anderlecht",
-          "tag": "Europa League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/4e43c7091a72fce4bfd2e215c9f788f9-thumbnail.jpg",
-          "blurhash": "LeF=wP~ptPWBj[fPj[j[4-IVaeWC",
-          "colors": [
-            "#ffffff",
-            "#5c2d91"
-          ],
-          "uri_name": "uel/2026-11-26/ofi-and",
-          "starts_at": 1795723200,
-          "ends_at": 1795732200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032844,
-              "name": "OFI Crete vs. Anderlecht",
-              "tag": "Europa League",
-              "uri_name": "uel/2026-11-26/ofi-and_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "15"
-        },
-        {
-          "id": 32845,
-          "name": "Sparta Prague vs. AZ Alkmaar",
-          "tag": "Europa League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/23e8fe1612924c73b11350f1c8e0b79c-thumbnail.jpg",
-          "blurhash": "L6F2-l2ow0#SnibHjtf600|xX8xa",
-          "colors": [
-            "#791b29",
-            "#e4002b"
-          ],
-          "uri_name": "uel/2026-11-26/spp-az",
-          "starts_at": 1795723200,
-          "ends_at": 1795732200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032845,
-              "name": "Sparta Prague vs. AZ Alkmaar",
-              "tag": "Europa League",
-              "uri_name": "uel/2026-11-26/spp-az_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "22"
-        },
-        {
-          "id": 32846,
-          "name": "Sunderland vs. Jagiellonia Bialystok",
-          "tag": "Europa League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/913a4e1cc0f80dcd685da8c92b8c738f-thumbnail.jpg",
-          "blurhash": "L8J$iw8;uDkRs,affPkB03y#RDpF",
-          "colors": [
-            "#eb172b",
-            "#ffed00"
-          ],
-          "uri_name": "uel/2026-11-26/sun-jag",
-          "starts_at": 1795723200,
-          "ends_at": 1795732200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032846,
-              "name": "Sunderland vs. Jagiellonia Bialystok",
-              "tag": "Europa League",
-              "uri_name": "uel/2026-11-26/sun-jag_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "112"
-        },
-        {
-          "id": 32847,
-          "name": "Torreense vs. Celtic",
-          "tag": "Europa League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/994d5743cc9526aa0531997b0fcbaa22-thumbnail.jpg",
-          "blurhash": "L8Ameq.nt1?vofoLfQay00*Iog9F",
-          "colors": [
-            "#950025",
-            "#018749"
-          ],
-          "uri_name": "uel/2026-11-26/tor-cel",
-          "starts_at": 1795723200,
-          "ends_at": 1795732200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032847,
-              "name": "Torreense vs. Celtic",
-              "tag": "Europa League",
-              "uri_name": "uel/2026-11-26/tor-cel_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "100"
-        },
-        {
-          "id": 32848,
-          "name": "TSG Hoffenheim vs. SK Sturm Graz",
-          "tag": "Europa League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/334323383e1edb6880f7d6939e12e63c-thumbnail.jpg",
-          "blurhash": "LJDa[:3GwOR%afWVfQoe0J#jbYw_",
-          "colors": [
-            "#1961b5",
-            "#e30613"
-          ],
-          "uri_name": "uel/2026-11-26/tsg-stg",
-          "starts_at": 1795723200,
-          "ends_at": 1795732200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032848,
-              "name": "TSG Hoffenheim vs. SK Sturm Graz",
-              "tag": "Europa League",
-              "uri_name": "uel/2026-11-26/tsg-stg_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "31"
-        },
-        {
-          "id": 32859,
-          "name": "Borac Banja Luka vs. Atalanta",
-          "tag": "Conference League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/c694213f4f7272831cae3dc18a99f8e8-thumbnail.jpg",
-          "blurhash": "LOC#+C{]sERlkCj@fQaz4-JCX5kD",
-          "colors": [
-            "#c60000",
-            "#2d5cae"
-          ],
-          "uri_name": "uecl/2026-11-26/bbl-ata",
-          "starts_at": 1795723200,
-          "ends_at": 1795732200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032859,
-              "name": "Borac Banja Luka vs. Atalanta",
-              "tag": "Conference League",
-              "uri_name": "uecl/2026-11-26/bbl-ata_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "44"
-        },
-        {
-          "id": 32860,
-          "name": "Braga vs. KuPS Kuopio",
-          "tag": "Conference League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/c0cfae1f221adf3945106af2cc232f16-thumbnail.jpg",
-          "blurhash": "L0IBAf4$_OYUH;X.j?n400Yw4R*t",
-          "colors": [
-            "#de1f26",
-            "#e30613"
-          ],
-          "uri_name": "uecl/2026-11-26/scb-kups",
-          "starts_at": 1795723200,
-          "ends_at": 1795732200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032860,
-              "name": "Braga vs. KuPS Kuopio",
-              "tag": "Conference League",
-              "uri_name": "uecl/2026-11-26/scb-kups_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "8"
-        },
-        {
-          "id": 32861,
-          "name": "CSKA Sofia vs. Trabzonspor",
-          "tag": "Conference League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/d607f38ed8071ec40ebf446872d93121-thumbnail.jpg",
-          "blurhash": "LLDI9M_}t9NfoJj[fRf60dK8Wmoz",
-          "colors": [
-            "#c60000",
-            "#5699eb"
-          ],
-          "uri_name": "uecl/2026-11-26/cska-trab",
-          "starts_at": 1795723200,
-          "ends_at": 1795732200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032861,
-              "name": "CSKA Sofia vs. Trabzonspor",
-              "tag": "Conference League",
-              "uri_name": "uecl/2026-11-26/cska-trab_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "56"
-        },
-        {
-          "id": 32862,
-          "name": "FC Nordsjælland vs. Panathinaikos",
-          "tag": "Conference League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/90b6c982a031b5161d42bcc1d8801112-thumbnail.jpg",
-          "blurhash": "LKDuGC_*wctloJoKfQWW0LPAX8M_",
-          "colors": [
-            "#cf010e",
-            "#2b6a36"
-          ],
-          "uri_name": "uecl/2026-11-26/fcn-pao",
-          "starts_at": 1795723200,
-          "ends_at": 1795732200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032862,
-              "name": "FC Nordsjælland vs. Panathinaikos",
-              "tag": "Conference League",
-              "uri_name": "uecl/2026-11-26/fcn-pao_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "30"
-        },
-        {
-          "id": 32863,
-          "name": "Hajduk Split vs. Sint-Truidense",
-          "tag": "Conference League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/ea84f59f3ccdca514ec4ab39c95943ab-thumbnail.jpg",
-          "blurhash": "L4J=}X4l%;NBxan%fPWX00lqIv.8",
-          "colors": [
-            "#ee2020",
-            "#ffd100"
-          ],
-          "uri_name": "uecl/2026-11-26/haj-stvv",
-          "starts_at": 1795723200,
-          "ends_at": 1795732200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032863,
-              "name": "Hajduk Split vs. Sint-Truidense",
-              "tag": "Conference League",
-              "uri_name": "uecl/2026-11-26/haj-stvv_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "35"
-        },
-        {
-          "id": 32864,
-          "name": "Inter D'Escaldes vs. F.C. København",
-          "tag": "Conference League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/94e17583a62ec3bd770c33183b114f27-thumbnail.jpg",
-          "blurhash": "L7J6$@HXy?sqo}R+j[s.00UHMwl9",
-          "colors": [
-            "#ee2020",
-            "#ffffff"
-          ],
-          "uri_name": "uecl/2026-11-26/ide-kbh",
-          "starts_at": 1795723200,
-          "ends_at": 1795732200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032864,
-              "name": "Inter D'Escaldes vs. F.C. København",
-              "tag": "Conference League",
-              "uri_name": "uecl/2026-11-26/ide-kbh_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "6"
-        },
-        {
-          "id": 32865,
-          "name": "KAA Gent vs. Red Star Belgrade",
-          "tag": "Conference League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/1fc675f5cd4a849463793fb27b5483fc-thumbnail.jpg",
-          "blurhash": "LDE,He2v;4#+t7j[f6WV0d|FOroN",
-          "colors": [
-            "#0a1f44",
-            "#ff0000"
-          ],
-          "uri_name": "uecl/2026-11-26/gent-rsb",
-          "starts_at": 1795723200,
-          "ends_at": 1795732200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032865,
-              "name": "KAA Gent vs. Red Star Belgrade",
-              "tag": "Conference League",
-              "uri_name": "uecl/2026-11-26/gent-rsb_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "10"
-        },
-        {
-          "id": 32866,
-          "name": "SC Freiburg vs. FC Twente",
-          "tag": "Conference League",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/3c63b07d41c77aa3b05ae155b435ddec-thumbnail.jpg",
-          "blurhash": "L5Jpv1^5+x|xxajsfQjt00#SKM1]",
-          "colors": [
-            "#fd1220",
-            "#e1001a"
-          ],
-          "uri_name": "uecl/2026-11-26/scf-twe",
-          "starts_at": 1795723200,
-          "ends_at": 1795732200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032866,
-              "name": "SC Freiburg vs. FC Twente",
-              "tag": "Conference League",
-              "uri_name": "uecl/2026-11-26/scf-twe_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "61"
-        },
         {
           "id": 32867,
           "name": "FC Groningen vs. Willem II",
@@ -2901,7 +2147,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32784,
@@ -3191,7 +2437,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32768,
@@ -3336,7 +2582,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32868,
@@ -3945,7 +3191,7 @@
               "locale": "nl"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32788,
@@ -4793,7 +4039,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "4"
+          "viewers": "0"
         }
       ]
     },
@@ -5657,7 +4903,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "11"
+          "viewers": "10"
         }
       ]
     },
@@ -5693,7 +4939,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "5"
         },
         {
           "id": 32880,
@@ -5722,7 +4968,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32881,
@@ -5751,7 +4997,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         }
       ]
     },
@@ -5845,7 +5091,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "22"
+          "viewers": "21"
         },
         {
           "id": 5191,
@@ -5874,7 +5120,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "4"
         },
         {
           "id": 16623,
@@ -5903,7 +5149,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "6"
         },
         {
           "id": 17270,
@@ -5923,7 +5169,7 @@
           "locale": "en",
           "category_name": "24/7 Streams",
           "substreams": [],
-          "viewers": "1"
+          "viewers": "4"
         },
         {
           "id": 31729,
@@ -5952,7 +5198,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "4"
         },
         {
           "id": 31730,
@@ -5981,14 +5227,14 @@
               "locale": "en"
             }
           ],
-          "viewers": "2"
+          "viewers": "3"
         }
       ]
     }
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-26T22:04:19.044801+00:00",
+    "captured_utc": "2026-11-27T04:22:00.642764+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
