@@ -1,8 +1,8 @@
 {
   "success": true,
-  "timestamp": 1795872180,
+  "timestamp": 1795900090,
   "READ_ME": "Interested in using our API? Contact us for more information.",
-  "performance": 0.05602598190307617,
+  "performance": 0.03496193885803223,
   "streams": [
     {
       "category": "American Football",
@@ -36,155 +36,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
-        },
-        {
-          "id": 32726,
-          "name": "Notre Dame Fighting Irish at Syracuse Orange",
-          "tag": "College Football",
-          "source_tag": "HD | ABC",
-          "poster": "https://static.ppvservices.st/assets/thumb/59aa176a85de8afa8596d8c5ddca89a6-thumbnail.jpg",
-          "blurhash": "L6AlOy3KNG{ooLj?a}ja02:[xaBz",
-          "colors": [
-            "#062340",
-            "#000e54"
-          ],
-          "uri_name": "cfb/2026-11-28/nd-syr",
-          "starts_at": 1795885200,
-          "ends_at": 1795899600,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1032726,
-              "name": "Notre Dame Fighting Irish at Syracuse Orange",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-28/nd-syr_540p",
-              "source_tag": "SD | ABC",
-              "locale": "en"
-            },
-            {
-              "id": 32728,
-              "name": "Notre Dame Fighting Irish at Syracuse Orange",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-28/nd-syr/skycast",
-              "source_tag": "HD | SkyCast",
-              "locale": "en"
-            },
-            {
-              "id": 1032728,
-              "name": "Notre Dame Fighting Irish at Syracuse Orange",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-28/nd-syr/skycast_540p",
-              "source_tag": "SD | SkyCast",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32730,
-          "name": "Boston College Eagles at Miami Hurricanes",
-          "tag": "College Football",
-          "source_tag": "HD | ESPN",
-          "poster": "https://static.ppvservices.st/assets/thumb/99db668bcd232d81b865b4c9fadcc85c-thumbnail.jpg",
-          "blurhash": "L6Gir?0WR%]PsmWqa}jZ00}TxaK4",
-          "colors": [
-            "#8c2232",
-            "#f47423"
-          ],
-          "uri_name": "cfb/2026-11-28/bc-mia",
-          "starts_at": 1795885200,
-          "ends_at": 1795899600,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1032730,
-              "name": "Boston College Eagles at Miami Hurricanes",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-28/bc-mia_540p",
-              "source_tag": "SD | ESPN",
-              "locale": "en"
-            },
-            {
-              "id": 32731,
-              "name": "Boston College Eagles at Miami Hurricanes",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-28/bc-mia/skycast",
-              "source_tag": "HD | SkyCast",
-              "locale": "en"
-            },
-            {
-              "id": 1032731,
-              "name": "Boston College Eagles at Miami Hurricanes",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-28/bc-mia/skycast_540p",
-              "source_tag": "SD | SkyCast",
-              "locale": "en"
-            }
-          ],
-          "viewers": "1"
-        },
-        {
-          "id": 32733,
-          "name": "Michigan Wolverines at Ohio State Buckeyes",
-          "tag": "College Football",
-          "source_tag": "HD | Fox",
-          "poster": "https://static.ppvservices.st/assets/thumb/c850aea120817cc438a77607204d8227-thumbnail.jpg",
-          "blurhash": "L5DRNe3v:+5wnikCj[WB00IhTJ}N",
-          "colors": [
-            "#00274c",
-            "#ba0c2f"
-          ],
-          "uri_name": "cfb/2026-11-28/mich-osu",
-          "starts_at": 1795885200,
-          "ends_at": 1795899600,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1032733,
-              "name": "Michigan Wolverines at Ohio State Buckeyes",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-28/mich-osu_540p",
-              "source_tag": "SD | Fox",
-              "locale": "en"
-            }
-          ],
-          "viewers": "2"
-        },
-        {
-          "id": 32734,
-          "name": "Louisville Cardinals at Kentucky Wildcats",
-          "tag": "College Football",
-          "source_tag": "HD | ESPN2",
-          "poster": "https://static.ppvservices.st/assets/thumb/311b5a941602397266927e462c6f7545-thumbnail.jpg",
-          "blurhash": "LGC}q@_##q%hjbj@aykC00Y6SzE1",
-          "colors": [
-            "#c9001f",
-            "#0033a0"
-          ],
-          "uri_name": "cfb/2026-11-28/lou-uk",
-          "starts_at": 1795885200,
-          "ends_at": 1795899600,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "American Football",
-          "substreams": [
-            {
-              "id": 1032734,
-              "name": "Louisville Cardinals at Kentucky Wildcats",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-28/lou-uk_540p",
-              "source_tag": "SD | ESPN2",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
+          "viewers": "4"
         },
         {
           "id": 32736,
@@ -213,7 +65,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "256"
         },
         {
           "id": 32738,
@@ -258,7 +110,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "558"
         },
         {
           "id": 32741,
@@ -287,7 +139,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1235"
         },
         {
           "id": 32742,
@@ -316,7 +168,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "137"
         },
         {
           "id": 32743,
@@ -343,25 +195,9 @@
               "uri_name": "cfb/2026-11-28/duke-wake_540p",
               "source_tag": "SD | ESPN",
               "locale": "en"
-            },
-            {
-              "id": 32744,
-              "name": "Duke Blue Devils at Wake Forest Demon Deacons",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-28/duke-wake/skycast",
-              "source_tag": "HD | SkyCast",
-              "locale": "en"
-            },
-            {
-              "id": 1032744,
-              "name": "Duke Blue Devils at Wake Forest Demon Deacons",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-28/duke-wake/skycast_540p",
-              "source_tag": "SD | SkyCast",
-              "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "187"
         },
         {
           "id": 32745,
@@ -390,7 +226,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "32"
         },
         {
           "id": 32746,
@@ -448,7 +284,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32748,
@@ -475,25 +311,9 @@
               "uri_name": "cfb/2026-11-28/tenn-van_540p",
               "source_tag": "SD | ESPN",
               "locale": "en"
-            },
-            {
-              "id": 32749,
-              "name": "Tennessee Volunteers at Vanderbilt Commodores",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-28/tenn-van/skycast",
-              "source_tag": "HD | SkyCast",
-              "locale": "en"
-            },
-            {
-              "id": 1032749,
-              "name": "Tennessee Volunteers at Vanderbilt Commodores",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-28/tenn-van/skycast_540p",
-              "source_tag": "SD | SkyCast",
-              "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32750,
@@ -520,25 +340,9 @@
               "uri_name": "cfb/2026-11-28/aub-ala_540p",
               "source_tag": "SD | ABC",
               "locale": "en"
-            },
-            {
-              "id": 32751,
-              "name": "Auburn Tigers at Alabama Crimson Tide",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-28/aub-ala/skycast",
-              "source_tag": "HD | SkyCast",
-              "locale": "en"
-            },
-            {
-              "id": 1032751,
-              "name": "Auburn Tigers at Alabama Crimson Tide",
-              "tag": "College Football",
-              "uri_name": "cfb/2026-11-28/aub-ala/skycast_540p",
-              "source_tag": "SD | SkyCast",
-              "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "3"
         },
         {
           "id": 32752,
@@ -567,7 +371,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32753,
@@ -654,7 +458,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32692,
@@ -799,7 +603,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32701,
@@ -1016,7 +820,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "7"
         },
         {
           "id": 33026,
@@ -1151,7 +955,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 33032,
@@ -1196,7 +1000,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 33063,
@@ -1598,7 +1402,43 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
+        }
+      ]
+    },
+    {
+      "category": "Combat Sports",
+      "id": 33,
+      "always_live": false,
+      "streams": [
+        {
+          "id": 33084,
+          "name": "Agit Kabayel vs. Nelson Hysa",
+          "tag": "Boxing",
+          "source_tag": "HD | DAZN",
+          "poster": "https://static.ppvservices.st/assets/thumb/b6f09a7b0c2400a1211145b2fa1a41ad-thumbnail.jpg",
+          "blurhash": "LlJHBHW;R-R+~UWCozoJRPjsbwoe",
+          "colors": [
+            "#ddd5a7",
+            "#ddd4a9"
+          ],
+          "uri_name": "agit-kabayel-vs-nelson-hysa-33084",
+          "starts_at": 1795888800,
+          "ends_at": 1795910400,
+          "always_live": 0,
+          "locale": "en",
+          "category_name": "Combat Sports",
+          "substreams": [
+            {
+              "id": 1033084,
+              "name": "Agit Kabayel vs. Nelson Hysa",
+              "tag": "Boxing",
+              "uri_name": "agit-kabayel-vs-nelson-hysa-33084_540p",
+              "source_tag": "SD | DAZN",
+              "locale": "en"
+            }
+          ],
+          "viewers": "5684"
         }
       ]
     },
@@ -1666,7 +1506,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "47"
+          "viewers": "28"
         },
         {
           "id": 27496,
@@ -1695,7 +1535,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "17"
+          "viewers": "2"
         }
       ]
     },
@@ -1704,51 +1544,6 @@
       "id": 32,
       "always_live": false,
       "streams": [
-        {
-          "id": 33041,
-          "name": "Players Championship Finals | Day 2 Session 1",
-          "tag": "Darts",
-          "source_tag": "HD | Main Stage",
-          "poster": "https://static.ppvservices.st/assets/thumb/aaceb79bab84f3b63d778d5ec12c796b-thumbnail.jpg",
-          "blurhash": "LeN*wL}]$KE2K5#mNtWB4U$dxIS^",
-          "colors": [
-            "#de0510",
-            "#feed00"
-          ],
-          "uri_name": "players-championship-finals--day-2-session-1-33041",
-          "starts_at": 1795870800,
-          "ends_at": 1795885200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Darts",
-          "substreams": [
-            {
-              "id": 1033041,
-              "name": "Players Championship Finals | Day 2 Session 1",
-              "tag": "Darts",
-              "uri_name": "players-championship-finals--day-2-session-1-33041_540p",
-              "source_tag": "SD | Main Stage",
-              "locale": "en"
-            },
-            {
-              "id": 33042,
-              "name": "Players Championship Finals | Day 2 Session 1",
-              "tag": "Darts",
-              "uri_name": "players-championship-finals--day-2-session-1-33042",
-              "source_tag": "HD | Board 2",
-              "locale": "en"
-            },
-            {
-              "id": 1033042,
-              "name": "Players Championship Finals | Day 2 Session 1",
-              "tag": "Darts",
-              "uri_name": "players-championship-finals--day-2-session-1-33042_540p",
-              "source_tag": "SD | Board 2",
-              "locale": "en"
-            }
-          ],
-          "viewers": "187"
-        },
         {
           "id": 33043,
           "name": "Players Championship Finals | Day 2 Session 2",
@@ -1792,7 +1587,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "587"
         },
         {
           "id": 33045,
@@ -1892,441 +1687,6 @@
       "always_live": false,
       "streams": [
         {
-          "id": 32785,
-          "name": "Frosinone vs. Parma",
-          "tag": "Serie A",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/33a5ef85bcd88d2bd9f310beb5eb82ad-thumbnail.jpg",
-          "blurhash": "LYE.^4~JxBs.j[a#f6j?4oN2f-N2",
-          "colors": [
-            "#ffed00",
-            "#0033a0"
-          ],
-          "uri_name": "seriea/2026-11-28/fro-par",
-          "starts_at": 1795874400,
-          "ends_at": 1795883400,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032785,
-              "name": "Frosinone vs. Parma",
-              "tag": "Serie A",
-              "uri_name": "seriea/2026-11-28/fro-par_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "1"
-        },
-        {
-          "id": 32766,
-          "name": "FC Cologne vs. SV Elversberg",
-          "tag": "Bundesliga",
-          "source_tag": "HD | Bundesliga",
-          "poster": "https://static.ppvservices.st/assets/thumb/a22f3709259b2c353ebb40231b9d315b-thumbnail.jpg",
-          "blurhash": "LaFg2:{zv~ozjZjZfQfk0yOrbvRj",
-          "colors": [
-            "#fd1220",
-            "#000000"
-          ],
-          "uri_name": "bundesliga/2026-11-28/koe-elv",
-          "starts_at": 1795876200,
-          "ends_at": 1795885200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032766,
-              "name": "FC Cologne vs. SV Elversberg",
-              "tag": "Bundesliga",
-              "uri_name": "bundesliga/2026-11-28/koe-elv_540p",
-              "source_tag": "SD | Bundesliga",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32767,
-          "name": "Hamburg SV vs. Bayern Munich",
-          "tag": "Bundesliga",
-          "source_tag": "HD | Bundesliga",
-          "poster": "https://static.ppvservices.st/assets/thumb/3bf1cc475e9d0b0ca11bb47e1ee3e85f-thumbnail.jpg",
-          "blurhash": "L8D*Yc2{vM-BoMbHjtf600|=yDnN",
-          "colors": [
-            "#0a3f86",
-            "#dc052d"
-          ],
-          "uri_name": "bundesliga/2026-11-28/hsv-bay",
-          "starts_at": 1795876200,
-          "ends_at": 1795885200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032767,
-              "name": "Hamburg SV vs. Bayern Munich",
-              "tag": "Bundesliga",
-              "uri_name": "bundesliga/2026-11-28/hsv-bay_540p",
-              "source_tag": "SD | Bundesliga",
-              "locale": "en"
-            }
-          ],
-          "viewers": "1"
-        },
-        {
-          "id": 32768,
-          "name": "Mainz vs. 1. FC Union Berlin",
-          "tag": "Bundesliga",
-          "source_tag": "HD | Bundesliga",
-          "poster": "https://static.ppvservices.st/assets/thumb/08e017fd4051fcc4f281a7416251480f-thumbnail.jpg",
-          "blurhash": "L4IKbt0#L#-nw{juf6bG00^Py?R7",
-          "colors": [
-            "#c3141e",
-            "#eb1923"
-          ],
-          "uri_name": "bundesliga/2026-11-28/m05-fcu",
-          "starts_at": 1795876200,
-          "ends_at": 1795885200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032768,
-              "name": "Mainz vs. 1. FC Union Berlin",
-              "tag": "Bundesliga",
-              "uri_name": "bundesliga/2026-11-28/m05-fcu_540p",
-              "source_tag": "SD | Bundesliga",
-              "locale": "en"
-            }
-          ],
-          "viewers": "1"
-        },
-        {
-          "id": 32769,
-          "name": "SC Paderborn 07 vs. Schalke 04",
-          "tag": "Bundesliga",
-          "source_tag": "HD | Bundesliga",
-          "poster": "https://static.ppvservices.st/assets/thumb/9c2fdbbac823a1531bc37fb92bfd040e-thumbnail.jpg",
-          "blurhash": "LG5YatwUIWRjofj[fQayDgRh%Kt5",
-          "colors": [
-            "#0000dd",
-            "#004d9d"
-          ],
-          "uri_name": "bundesliga/2026-11-28/scp-s04",
-          "starts_at": 1795876200,
-          "ends_at": 1795885200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032769,
-              "name": "SC Paderborn 07 vs. Schalke 04",
-              "tag": "Bundesliga",
-              "uri_name": "bundesliga/2026-11-28/scp-s04_540p",
-              "source_tag": "SD | Bundesliga",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32775,
-          "name": "Leeds United vs. Coventry City",
-          "tag": "Premier League",
-          "source_tag": "HD | Premier League",
-          "poster": "https://static.ppvservices.st/assets/thumb/f8f0ed69e05130db2b835f86f253c8a1-thumbnail.jpg",
-          "blurhash": "L49[AV00OXx0nmayazj?00%%xZt*",
-          "colors": [
-            "#1d428a",
-            "#6bb1e0"
-          ],
-          "uri_name": "pl/2026-11-28/lee-cov",
-          "starts_at": 1795878000,
-          "ends_at": 1795887000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032775,
-              "name": "Leeds United vs. Coventry City",
-              "tag": "Premier League",
-              "uri_name": "pl/2026-11-28/lee-cov_540p",
-              "source_tag": "SD | Premier League",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32776,
-          "name": "Manchester United vs. Brentford",
-          "tag": "Premier League",
-          "source_tag": "HD | Premier League",
-          "poster": "https://static.ppvservices.st/assets/thumb/a65cb5f3a6ead596260b0307183f2056-thumbnail.jpg",
-          "blurhash": "L4JE0a0vq]Y8xGjsaya}00toTdzn",
-          "colors": [
-            "#da020e",
-            "#ef0107"
-          ],
-          "uri_name": "pl/2026-11-28/mun-bre",
-          "starts_at": 1795878000,
-          "ends_at": 1795887000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032776,
-              "name": "Manchester United vs. Brentford",
-              "tag": "Premier League",
-              "uri_name": "pl/2026-11-28/mun-bre_540p",
-              "source_tag": "SD | Premier League",
-              "locale": "en"
-            }
-          ],
-          "viewers": "24"
-        },
-        {
-          "id": 32757,
-          "name": "Málaga vs. Athletic Club",
-          "tag": "LaLiga",
-          "source_tag": "HD | ESPN+",
-          "poster": "https://static.ppvservices.st/assets/thumb/f86df93a58ee3da62206427d90d2c49b-thumbnail.jpg",
-          "blurhash": "LJD*@w3Z$9xbt7jYf6bI0J,nX5iw",
-          "colors": [
-            "#0088ce",
-            "#e30613"
-          ],
-          "uri_name": "laliga/2026-11-28/mcf-ath",
-          "starts_at": 1795878900,
-          "ends_at": 1795887900,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032757,
-              "name": "Málaga vs. Athletic Club",
-              "tag": "LaLiga",
-              "uri_name": "laliga/2026-11-28/mcf-ath_540p",
-              "source_tag": "SD | ESPN+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32868,
-          "name": "Excelsior vs. Telstar",
-          "tag": "Eredivisie",
-          "source_tag": "HD | ESPN",
-          "poster": "https://static.ppvservices.st/assets/thumb/859c681aa8b1c911c155e0a4d2870fd0-thumbnail.jpg",
-          "blurhash": "LICh]N}nn5IUbHa|a|js00IVo|tR",
-          "colors": [
-            "#a6192e",
-            "#1d3c8c"
-          ],
-          "uri_name": "eredivisie/2026-11-28/exc-tel",
-          "starts_at": 1795879800,
-          "ends_at": 1795888800,
-          "always_live": 0,
-          "locale": "nl",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032868,
-              "name": "Excelsior vs. Telstar",
-              "tag": "Eredivisie",
-              "uri_name": "eredivisie/2026-11-28/exc-tel_540p",
-              "source_tag": "SD | ESPN",
-              "locale": "nl"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32786,
-          "name": "Torino vs. Lazio",
-          "tag": "Serie A",
-          "source_tag": "HD | Paramount+",
-          "poster": "https://static.ppvservices.st/assets/thumb/914b6c2cd69cb1b4b6441717d7400099-thumbnail.jpg",
-          "blurhash": "L9B|plL#FGO@xaoff6WB00Yk-pxa",
-          "colors": [
-            "#670e36",
-            "#87ceeb"
-          ],
-          "uri_name": "seriea/2026-11-28/tor-laz",
-          "starts_at": 1795885200,
-          "ends_at": 1795894200,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032786,
-              "name": "Torino vs. Lazio",
-              "tag": "Serie A",
-              "uri_name": "seriea/2026-11-28/tor-laz_540p",
-              "source_tag": "SD | Paramount+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32758,
-          "name": "Elche vs. Atlético Madrid",
-          "tag": "LaLiga",
-          "source_tag": "HD | ESPN+",
-          "poster": "https://static.ppvservices.st/assets/thumb/f2a5bbfb0ca987eff6e0ad607aef36a6-thumbnail.jpg",
-          "blurhash": "LMJF;z?*otWZkCoKf6WW03N3W?V@",
-          "colors": [
-            "#ffcc00",
-            "#ce3524"
-          ],
-          "uri_name": "laliga/2026-11-28/elc-atm",
-          "starts_at": 1795887000,
-          "ends_at": 1795896000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032758,
-              "name": "Elche vs. Atlético Madrid",
-              "tag": "LaLiga",
-              "uri_name": "laliga/2026-11-28/elc-atm_540p",
-              "source_tag": "SD | ESPN+",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32770,
-          "name": "VfB Stuttgart vs. Eintracht Frankfurt",
-          "tag": "Bundesliga",
-          "source_tag": "HD | Bundesliga",
-          "poster": "https://static.ppvservices.st/assets/thumb/dad2d9c62b0a877aa862155a48122e79-thumbnail.jpg",
-          "blurhash": "L4JXa,kQQ8#?%3t8juRj00r_uiN=",
-          "colors": [
-            "#e30613",
-            "#e1000f"
-          ],
-          "uri_name": "bundesliga/2026-11-28/vfb-sge",
-          "starts_at": 1795887000,
-          "ends_at": 1795896000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032770,
-              "name": "VfB Stuttgart vs. Eintracht Frankfurt",
-              "tag": "Bundesliga",
-              "uri_name": "bundesliga/2026-11-28/vfb-sge_540p",
-              "source_tag": "SD | Bundesliga",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32777,
-          "name": "Ipswich Town vs. Aston Villa",
-          "tag": "Premier League",
-          "source_tag": "HD | Premier League",
-          "poster": "https://static.ppvservices.st/assets/thumb/9bba3de78469510daa16d430545984c2-thumbnail.jpg",
-          "blurhash": "LC9%rOG1WFpHxZf8f6kA00t0t6VZ",
-          "colors": [
-            "#0e63ad",
-            "#670e36"
-          ],
-          "uri_name": "pl/2026-11-28/ips-avl",
-          "starts_at": 1795887000,
-          "ends_at": 1795896000,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032777,
-              "name": "Ipswich Town vs. Aston Villa",
-              "tag": "Premier League",
-              "uri_name": "pl/2026-11-28/ips-avl_540p",
-              "source_tag": "SD | Premier League",
-              "locale": "en"
-            }
-          ],
-          "viewers": "1"
-        },
-        {
-          "id": 32807,
-          "name": "Charlotte FC vs. Chicago Fire FC",
-          "tag": "MLS",
-          "source_tag": "HD | Apple TV",
-          "poster": "https://static.ppvservices.st/assets/thumb/f924e08089b39bdf94a94ed2c5ab8e83-thumbnail.jpg",
-          "blurhash": "L8C#x:0z#9-;ofbHayay00}[XlMd",
-          "colors": [
-            "#1c2c5b",
-            "#ce1432"
-          ],
-          "uri_name": "mls/2026-11-28/clt-chi",
-          "starts_at": 1795887000,
-          "ends_at": 1795897800,
-          "always_live": 0,
-          "locale": "en",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032807,
-              "name": "Charlotte FC vs. Chicago Fire FC",
-              "tag": "MLS",
-              "uri_name": "mls/2026-11-28/clt-chi_540p",
-              "source_tag": "SD | Apple TV",
-              "locale": "en"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
-          "id": 32869,
-          "name": "PSV Eindhoven vs. Go Ahead Eagles",
-          "tag": "Eredivisie",
-          "source_tag": "HD | ESPN",
-          "poster": "https://static.ppvservices.st/assets/thumb/e61ce8ed456e9d637f261691f2570c12-thumbnail.jpg",
-          "blurhash": "L8I.8Q}bicInnhaLf6of00E0cEx]",
-          "colors": [
-            "#ed1c24",
-            "#d81e05"
-          ],
-          "uri_name": "eredivisie/2026-11-28/psv-gae",
-          "starts_at": 1795887900,
-          "ends_at": 1795896900,
-          "always_live": 0,
-          "locale": "nl",
-          "category_name": "Football",
-          "substreams": [
-            {
-              "id": 1032869,
-              "name": "PSV Eindhoven vs. Go Ahead Eagles",
-              "tag": "Eredivisie",
-              "uri_name": "eredivisie/2026-11-28/psv-gae_540p",
-              "source_tag": "SD | ESPN",
-              "locale": "nl"
-            }
-          ],
-          "viewers": "0"
-        },
-        {
           "id": 32808,
           "name": "Houston Dynamo FC vs. San Jose Earthquakes",
           "tag": "MLS",
@@ -2353,7 +1713,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "118"
         },
         {
           "id": 32787,
@@ -2382,7 +1742,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "595"
         },
         {
           "id": 32759,
@@ -2411,7 +1771,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "12131"
         },
         {
           "id": 32870,
@@ -2440,7 +1800,7 @@
               "locale": "nl"
             }
           ],
-          "viewers": "0"
+          "viewers": "27"
         },
         {
           "id": 32809,
@@ -2469,7 +1829,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "7"
         },
         {
           "id": 32810,
@@ -2498,7 +1858,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32811,
@@ -2556,7 +1916,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32871,
@@ -2643,7 +2003,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "0"
         },
         {
           "id": 32760,
@@ -2701,7 +2061,7 @@
               "locale": "nl"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 32873,
@@ -3020,7 +2380,7 @@
               "locale": "nl"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32801,
@@ -3194,7 +2554,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32875,
@@ -3281,7 +2641,7 @@
               "locale": "fr"
             }
           ],
-          "viewers": "0"
+          "viewers": "1"
         },
         {
           "id": 32763,
@@ -3433,7 +2793,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "3"
         },
         {
           "id": 33050,
@@ -3462,7 +2822,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "328"
         },
         {
           "id": 33051,
@@ -3491,7 +2851,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "2"
         },
         {
           "id": 33052,
@@ -3810,7 +3170,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "0"
+          "viewers": "7"
         }
       ]
     },
@@ -3855,288 +3215,6 @@
       "id": 35,
       "always_live": false,
       "streams": [
-        {
-          "id": 32976,
-          "name": "Qatar Grand Prix - Practice 3",
-          "tag": "Formula 1",
-          "source_tag": "HD | Sky Sports F1",
-          "poster": "https://static.ppvservices.st/assets/thumb/0087ef7a8d6791f399ba9331b5bc407a-thumbnail.jpg",
-          "blurhash": "L89s-oDi^7I.~W0K$+oy$PnOw|t6",
-          "colors": [
-            "#050608",
-            "#d9d9d1"
-          ],
-          "uri_name": "f1/2026/qatar/fp3",
-          "starts_at": 1795876200,
-          "ends_at": 1795883400,
-          "always_live": 0,
-          "locale": "en-gb",
-          "category_name": "Motorsports",
-          "substreams": [
-            {
-              "id": 1032976,
-              "name": "Qatar Grand Prix - Practice 3",
-              "tag": "Formula 1",
-              "uri_name": "f1/2026/qatar/fp3_540p",
-              "source_tag": "SD | Sky Sports F1",
-              "locale": "en-gb"
-            },
-            {
-              "id": 32978,
-              "name": "Qatar Grand Prix - Practice 3",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---practice-3-32978",
-              "source_tag": "HD | Apple TV (F1TV)",
-              "locale": "en-us"
-            },
-            {
-              "id": 1032978,
-              "name": "Qatar Grand Prix - Practice 3",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---practice-3-32978_540p",
-              "source_tag": "SD | Apple TV (F1TV)",
-              "locale": "en-us"
-            },
-            {
-              "id": 32980,
-              "name": "Qatar Grand Prix - Practice 3",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---practice-3-32980",
-              "source_tag": "HD | DAZN F1",
-              "locale": "es"
-            },
-            {
-              "id": 1032980,
-              "name": "Qatar Grand Prix - Practice 3",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---practice-3-32980_540p",
-              "source_tag": "SD | DAZN F1",
-              "locale": "es"
-            },
-            {
-              "id": 32981,
-              "name": "Qatar Grand Prix - Practice 3",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---practice-3-32981",
-              "source_tag": "HD | Sky Sport F1",
-              "locale": "de"
-            },
-            {
-              "id": 1032981,
-              "name": "Qatar Grand Prix - Practice 3",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---practice-3-32981_540p",
-              "source_tag": "SD | Sky Sport F1",
-              "locale": "de"
-            },
-            {
-              "id": 32983,
-              "name": "Qatar Grand Prix - Practice 3",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---practice-3-32983",
-              "source_tag": "HD | V Sport Motor",
-              "locale": "sv"
-            },
-            {
-              "id": 1032983,
-              "name": "Qatar Grand Prix - Practice 3",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---practice-3-32983_540p",
-              "source_tag": "SD | V Sport Motor",
-              "locale": "sv"
-            },
-            {
-              "id": 32984,
-              "name": "Qatar Grand Prix - Practice 3",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---practice-3-32984",
-              "source_tag": "HD | Viaplay",
-              "locale": "nl"
-            },
-            {
-              "id": 1032984,
-              "name": "Qatar Grand Prix - Practice 3",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---practice-3-32984_540p",
-              "source_tag": "SD | Viaplay",
-              "locale": "nl"
-            },
-            {
-              "id": 32985,
-              "name": "Qatar Grand Prix - Practice 3",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---practice-3-32985",
-              "source_tag": "HD | Nova Sport 5",
-              "locale": "cs"
-            },
-            {
-              "id": 1032985,
-              "name": "Qatar Grand Prix - Practice 3",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---practice-3-32985_540p",
-              "source_tag": "SD | Nova Sport 5",
-              "locale": "cs"
-            },
-            {
-              "id": 32986,
-              "name": "Qatar Grand Prix - Practice 3",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---practice-3-32986",
-              "source_tag": "HD | Eleven Sports 1",
-              "locale": "pl"
-            },
-            {
-              "id": 1032986,
-              "name": "Qatar Grand Prix - Practice 3",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---practice-3-32986_540p",
-              "source_tag": "SD | Eleven Sports 1",
-              "locale": "pl"
-            }
-          ],
-          "viewers": "37"
-        },
-        {
-          "id": 32987,
-          "name": "Qatar Grand Prix - Qualifying",
-          "tag": "Formula 1",
-          "source_tag": "HD | Sky Sports F1",
-          "poster": "https://static.ppvservices.st/assets/thumb/a4966426c08bd8f2cec00a2993758683-thumbnail.jpg",
-          "blurhash": "L89s-oDi^QI.~W0K$+oy$PnOw|t6",
-          "colors": [
-            "#050608",
-            "#d9d9d1"
-          ],
-          "uri_name": "f1/2026/qatar/qualifying",
-          "starts_at": 1795888800,
-          "ends_at": 1795896000,
-          "always_live": 0,
-          "locale": "en-gb",
-          "category_name": "Motorsports",
-          "substreams": [
-            {
-              "id": 1032987,
-              "name": "Qatar Grand Prix - Qualifying",
-              "tag": "Formula 1",
-              "uri_name": "f1/2026/qatar/qualifying_540p",
-              "source_tag": "SD | Sky Sports F1",
-              "locale": "en-gb"
-            },
-            {
-              "id": 32989,
-              "name": "Qatar Grand Prix - Qualifying",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---qualifying-32989",
-              "source_tag": "HD | Apple TV (F1TV)",
-              "locale": "en-us"
-            },
-            {
-              "id": 1032989,
-              "name": "Qatar Grand Prix - Qualifying",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---qualifying-32989_540p",
-              "source_tag": "SD | Apple TV (F1TV)",
-              "locale": "en-us"
-            },
-            {
-              "id": 32991,
-              "name": "Qatar Grand Prix - Qualifying",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---qualifying-32991",
-              "source_tag": "HD | DAZN F1",
-              "locale": "es"
-            },
-            {
-              "id": 1032991,
-              "name": "Qatar Grand Prix - Qualifying",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---qualifying-32991_540p",
-              "source_tag": "SD | DAZN F1",
-              "locale": "es"
-            },
-            {
-              "id": 32992,
-              "name": "Qatar Grand Prix - Qualifying",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---qualifying-32992",
-              "source_tag": "HD | Sky Sport F1",
-              "locale": "de"
-            },
-            {
-              "id": 1032992,
-              "name": "Qatar Grand Prix - Qualifying",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---qualifying-32992_540p",
-              "source_tag": "SD | Sky Sport F1",
-              "locale": "de"
-            },
-            {
-              "id": 32994,
-              "name": "Qatar Grand Prix - Qualifying",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---qualifying-32994",
-              "source_tag": "HD | V Sport Motor",
-              "locale": "sv"
-            },
-            {
-              "id": 1032994,
-              "name": "Qatar Grand Prix - Qualifying",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---qualifying-32994_540p",
-              "source_tag": "SD | V Sport Motor",
-              "locale": "sv"
-            },
-            {
-              "id": 32995,
-              "name": "Qatar Grand Prix - Qualifying",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---qualifying-32995",
-              "source_tag": "HD | Viaplay",
-              "locale": "nl"
-            },
-            {
-              "id": 1032995,
-              "name": "Qatar Grand Prix - Qualifying",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---qualifying-32995_540p",
-              "source_tag": "SD | Viaplay",
-              "locale": "nl"
-            },
-            {
-              "id": 32996,
-              "name": "Qatar Grand Prix - Qualifying",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---qualifying-32996",
-              "source_tag": "HD | Nova Sport 5",
-              "locale": "cs"
-            },
-            {
-              "id": 1032996,
-              "name": "Qatar Grand Prix - Qualifying",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---qualifying-32996_540p",
-              "source_tag": "SD | Nova Sport 5",
-              "locale": "cs"
-            },
-            {
-              "id": 32997,
-              "name": "Qatar Grand Prix - Qualifying",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---qualifying-32997",
-              "source_tag": "HD | Eleven Sports 1",
-              "locale": "pl"
-            },
-            {
-              "id": 1032997,
-              "name": "Qatar Grand Prix - Qualifying",
-              "tag": "Formula 1",
-              "uri_name": "qatar-grand-prix---qualifying-32997_540p",
-              "source_tag": "SD | Eleven Sports 1",
-              "locale": "pl"
-            }
-          ],
-          "viewers": "1"
-        },
         {
           "id": 32998,
           "name": "Qatar Grand Prix - Race",
@@ -4276,7 +3354,7 @@
               "locale": "pl"
             }
           ],
-          "viewers": "0"
+          "viewers": "4"
         }
       ]
     },
@@ -4312,7 +3390,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "6"
         }
       ]
     },
@@ -4348,7 +3426,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "67"
+          "viewers": "10"
         }
       ]
     },
@@ -4420,7 +3498,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "13"
+          "viewers": "16"
         },
         {
           "id": 3663,
@@ -4449,7 +3527,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "1"
+          "viewers": "0"
         },
         {
           "id": 8008,
@@ -4478,7 +3556,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "24"
+          "viewers": "17"
         },
         {
           "id": 5191,
@@ -4507,7 +3585,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "5"
+          "viewers": "4"
         },
         {
           "id": 16623,
@@ -4536,7 +3614,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "6"
+          "viewers": "5"
         },
         {
           "id": 17270,
@@ -4556,7 +3634,7 @@
           "locale": "en",
           "category_name": "24/7 Streams",
           "substreams": [],
-          "viewers": "2"
+          "viewers": "1"
         },
         {
           "id": 31729,
@@ -4585,7 +3663,7 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "11"
         },
         {
           "id": 31730,
@@ -4614,14 +3692,14 @@
               "locale": "en"
             }
           ],
-          "viewers": "3"
+          "viewers": "7"
         }
       ]
     }
   ],
   "_backup": {
     "source": "https://api.ppv.st/api/streams",
-    "captured_utc": "2026-11-28T13:22:55.342542+00:00",
+    "captured_utc": "2026-11-28T21:08:04.585787+00:00",
     "note": "Metadata snapshot only. Third-party iframe/playback URLs intentionally excluded."
   }
 }
